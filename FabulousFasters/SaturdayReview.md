@@ -1,12 +1,12 @@
 # Fabulous Fasters Saturday Review
 
-Join us this Saturday for our third meeting of the Fabulous Fasters Saturday Review.
+####  Join us each Saturday for our Fabulous Fasters Saturday Review.
 
 When: ==Saturday 11 AM Eastern / 10 Central / 9 Mountain / 8 Pacific==
 
-Where: [Zoom (link below)](#Join Zoom Meeting)
+Where: ==**Zoom Review CLICK HERE** ➜== https://us02web.zoom.us/j/85220846334?pwd=n1SgD7MBfYIlI1YaavhWPN59MbdfVi.1
 
-What: ==Review chapters 2 & 3 of the book "Good Energy" by Casey Means MD==
+What: ==Review chapters 5 of the book "Good Energy" by Casey Means MD==
 
 #### Future Topics
 
@@ -31,21 +31,21 @@ What: ==Review chapters 2 & 3 of the book "Good Energy" by Casey Means MD==
    - Why We Get Sick, Ben Bickman PhD
    - Others? (let us know)
 
-#### Past Topics
+#### Meeting format
+
+1. As you join (11 AM Eastern), please say hello, tell us how you are doing, and share your current top goal.
+2. We will discuss the book or video casually. Please read or view it, but don't let the lack thereof keep you from attending. We will summarize and review its aspects.
+
+## Past Topics
 
    Date    |  #  | Topic | Comments 
 :--------: | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 10/26/2024 |  5  | Tucker Carlson interview with Calley & Casey Means MD titled How Big Pharma Keeps Us Sick https://tuckercarlson.com/tucker-show-casey-calley-means | Good conversation on various topics. Also pointed to other interviews (Dr. Boz and Joe Rogan) 
 11/01/2024 |  4  | Good Energy, Intro & Chapter 1 | Focused discussion. Ten factors affecting us on page 15. Three keys to understanding page 22. Five things we can measure page 23. 
 
-#### Calendar
-
-Please download and import the following iCalendar (.ics) files to your calendar system.
-Weekly: https://us02web.zoom.us/meeting/tZEvdemgqj0pGdCz1mTJ32V48QyBs06pcQAB/ics?icsToken=98tyKuGtrDkqEtCTsxqDRpwMAIjoc_zwiCFejad-hk7oNwoAMDWibtNbEKEvRsjT&meetingMasterEventId=St_99a3kS5-iCYQBHyu95w
-
 #### Join Zoom Meeting
 
-==CLICK HERE --->== https://us02web.zoom.us/j/85220846334?pwd=n1SgD7MBfYIlI1YaavhWPN59MbdfVi.1
+==**CLICK HERE** ➜== https://us02web.zoom.us/j/85220846334?pwd=n1SgD7MBfYIlI1YaavhWPN59MbdfVi.1
 
 Meeting ID: 852 2084 6334
 Passcode: 226784
