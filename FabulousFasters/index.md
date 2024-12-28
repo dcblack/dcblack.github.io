@@ -1,5 +1,7 @@
 # [🏠 Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html)
 
+<meta http-equiv="refresh" content="10">
+
 ## GroupMe Chats (Google)
 
 Post your status, goals, questions, and tips here.
