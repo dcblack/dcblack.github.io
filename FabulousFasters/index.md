@@ -1,6 +1,10 @@
 # [🏠 Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html)
 
 <meta http-equiv="refresh" content="10">
+<meta property="og:title" content="Fabulous Fasters">
+<meta property="og:description" content="Resources for our private group.">
+<meta property="og:image" content="https://dcblack.github.io/FabulousFasters/fasting.jpg">
+<meta property="og:url" content="https://dcblack.github.io/FabulousFasters/index.html">
 
 ## GroupMe Chats (Google)
 
