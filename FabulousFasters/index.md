@@ -1,4 +1,4 @@
-# Fabulous Fasters (home)
+# [🏠 Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html)
 
 ## GroupMe Chats (Google)
 
@@ -13,13 +13,17 @@ Post your status, goals, questions, and tips here.
 - [Weekly Checkin](https://dcblack.github.io/FabulousFasters/WeeklyCheckin.html)
 - [Saturday Review](https://dcblack.github.io/FabulousFasters/SaturdayReview.html)
 
+## Resources
 
+Let me know if you have something to contribute here (a link or a document).
+
+[Holiday Treat Recipes](https://dcblack.github.io/FabulousFasters/Resources/Holiday_treats.zip)
 
 ## History
 
 #### December changes
 
-New website organization: https://dcblack.github.io/FabulousFasters/
+New website organization: https://dcblack.github.io/FabulousFasters/. Refining contents.
 
 #### November Changes
 
@@ -29,5 +33,5 @@ We changed the Zoom link so I can take over. See [Weekly Checkin](https://dcblac
 
 Also, I formally introduced a bit more structure to the meeting format. I hope you like this; however, I am open to suggestions. See above.
 
-Finally, the [Saturday Review](https://dcblack.github.io/FabulousFasters/SaturdayReview.html) will continue as is. Its primary focus is review; however, I would like a quick one-minute status & goal to be part of it. So, the format is similar but with a different emphasis:
+Finally, the [Saturday Review](https://dcblack.github.io/FabulousFasters/SaturdayReview.html) will continue as is. Its primary focus is review; however, I would like a quick one-minute status & goal to be part of it. So, the format is similar but with a different emphasis.
 
