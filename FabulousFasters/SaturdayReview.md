@@ -6,42 +6,50 @@ When: ==Saturday 11 AM Eastern / 10 Central / 9 Mountain / 8 Pacific==
 
 Where: ==**Zoom Review CLICK HERE** ➜== https://us02web.zoom.us/j/85220846334?pwd=n1SgD7MBfYIlI1YaavhWPN59MbdfVi.1
 
-What: ==Review chapters 5 of the book "Good Energy" by Casey Means MD==
+What: Review topic list below, and make ready to vote on one or tell about something missed.
 
 #### Future Topics
 
-   - Blind Spots, Marty Makary MD
+   - [ ] Blind Spots, Marty Makary MD
 
-   - Brain Energy, Christopher Palmer MD
+   - [ ] Brain Energy, Christopher Palmer MD
 
-   - Dark Calories, Catherine Shanahan MD
+   - [ ] Dark Calories, Catherine Shanahan MD
 
-   - Drop Acid, David Perlmutter MD
+   - [ ] Drop Acid, David Perlmutter MD
 
-   - Good Energy, Casy Means MD
+   - [x] [Good Energy, Casy Means MD](https://www.caseymeans.com/) [Completed 1/25/2025]
 
-   - Iodine Why You Need It, David Brownstein MD
+   - [ ] Iodine Why You Need It, David Brownstein MD [^!]
 
-   - Keto Continuum, Annette Bosworth MD
+   - [ ] Keto Continuum, Annette Bosworth MD [^!]
 
-   - Lies I Taught in Medical School, Robert Lufkin MD
+   - [ ] Lies I Taught in Medical School, Robert Lufkin MD
 
-   - Nature Wants Us To Be Fat, Richard Johnson MD
+   - [ ] Nature Wants Us To Be Fat, Richard Johnson MD
 
-   - Why We Get Sick, Ben Bickman PhD
-   - Others? (let us know)
+   - [ ] Why We Get Sick, Ben Bickman PhD
+   - [ ] Why We Sleep, Matthew Walker PhD [^!]
+   - [ ] Others? (let us know)
+
+Click image below to visit the poll to determine our next book: 
+
+[![img](SaturdayReview.assets/og_picture.jpg)](https://www.menti.com/alk6ohgky69i)
+
+[^!]: High interest
 
 #### Meeting format
 
-1. As you join (11 AM Eastern), please say hello, tell us how you are doing, and share your current top goal.
+1. As you join, please say hello, tell us how you are doing, and share your current top goal.
 2. We will discuss the book or video casually. Please read or view it, but don't let the lack thereof keep you from attending. We will summarize and review its aspects.
 
 ## Past Topics
 
-   Date    |  #  | Topic | Comments 
+   Dates   |  #  | Topic | Comments 
 :--------: | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-10/26/2024 |  5  | Tucker Carlson interview with Calley & Casey Means MD titled How Big Pharma Keeps Us Sick https://tuckercarlson.com/tucker-show-casey-calley-means | Good conversation on various topics. Also pointed to other interviews (Dr. Boz and Joe Rogan) 
-11/01/2024 |  4  | Good Energy, Intro & Chapter 1 | Focused discussion. Ten factors affecting us on page 15. Three keys to understanding page 22. Five things we can measure page 23. 
+10/26/2024 |    | Tucker Carlson interview with Calley & Casey Means MD titled How Big Pharma Keeps Us Sick https://tuckercarlson.com/tucker-show-casey-calley-means | Good conversation on various topics. Also pointed to other interviews (Dr. Boz and Joe Rogan) 
+11/01/2024 - 01/25/2025 |    | Good Energy, Intro & Chapter 1 thru Chapter 9. Download resources [HERE](https://www.caseymeans.com/goodenergy#materials). | Focused discussions. Many factors affecting us. Go thru the checklists. Try the recipes. 
+02/08/2025 |  | ? TBD ? |  
 
 #### Join Zoom Meeting
 
