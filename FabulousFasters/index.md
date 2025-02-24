@@ -1,4 +1,12 @@
+---
+title: Fabulous Fasters Home Page;
+subject: Health & Fasting
+author: David C Black
+contacts: dcblack@mac.com
+---
 # [🏠 Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html)
+
+[Updated 2025-February-24]
 
 <meta http-equiv="refresh" content="10">
 <meta property="og:title" content="Fabulous Fasters">
@@ -23,7 +31,10 @@ Post your status, goals, questions, and tips here.
 
 Let me know if you have something to contribute here (a link or a document).
 
-[Holiday Treat Recipes](https://dcblack.github.io/FabulousFasters/Resources/Holiday_treats.zip)
+1. [Caffeine](https://dcblack.github.io/FabulousFasters/Resources/Caffeine.html) [[pdf]](https://dcblack.github.io/FabulousFasters/Resources/Caffeine.pdf)
+1. [Determining your circadian rhythm](https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.html) [[pdf](https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.pdf)]
+1. [Experts Supporting Keto n Carnivore](https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.html) [[pdf]](https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.pdf)
+1. Holiday Treat Recipes [[zip]](https://dcblack.github.io/FabulousFasters/Resources/Holiday_treats.zip)
 
 ## History
 
@@ -40,4 +51,3 @@ We changed the Zoom link so I can take over. See [Weekly Checkin](https://dcblac
 Also, I formally introduced a bit more structure to the meeting format. I hope you like this; however, I am open to suggestions. See above.
 
 Finally, the [Saturday Review](https://dcblack.github.io/FabulousFasters/SaturdayReview.html) will continue as is. Its primary focus is review; however, I would like a quick one-minute status & goal to be part of it. So, the format is similar but with a different emphasis.
-
