@@ -10,7 +10,7 @@ What: Review topic list below, and make ready to vote on one or tell about somet
 
 #### Future Topics
 
-   - [ ] Blind Spots, Marty Makary MD
+   - [x] Blind Spots, Marty Makary MD
 
    - [ ] Brain Energy, Christopher Palmer MD
 
@@ -49,7 +49,7 @@ Click image below to visit the poll to determine our next book:
 :--------: | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 10/26/2024 |    | Tucker Carlson interview with Calley & Casey Means MD titled How Big Pharma Keeps Us Sick https://tuckercarlson.com/tucker-show-casey-calley-means | Good conversation on various topics. Also pointed to other interviews (Dr. Boz and Joe Rogan) 
 11/01/2024 - 01/25/2025 |    | Good Energy, Intro & Chapter 1 thru Chapter 9. Download resources [HERE](https://www.caseymeans.com/goodenergy#materials). | Focused discussions. Many factors affecting us. Go thru the checklists. Try the recipes. 
-02/08/2025 |  | ? TBD ? |  
+02/08/2025 |  | Why We Sleep |
 
 #### Join Zoom Meeting
 
