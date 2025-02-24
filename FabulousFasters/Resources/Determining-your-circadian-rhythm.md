@@ -9,7 +9,7 @@ contacts: dcblack@mac.com
 
 [Updated 2025-February-24]
 
-<h2>Table of Contents</h2><a href="toc"/>
+<a name="toc"></a><h2>Table of Contents</h2>
 
 [toc]
 
@@ -27,7 +27,7 @@ Consistent sleep schedules, reducing blue light exposure before bedtime, and cre
 
 If you need more specific guidance, you can use a test like the TimeSignature test, which offers insights into your body's internal clock compared to external time.6
 
-[Back to Table of Contents](#Table of Contents)
+[Back to Table of Contents](#toc)
 
 # Using Oura Ring to determine your Circadian Rhythm
 
@@ -41,7 +41,7 @@ The Oura Ring has introduced several features to help users better understand an
 
 These features are designed to help users work with their natural circadian rhythms, which can lead to better sleep quality, improved energy levels, and overall better health. The Oura Ring's circadian rhythm tracking is a significant step forward in personalized health and wellness tracking.
 
-[Back to Table of Contents](#Table of Contents)
+[Back to Table of Contents](#toc)
 
 # Using Apple Watch to determine your Circadian Rhythm
 
@@ -55,7 +55,7 @@ Apple Watch has introduced several features to help users track and understand t
 
 These features and apps can help users better understand and manage their circadian rhythms, improving their health, energy, and overall well-being.
 
-[Back to Table of Contents](#Table of Contents)
+[Back to Table of Contents](#toc)
 
 # Using iPhone to determine your Circadian Rhythm
 
@@ -98,7 +98,7 @@ Using just an iPhone, you can still gain insights into your circadian rhythm and
 
 By using these built-in features and third-party apps, you can gain valuable insights into your circadian rhythm and make adjustments to improve your sleep and overall health.
 
-[Back to Table of Contents](#Table of Contents)
+[Back to Table of Contents](#toc)
 
 # Using Android phone to determine your Circadian Rhythm
 
