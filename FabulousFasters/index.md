@@ -6,13 +6,15 @@ contacts: dcblack@mac.com
 ---
 # [🏠 Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html)
 
-[Updated 2025-February-24]
+[Updated 2025-March-10]
 
 <meta http-equiv="refresh" content="10">
 <meta property="og:title" content="Fabulous Fasters">
 <meta property="og:description" content="Resources for our private group.">
 <meta property="og:image" content="https://dcblack.github.io/FabulousFasters/fasting.jpg">
 <meta property="og:url" content="https://dcblack.github.io/FabulousFasters/index.html">
+
+Who are the Fabulous Fasters? A small support group of individuals that took Dr. Annette Bosworth's course, "21-Day Metabolic Kick". We meet weekly via Zoom to share our successes and challenges.
 
 ## GroupMe Chats (Google)
 
@@ -21,13 +23,12 @@ Post your status, goals, questions, and tips here.
 ==**CLICK HERE** ➜== https://web.groupme.com/chats
 
 
-
 ## Meetings
 
 - [Weekly Checkin](https://dcblack.github.io/FabulousFasters/WeeklyCheckin.html)
 - [Saturday Review](https://dcblack.github.io/FabulousFasters/SaturdayReview.html)
 
-## Resources
+## Fabulous Faster Resources
 
 Let me know if you have something to contribute here (a link or a document).
 
@@ -35,6 +36,7 @@ Let me know if you have something to contribute here (a link or a document).
 1. [Determining your circadian rhythm](https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.html) [[pdf](https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.pdf)]
 1. [Experts Supporting Keto n Carnivore](https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.html) [[pdf]](https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.pdf)
 1. Holiday Treat Recipes [[zip]](https://dcblack.github.io/FabulousFasters/Resources/Holiday_treats.zip)
+1. [Magnesium information](https://dcblack.github.io/FabulousFasters/Resources/Magnesium.html) [[pdf](https://dcblack.github.io/FabulousFasters/Resources/Magnesium.pdf)]
 
 ## History
 
