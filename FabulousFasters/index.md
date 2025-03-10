@@ -28,7 +28,7 @@ Post your status, goals, questions, and tips here.
 - [Weekly Checkin](https://dcblack.github.io/FabulousFasters/WeeklyCheckin.html)
 - [Saturday Review](https://dcblack.github.io/FabulousFasters/SaturdayReview.html)
 
-## Fabulous Faster Resources
+## Fabulous Faster [Resources](https://dcblack.github.io/FabulousFasters/Resources/index.html)
 
 Let me know if you have something to contribute here (a link or a document).
 
