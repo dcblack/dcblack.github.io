@@ -38,7 +38,7 @@ tags:
 
 # Experts on Keto & Carnivore
 
-[Updated 2025-March-18]
+[Updated 2025-March-19]
 
 <h2>Table of Contents</h2><a name="toc"></a>
 
@@ -218,12 +218,14 @@ The following books are all from my personal library. I own either Audible, Kind
 
 > [!NOTE]
 >
-> Category labels:
+> Category labels (may be combined):
 >
 > - **(B)**rain issues & Sleep
 > - **(C)**ancer
+> - **(c)**arnivore lifestyle
 > - **(D)**iabetes, Prediabetes, Insulinemia & Metabolism
 > - **(E)**strogen & Women's issues
+> - **(k)**etogenic lifestyle
 > - **(L)**ies - Drugs, Food & Medical
 > - **(H)**eart & Cardiovascular Disease 
 > - **(K)**etosis, Autophagy & Fasting
@@ -280,6 +282,7 @@ The following books are all from my personal library. I own either Audible, Kind
 - **(L) Video 1:12:26 -** Dr Westman [Big Pharma Lies: What They Don't Want You to Know About Statins with Dave Feldman](https://www.youtube.com/watch?v=tKWaS9-8zLQ)
 - **(L) Video 1:15:59 ★★★-** Dr Boz [**SHOW THIS TO YOUR DOCTOR!** What Physicians Need to Know About the Ketogenic Diet](https://youtu.be/WtcK8lZV1AM?si=cadfge58QArkvEkK)
 - **(L) Video 24:59 -** Dr Brewer [Watch This Video Before Stopping Baby Aspirin](https://youtu.be/9VQtnHAakwQ?si=Hmk2EnCV6FoYpr_j)
+- **(L) Video 30:33 -** [Massive Data Leaked...3 Stunning Carnivore Studies Retrieved](https://youtu.be/vjhX400AQG4?si=aA82XrI6H5vfCR00)
 - **(L) Video 47:46 -** Dr Brewer [Big Food's Dirty Secret Exposed! ft. Dr. Lustig](https://www.youtube.com/watch?v=0l3o-MZl4ts&t=0) 
 - **(L) Video 56:51 -** Dr Berry [Why Dieticians Give Bad Advice](https://www.youtube.com/live/5DMN5kAXQT4?si=fdNJoSfDLx1GwlnS)
 - **(W) Video 12:23 -** Dr Boz [72 Hour Fast Benefits, How it Effects Norepinephrine](https://www.youtube.com/watch?v=PRcTrRrcupg)
