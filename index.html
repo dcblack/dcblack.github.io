@@ -1,8 +1,10 @@
 <!doctype html>
-<html style='font-size:16px !important'>
+<html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-
+<meta charset="UTF-8" content="">
+<meta name="author" content="">
+<meta name="description" content="">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
@@ -30,8 +32,8 @@ img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
 button, input, select, textarea { color: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; }
 input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; position: relative; }
+#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; }
 p { line-height: inherit; }
 h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
 p { orphans: 4; }
@@ -161,6 +163,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .md-fences.md-fences-math { font-size: 1em; }
 .md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
 .md-fences-advanced:not(.md-focus) { background: inherit; }
+.mermaid-svg { margin: auto; }
 .typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
 .typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
 .typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
@@ -231,14 +234,14 @@ mjx-container { break-inside: avoid; }
     /* open-sans-700 - latin-ext_latin */
     /* open-sans-700italic - latin-ext_latin */
   html {
-    font-size: 12px;
+    font-size: 16px;
     -webkit-font-smoothing: antialiased;
 }
 
 body {
     font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
     color: rgb(51, 51, 51);
-    line-height: 1.2;
+    line-height: 1.6;
 }
 
 #write {
@@ -612,52 +615,79 @@ header, .context-menu, .megamenu-content, footer{
  */
 
 body {
-  font-size: large;
-  /*
-  background-image: url(file:///Users/dcblack/Library/Application%20Support/abnerworks.Typora/themes/github.user/doulos.png);
-  background-size: 150px;
-  */
-  /* width: 300px;
-  */
+    font-size: large;
+    /*
+    background-image: url(file:///Users/dcblack/Library/Application%20Support/abnerworks.Typora/themes/github.user/doulos.png);
+    background-size: 150px;
+    */
+    /* width: 300px;
+    */
 }
 
 table {
-  width: 100%;
-  border: 2px solid black;
+    width: 100%;
+    border: 2px solid black;
 }
 
-.auto table { width: auto; }
-.table2 tr { width: 50%; }
-.table3 tr { width: 33%; }
-.table4 tr { width: 25%; }
-.table5 tr { width: 20%; }
-.table6 tr { width: 17%; }
+.auto table {
+    width: auto;
+}
+
+.table2 tr {
+    width: 50%;
+}
+
+.table3 tr {
+    width: 33%;
+}
+
+.table4 tr {
+    width: 25%;
+}
+
+.table5 tr {
+    width: 20%;
+}
+
+.table6 tr {
+    width: 17%;
+}
 
 
 th {
-  background: Cyan;
+    background: Cyan;
 }
 
 h1 {
-  border-top: 1px solid black;
-  color: DarkOrange;
+    border-top: 1px solid black;
+    color: DarkOrange;
 }
 
 h2 {
-  color: DodgerBlue;
-}
-h3 {
-  color: LimeGreen;
+    color: DodgerBlue;
 }
 
- @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
-</style><title>index</title>
+h3 {
+    color: LimeGreen;
+}
+
+.md-toc-h4 {
+    display: none;
+}
+.md-toc-h5 {
+    display: none;
+}
+.md-toc-h6 {
+    display: none;
+} @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
+</style><title>David C Black</title>
 </head>
 <body class='typora-export'><div class='typora-export-content'>
 <div id='write'  class=''><h1 id='🏠-david-c-black'><a href='https://dcblack.github.io/index.html'><span>🏠 David C Black</span></a></h1><meta http-equiv="refresh" content="10">
 <meta property="og:title" content="David C Black">
 <meta property="og:description" content="My homepage">
 <meta property="og:image" content="https://dcblack.github.io/index.assets/dcblack.jpg">
-<meta property="og:url" content="https://dcblack.github.io/index.html"><p><img src="index.assets/dcblack.jpg" alt="dcblack" style="zoom:10%;" /></p><p>&nbsp;</p></div></div>
+<meta property="og:url" content="https://dcblack.github.io/index.html"><p><img src="index.assets/dcblack.jpg" alt="dcblack" style="zoom:10%;" />
+<span>&lt;link rel=”shortcut icon” href =“images/favicon.ico”&gt;</span></p></div></div>
 </body>
 </html>

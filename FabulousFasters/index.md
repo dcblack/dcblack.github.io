@@ -3,6 +3,9 @@ title: Fabulous Fasters Home Page;
 subject: Health & Fasting
 author: David C Black
 contacts: dcblack@mac.com
+html:
+  head: |
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
 ---
 # [🏠 Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html)
 

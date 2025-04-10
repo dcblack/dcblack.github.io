@@ -1,3 +1,9 @@
+---
+title: David C Black
+html:
+  head: |
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+---
 # [🏠 David C Black](https://dcblack.github.io/index.html)
 
 <meta http-equiv="refresh" content="10">
@@ -7,3 +13,4 @@
 <meta property="og:url" content="https://dcblack.github.io/index.html">
 
 <img src="index.assets/dcblack.jpg" alt="dcblack" style="zoom:10%;" />
+<link rel=”shortcut icon” href =“images/favicon.ico”>
