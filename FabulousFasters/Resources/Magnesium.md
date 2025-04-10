@@ -14,7 +14,7 @@ plugins:
 ---
 # Understanding Magnesium Supplements
 
-[Updated 2025-March-19]
+[Updated 2025-April-3]
 
 Magnesium is essential for the human body and research shows that most people do not get enough in their diet. This is partially because we used to get a lot from foods we eat. Animals get it from plants, but agricultural methods have depleted the soils and so there is less magnesium available for plants. Thus supplementation may be necessary.
 
