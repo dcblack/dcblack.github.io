@@ -83,6 +83,8 @@ I do have a few biases. I value practicing MDs over DOs. I also value bonafide P
 
 Finally, I may change my mind over time.
 
+◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+
 ## What topics are addressed?
 
 The experts in this document address cures for the following diseases (alphabetically organized), which they consider metabolic and avoidable/curable without or minimal drugs or surgery.
@@ -111,6 +113,8 @@ The experts in this document address cures for the following diseases (alphabeti
 >
 > DISCLAIMER: I am not a medical doctor; nothing in this should be taken as medical advice. Everything presented is merely the results of my research. You should never begin a lifestyle program without consulting your doctor, and you should never change medications without first getting professional advice on the potential pros and cons for you as an individual. In any event, you are responsible for your health. Don't expect anyone to cure you.
 
+◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+
 # Categories
 
 I've labeled a lot of material herein as part of a category. Most items are not isolated to a particular category and indeed many could be assigned to multiple categories. Some could even cross all categories; however, I've tried to label them with what I consider their primary focus. Here is a list of the categories:
@@ -134,6 +138,8 @@ Category labels (may be combined):
 - **(X)**ercising, Weight lifting, HIIT, Aerobic
 - **(W)**eight-loss
 - **(*)** this means most categories seem to apply
+
+◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
 ---
 
@@ -191,6 +197,8 @@ The following personalities have reasonable evidence substantiating their claims
 44. [**Dr Eric Westman ★**](#Dr Eric Westman ★), Professor www.ericwestmanmd.com
 45. [**Dr Anthony Youn**](#Dr Anthony Youn), Plastic surgeon focused on collagen (5-types)
 
+◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+
 ### Questionable
 
 The following have made statements that seem suspicious to me. They appear to be more about selling a product than sharing information. Avoid these marked with ✘.
@@ -213,7 +221,7 @@ The following books are all from my personal library. I own either Audible, Kind
 
    - (K) [Autophagy in Health and Disease](https://a.co/d/cVe9sw7), Beverly A Rothermel PhD and Abhinav Diwan MBBS
 
-   - (L) [Blind Spots](https://a.co/d/8Ylpp8l) ★, Marty Makary, MD
+   - (F) [Blind Spots](https://a.co/d/8Ylpp8l) ★, Marty Makary, MD
 
    - (B) [Brain Energy](https://a.co/d/i1s8okR), Christopher Palmer, MD
 
@@ -223,11 +231,11 @@ The following books are all from my personal library. I own either Audible, Kind
 
    - (T) [Common Sense Labs (Blood Labs Demystified)](https://a.co/d/30O8QQd), Ken Berry, MD & Kim Howerton
 
-   - (L) [Dark Calories](https://a.co/d/cCf2ila), Catherine Shanahan, MD
+   - (F) [Dark Calories](https://a.co/d/cCf2ila), Catherine Shanahan, MD
 
    - (D) [Drop Acid](https://a.co/d/9DuLOKd), David Perlmutter, MD
 
-   - (L) [Good Energy ★, Casy Means, MD](https://www.caseymeans.com/)
+   - (F) [Good Energy ★, Casy Means, MD](https://www.caseymeans.com/)
 
    - [Iodine Why You Need It, Why You Can't Live Without It](https://a.co/d/bpJtFmu), David Brownstein, MD
 
@@ -237,9 +245,9 @@ The following books are all from my personal library. I own either Audible, Kind
 
    - (K) [KetoCONTINUUM: Consistently Keto For Life](https://a.co/d/7vQ9tcY) ★, Annette Bosworth, MD
 
-   - (L) [Lies I Taught in Medical School](https://a.co/d/49qwZ14), Robert Lufkin, MD
+   - (F) [Lies I Taught in Medical School](https://a.co/d/49qwZ14), Robert Lufkin, MD
 
-   - (L) [Lies My Doctor Told Me](https://a.co/d/11d6oIa) ★, Ken D Berry, MD
+   - (F) [Lies My Doctor Told Me](https://a.co/d/11d6oIa) ★, Ken D Berry, MD
 
    - (W) [Nature Wants Us To Be Fat](https://a.co/d/2lvccrh), Richard Johnson, MD
 
@@ -361,6 +369,8 @@ This section contains references to scientific articles on the topics.
 - (B) [Ketogenic Diet As A Metabolic Treatment For Mental Illness](https://pubmed.ncbi.nlm.nih.gov/32773571/)
 - (B) [Turmeric Affects On Liver](https://www.amjmed.com/article/S0002-9343(22)00740-9/fulltext)
 - (B) [Statin Effects On A Low Carb Diet](https://pubmed.ncbi.nlm.nih.gov/35938780/)
+
+◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
 --------------------------------------------------------------------------------
 
