@@ -151,51 +151,54 @@ See [References](#Personality Details) for details.
 
 The following personalities have reasonable evidence substantiating their claims. They have demonstrated a meticulous understanding of the science and are generally well-versed in the topics they discuss. I strive to identify those who make evidence-based claims and seem more interested in disseminating knowledge than promoting products. I do not claim they are without error or bias, but they seem credible. There are some disagreements, but that is healthy. I've marked my favorites with ★. Click on the name to obtain more details. They are sorted by last name:
 
-1. [**Dr Eric Berg DC**](#Dr Eric Berg DC), focused on educating the public https://drberg.co
-2. [**Dr Richard K Bernstein, MD**](#Dr Richard K Bernstein, MD), General practitioner
-3. [**Dr Ken D Berry, MD ★**](#Dr Ken Berry, MD ★) Down to earth doctor www.drberry.com
-4. [**Dr Ben Bikman ★**](#Dr Ben Bikman ★), the =="Fat Scientist"==, Professor and Director of Diabetes Research Lab at Brigham Young University https://insuliniq.com
-5. [**Dr Annette Bozworth, MD ★**](#Dr Annette Bozworth, MD ★), Internal Medicine focussed on metabolic health and brain health www.bozmd.com
-6. [**Dr Ford Brewer, MD ★**](#Dr Ford Brewer, MD ★), preventive & occupational medicine specialist https://prevmedhealth.com/
-7. [**Dr Anthony Chaffee, MD ★**](#Dr Anthony Chaffee, MD ★), neurosurgeon and functional medicine practitioner 
-8. [**Dr Robert Cywes, MD ★**](#Dr Robert Cywes, MD ★), surgeon with bariatric specialty
-9. [**Dominic D'Agostino, PhD ★**](#Dominic D'Agostino, PhD ★), professor and researcher into ketogenic diets
-10. [**Dr William Davis, MD**](#Dr William Davis, MD), cardiologist, low-carbohydrate diet advocate and author of health books
-11. [**Thomas DeLauer**](#Thomas DeLauer), Health Coach & Body Builder
-12. [**Dr Katie Deming, MD**](#Dr Katie Deming, MD), Oncologist [Links](https://linktr.ee/drkatiedeming)
-13. [**Dr Sten Ekberg ★**](#Dr Sten Ekberg ★) Chiropractor [http://www.DrEkberg.com](http://www.DrEkberg.com)
-14. [**Dave Feldman**](#Dave Feldman), Researcher into Cholesterol https://cholesterolcode.com/about/
-15. [**Dr Gary Fettke, MD**](#Dr Gary Fettke, MD), Australian Orthopedic surgeon
-16. [**Dr Ken Ford, PhD**](#Dr Ken Ford PhD ) https://u.osu.edu/ketodiet/speaker-bios/ken-ford-phd/
-17. [**Dr Kevin Foray, MD**](#Dr Kevin Foray, MD), Internal Medicine [https://kevinforeymd.com/insulin-resi...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkV0aG1IcWJ0LVZDMHVNMHF6M2JWN2ZDbDk0QXxBQ3Jtc0tsZWxCQldTSDhSTzJrN2ZhcmtJc0ZRa1EtbGJwSVV4X3dwNzdQbjI1XzRrNDhqTkRraUQ1dXdqYzU0WEEtUFRCeEVtWVlnVlpPZzJwbUJ0eXkyNHlKNjFDdWNEWG9fM0FzNnVBZW13b2JIRjREWmNBMA&q=https%3A%2F%2Fkevinforeymd.com%2Finsulin-resistance%2F&v=jq50sqWZW7E)
-18. [**Dr Jason Fung, MD ★**](#Dr Jason Fung, MD ★), Nephrologist www.thefastingmethod.com
-19. [**Dr Becky Gillaspy, DC**](#Dr Becky Gillaspy, DC), Chiropractor, https://drbeckyfitness.com
-20. [**Dr Sasha Gominak**](#Dr Sasha Gominak), Neurologist and sleep expert
-21. [**Dr Joan Ifland, PhD**](#Dr Joan Ifland, PhD), Researcher specializing in food addiction
-22. [**Dr Richard Johnson**](#Dr Richard Johnson), Professor at University of Colorado focused on obesity and diabetes https://drrichardjohnson.com/
-23. [**Dr Chris Knobbe, MD**](#Dr Chris Knobbe, MD, opthalmologist)
-24. [**Dr Robert Lufkin, MD**](#Dr Robert Lufkin, MD), Professor UCLA 
-25. [**Dr Robert Lustig, MD**](#Dr Robert Lustig, MD), Pediatric neuroendicrinologist https://robertlustig.com/ studies metabolism
-26. [**Dr Daniel Maggs GP**](#Dr Daniel Maggs GP), British General Practitioner, https://drdanmaggs.com
-27. [**Dr Marty Makary, MD ★**](#Dr Marty Makary, MD★), Health researcher and author
-28. [**Kerry & Jen Mann**](#Kerry & Jen Mann), HomeSteadHow family
-29. [**Dr Paul Mason, MD**](#Dr Paul Mason, MD)
-30. [**Dr Casey Means, MD ★**](#Dr Casey Means, MD ★), Surgeon
-31. [**Professor Tim Noaks**](Professor Tim Noaks), South African research scientist
-32. [**Dr Nick Norwitz, MD PhD**](#Dr Nick Norwitz, MD PhD), Metabolic researcher-educator
-33. [**Dr Seam O'Mara, MD JD**](#https://www.youtube.com/@DrSeanOMara), focuses on visceral fat
-34. [**Dr Philip Ovadia, MD**](#Dr Philip Ovadia, MD), Heart Surgeon https://ifixhearts.com/about-me
-35. [**Dr Chris Palmer, MD**](#Dr Chris Palmer, MD), Director of Metabolic and Mental Health Program https://www.chrispalmermd.com/
-36. [**Dr Mindy Pelz DO**](#Dr Mindy Pelz, MD), Chiropractor focused on women's health
-37. [**Dr David Perlmutter, MD**](#Dr David Perlmutter, MD), Neurologist
-38. [**Dhru Purohit**](#Dhru Purohit),health blogger
-39. [**Dr Thomas N. Seyfried PhD ★**](#Dr Thomas N. Seyfried PHD ★), Professor of Biology focussed on ==cancer==  www.tomseyfried.com
-40. [**Dr Catherine Shanahan, MD ★**](#Dr Cate Shanahan, MD ★), family physician and biochemistry genetics expert https://drcate.com/
-41. [**Dr David Unwin, MD ★**](#Dr David Unwin, MD ★), British physician focusing on diabetes 
-42. [**Dr Matt Walker PhD ★**](#Dr Matt Walker PhD ★), British neuroscientist and psychologist known for his research on sleep
-43. [**Dr Amy West, MD**](#Dr Amy West, MD), Sports Medicine https://www.northwell.edu/find-care/find-a-doctor/dr-amy-m-west-md-11382009
-44. [**Dr Eric Westman ★**](#Dr Eric Westman ★), Professor www.ericwestmanmd.com
-45. [**Dr Anthony Youn**](#Dr Anthony Youn), Plastic surgeon focused on collagen (5-types)
+1. [**Dave Asprey**](#Dave Asprey), Biohacking/fasting/aging promoter
+2. [**Dr Eric Berg DC**](#Dr Eric Berg DC), focused on educating the public https://drberg.co
+3. [**Dr Richard K Bernstein, MD**](#Dr Richard K Bernstein, MD), General practitioner
+4. [**Dr Ken D Berry, MD ★**](#Dr Ken Berry, MD ★) Down to earth doctor www.drberry.com
+5. [**Dr Ben Bikman ★**](#Dr Ben Bikman ★), the =="Fat Scientist"==, Professor and Director of Diabetes Research Lab at Brigham Young University https://insuliniq.com
+6. [**Dr Annette Bozworth, MD ★**](#Dr Annette Bozworth, MD ★), Internal Medicine focussed on metabolic health and brain health www.bozmd.com
+7. [**Dr Ford Brewer, MD ★**](#Dr Ford Brewer, MD ★), preventive & occupational medicine specialist https://prevmedhealth.com/
+8. [**Dr Anthony Chaffee, MD ★**](#Dr Anthony Chaffee, MD ★), neurosurgeon and functional medicine practitioner 
+9. [**Dr Robert Cywes, MD ★**](#Dr Robert Cywes, MD ★), surgeon with bariatric specialty
+10. [**Dominic D'Agostino, PhD ★**](#Dominic D'Agostino, PhD ★), professor and researcher into ketogenic diets
+11. [**Dr William Davis, MD**](#Dr William Davis, MD), cardiologist, low-carbohydrate diet advocate and author of health books
+12. [**Thomas DeLauer**](#Thomas DeLauer), Health Coach & Body Builder
+13. [**Dr Katie Deming, MD**](#Dr Katie Deming, MD), Oncologist [Links](https://linktr.ee/drkatiedeming)
+14. [**Dr Georgia Ede**](#Dr Georgia Ede), psychologist
+15. [**Dr Sten Ekberg ★**](#Dr Sten Ekberg ★) Chiropractor [http://www.DrEkberg.com](http://www.DrEkberg.com)
+16. [**Dave Feldman**](#Dave Feldman), Researcher into Cholesterol https://cholesterolcode.com/about/
+17. [**Dr Gary Fettke, MD**](#Dr Gary Fettke, MD), Australian Orthopedic surgeon
+18. [**Dr Ken Ford, PhD**](#Dr Ken Ford PhD ) https://u.osu.edu/ketodiet/speaker-bios/ken-ford-phd/
+19. [**Dr Kevin Foray, MD**](#Dr Kevin Foray, MD), Internal Medicine [https://kevinforeymd.com/insulin-resi...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkV0aG1IcWJ0LVZDMHVNMHF6M2JWN2ZDbDk0QXxBQ3Jtc0tsZWxCQldTSDhSTzJrN2ZhcmtJc0ZRa1EtbGJwSVV4X3dwNzdQbjI1XzRrNDhqTkRraUQ1dXdqYzU0WEEtUFRCeEVtWVlnVlpPZzJwbUJ0eXkyNHlKNjFDdWNEWG9fM0FzNnVBZW13b2JIRjREWmNBMA&q=https%3A%2F%2Fkevinforeymd.com%2Finsulin-resistance%2F&v=jq50sqWZW7E)
+20. [**Dr Jason Fung, MD ★**](#Dr Jason Fung, MD ★), Nephrologist www.thefastingmethod.com
+21. [**Dr Becky Gillaspy, DC**](#Dr Becky Gillaspy, DC), Chiropractor, https://drbeckyfitness.com
+22. [**Dr Sasha Gominak**](#Dr Sasha Gominak), Neurologist and sleep expert
+23. [**Dr Joan Ifland, PhD**](#Dr Joan Ifland, PhD), Researcher specializing in food addiction
+24. [**Dr Richard Johnson**](#Dr Richard Johnson), Professor at University of Colorado focused on obesity and diabetes https://drrichardjohnson.com/
+25. [**Dr Chris Knobbe, MD**](#Dr Chris Knobbe, MD), opthalmologist
+26. [**Dr Donald Layman**](#Dr Donald Layman)
+27. [**Dr Robert Lufkin, MD**](#Dr Robert Lufkin, MD), Professor UCLA 
+28. [**Dr Robert Lustig, MD**](#Dr Robert Lustig, MD), Pediatric neuroendicrinologist https://robertlustig.com/ studies metabolism
+29. [**Dr Daniel Maggs GP**](#Dr Daniel Maggs GP), British General Practitioner, https://drdanmaggs.com
+30. [**Dr Marty Makary, MD ★**](#Dr Marty Makary, MD★), Health researcher and author
+31. [**Kerry & Jen Mann**](#Kerry & Jen Mann), HomeSteadHow family
+32. [**Dr Paul Mason, MD**](#Dr Paul Mason, MD)
+33. [**Dr Casey Means, MD ★**](#Dr Casey Means, MD ★), Surgeon
+34. [**Professor Tim Noaks**](Professor Tim Noaks), South African research scientist
+35. [**Dr Nick Norwitz, MD PhD**](#Dr Nick Norwitz, MD PhD), Metabolic researcher-educator
+36. [**Dr Seam O'Mara, MD JD**](#https://www.youtube.com/@DrSeanOMara), focuses on visceral fat
+37. [**Dr Philip Ovadia, MD**](#Dr Philip Ovadia, MD), Heart Surgeon https://ifixhearts.com/about-me
+38. [**Dr Chris Palmer, MD**](#Dr Chris Palmer, MD), Director of Metabolic and Mental Health Program https://www.chrispalmermd.com/
+39. [**Dr Mindy Pelz DO**](#Dr Mindy Pelz, MD), Chiropractor focused on women's health
+40. [**Dr David Perlmutter, MD**](#Dr David Perlmutter, MD), Neurologist
+41. [**Dhru Purohit**](#Dhru Purohit),health blogger
+42. [**Dr Thomas N. Seyfried PhD ★**](#Dr Thomas N. Seyfried PhD ★), Professor of Biology focussed on ==cancer==  www.tomseyfried.com
+43. [**Dr Catherine Shanahan, MD ★**](#Dr Cate Shanahan, MD ★), family physician and biochemistry genetics expert https://drcate.com/
+44. [**Dr David Unwin, MD ★**](#Dr David Unwin, MD ★), British physician focusing on diabetes 
+45. [**Dr Matt Walker PhD ★**](#Dr Matt Walker PhD ★), British neuroscientist and psychologist known for his research on sleep
+46. [**Dr Amy West, MD**](#Dr Amy West, MD), Sports Medicine https://www.northwell.edu/find-care/find-a-doctor/dr-amy-m-west-md-11382009
+47. [**Dr Eric Westman ★**](#Dr Eric Westman ★), Professor www.ericwestmanmd.com
+48. [**Dr Anthony Youn**](#Dr Anthony Youn), Plastic surgeon focused on collagen (5-types)
 
 ◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
@@ -217,43 +220,31 @@ The following have made statements that seem suspicious to me. They appear to be
 
 The following books are all from my personal library. I own either Audible, Kindle or Hard copy for all of these. In some cases, I have all three formats and have read or listened to them multiple times.
 
-   - (C) [Any Way You Can](https://a.co/d/hMcGZb4) ★, Annette Bosworth, MD
-
-   - (K) [Autophagy in Health and Disease](https://a.co/d/cVe9sw7), Beverly A Rothermel PhD and Abhinav Diwan MBBS
-
-   - (F) [Blind Spots](https://a.co/d/8Ylpp8l) ★, Marty Makary, MD
 
    - (B) [Brain Energy](https://a.co/d/i1s8okR), Christopher Palmer, MD
-
-   - (C) [Cancer as a Metabolic Disease](https://a.co/d/7eqRuc7), [Thomas Seyfried
-
-   - [(B) Change Your Diet, Change Your Mind: https://amzn.to/4csAYmd](#Dr Thomas N. Seyfried PHD)
-
-   - (T) [Common Sense Labs (Blood Labs Demystified)](https://a.co/d/30O8QQd), Ken Berry, MD & Kim Howerton
-
-   - (F) [Dark Calories](https://a.co/d/cCf2ila), Catherine Shanahan, MD
-
-   - (D) [Drop Acid](https://a.co/d/9DuLOKd), David Perlmutter, MD
-
-   - (F) [Good Energy ★, Casy Means, MD](https://www.caseymeans.com/)
-
-   - [Iodine Why You Need It, Why You Can't Live Without It](https://a.co/d/bpJtFmu), David Brownstein, MD
-
-   - (K) [Keto Flex](https://a.co/d/hRHIipT), Ben Azadi
-
-   - (K) [Ketogenic: The Science of Therapeutic Carbohydrate Restriction in Human Health](https://a.co/d/eBNj20q), Nutrition Network
-
-   - (K) [KetoCONTINUUM: Consistently Keto For Life](https://a.co/d/7vQ9tcY) ★, Annette Bosworth, MD
-
-   - (F) [Lies I Taught in Medical School](https://a.co/d/49qwZ14), Robert Lufkin, MD
-
-   - (F) [Lies My Doctor Told Me](https://a.co/d/11d6oIa) ★, Ken D Berry, MD
-
-   - (W) [Nature Wants Us To Be Fat](https://a.co/d/2lvccrh), Richard Johnson, MD
-
-   - (D) [Why We Get Sick](https://a.co/d/5hPLMLe) ★, Ben Bickman PhD
-
+   - (B) [Change Your Diet, Change Your Mind](https://amzn.to/4csAYmd), [Dr Thomas N. Seyfried PhD](#Dr Thomas N. Seyfried PhD)
+   - (B) [Energy: The Metabolic Theory of Mental Illness](https://www.mycme.com/courses/brain-energy-the-metabolic-theory-of-mental-illness-9615) |
+   - (B) [Heavily Meditated: The Fast Path to Remove Your Triggers, Dissolve Stress, and Activate Inner Peace](https://amzn.to/3RwxdTU)
+   - (B) [Iodine Why You Need It, Why You Can't Live Without It](https://a.co/d/bpJtFmu), David Brownstein, MD
+   - (B) [Super Human: The Bulletproof Plan to Age Backward and Maybe Even Live Forever](https://amzn.to/4jfxN4d)
    - (B) [Why We Sleep](https://a.co/d/cfKaIFt) ★, Matthew Walker PhD
+   - (C) [Any Way You Can](https://a.co/d/hMcGZb4) ★, [Annette Bosworth, MD ★](#Dr Annette Bozworth, MD ★)
+   - (C) [Cancer as a Metabolic Disease](https://a.co/d/7eqRuc7), [Dr Thomas N. Seyfried PhD](#Dr Thomas N. Seyfried PhD)
+   - (D) [Drop Acid](https://a.co/d/9DuLOKd), David Perlmutter, MD
+   - (D) [Why We Get Sick](https://a.co/d/5hPLMLe) ★, Ben Bickman PhD
+   - (F) [Blind Spots](https://a.co/d/8Ylpp8l) ★, Marty Makary, MD
+   - (F) [Dark Calories](https://a.co/d/cCf2ila), [Catherine Shanahan, MD ★](#Dr Cate Shanahan, MD ★)
+   - (F) [Good Energy ★, Casy Means, MD](https://www.caseymeans.com/)
+   - (F) [Lies I Taught in Medical School](https://a.co/d/49qwZ14), Robert Lufkin, MD
+   - (F) [Lies My Doctor Told Me](https://a.co/d/11d6oIa) ★, Ken D Berry, MD
+   - (K) [Autophagy in Health and Disease](https://a.co/d/cVe9sw7), Beverly A Rothermel PhD and Abhinav Diwan MBBS
+   - (K) [Fast This Way: Burn Fat, Heal Inflammation, and Eat like the High-Performing Human You Were Meant to Be](https://amzn.to/4jm82Q2)
+   - (K) [Keto Flex](https://a.co/d/hRHIipT), Ben Azadi
+   - (K) [KetoCONTINUUM: Consistently Keto For Life](https://a.co/d/7vQ9tcY) ★, Annette Bosworth, MD
+   - (K) [Ketogenic: The Science of Therapeutic Carbohydrate Restriction in Human Health](https://a.co/d/eBNj20q), Nutrition Network
+   - (T) [Common Sense Labs (Blood Labs Demystified)](https://a.co/d/30O8QQd), Ken Berry, MD & Kim Howerton
+   - (W) [Nature Wants Us To Be Fat](https://a.co/d/2lvccrh), Richard Johnson, MD
+   - (W) [The Bulletproof Diet: Lose Up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life ](https://amzn.to/3R0QQmQ)
 
 ◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
@@ -266,9 +257,12 @@ Sorted by category and then length.
 | (A)  | Video  | 0:07:23 |  1   | James Tour     | [Biochemist, Messianic Jew](https://youtu.be/QNGLZvtRoiU?si=xR9lWh1tD8txOgw_) |
 | (B)  | Course | 0:01:00 |  1   | myCME          | [Managing Major Mental Illness with Dietary Change: The New Science of Hope](https://www.mycme.com/courses/managing-major-mental-illness-with-dietary-change-9616) |
 | (B)  | Video  | 0:07:05 |  1   | Metabolic Mind | [The Connection Between Metabolic and Mental Health](https://youtu.be/3O7DHiMRfmU?si=1UL_Hajvhk0dkK1e) |
+| (B)  | Video  | 0:11:24 |  1   | Dr Norwitz     | [Why is sleep important](https://youtu.be/KNzTbr0B8aQ?si=zsqoOMYq1SE4Ofzg) |
 | (B)  | Video  | 0:16:46 |  1   | Holly          | [After a Year of 3 AM Wakeups, I Finally. Fixed My Sleep](https://youtu.be/7ulKd1_sp5Y?si=2vvRLGezKt4FO5oe)] |
 | (B)  | Video  | 1:00:53 |  3   | Dr Boz         | [Sleep Lecture + BDNF + Training](https://youtu.be/E020nmykCHw?si=-nPrIvwVQrX9aSR8) |
 | (B)  | video  | 1:29:51 |  1   | primal         | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
+| (B)  | Video  | 1:29:51 |  1   | Primal         | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
+| (B)  | Video  | short   |  1   | Dr Norwitz     | [Why Sleep is the ultimate brain hack](https://youtube.com/shorts/r-FYy_eEV4w?si=g0ekTCETZNyIL8Ma) |
 | (C)  | Video  | 0:42:07 |  1   | AI & Health    | [Can a keto diet eliminate cancer growth? Dr Seyfried says yes](https://www.youtube.com/watch?v=qa3j40c8iAo&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=2) |
 | (C)  | Video  | 0:50:30 |  1   | Dr Boz         | [My honest advice to someone with cancer](https://www.youtube.com/watch?v=BrZ-0Fqu5kk) |
 | (C)  | Video  | 0:51:58 |  1   | Dr Boz         | [My husband might have cancer. He should've listened](https://www.youtube.com/watch?v=fZnydK9KskU) |
@@ -286,6 +280,7 @@ Sorted by category and then length.
 | (D)  | Video  | 1:53:17 |  1   | Dr Shanahan    | [The REAL Cause of Insulin Resistance (Stop Eating This!)](https://youtu.be/tN9o1oBDX-M?si=vZvpr-VORTZKn3yu) |
 | (E)  | Video  | 1:06:35 |  1   | Dr Boz         | [The BIGGEST LIE about Hormone Replacement Therapy (HRT)](https://www.youtube.com/live/72eSVVO9bpY?si=1sX1w0Pi6ezLmJSQ) |
 | (F)  | Video  | 0:01:06 |  3   | Dr Lufkin      | [Why Your Doctor LIES To You](https://www.youtube.com/live/ZkkbwA7We2U?si=v9tZFAQJoxf_a65R) |
+| (F)  | Video  | 0:04:22 |  1   | ?              | [The Great Cholesterol Scam](https://youtu.be/btUNkUlUIeQ?si=naDI7S0LZgdH6lxJ) |
 | (F)  | Video  | 0:15:03 |  1   | Dr Norwitz     | [Ignorance Is Bliss: The Dark Truth About Chocolate & Diabetes](https://www.youtube.com/watch?v=i9IgjxtTDEM) |
 | (F)  | Video  | 0:24:59 |  1   | Dr Brewer      | [Watch This Video Before Stopping Baby Aspirin](https://youtu.be/9VQtnHAakwQ?si=Hmk2EnCV6FoYpr_j) |
 | (F)  | Video  | 0:30:33 |  1   | Carn Squad     | [Massive Data Leaked...3 Stunning Carnivore Studies Retrieved](https://youtu.be/vjhX400AQG4?si=aA82XrI6H5vfCR00) |
@@ -324,14 +319,15 @@ Sorted by category and then length.
 | (K)  | Video  | 1:00:20 |  1   | Dr Boz         | [What Labs do I order?](https://www.youtube.com/live/rbjEh2e_dko?si=HFL9zhI82mN1em2-) |
 | (K)  | Video  | 1:01:18 |  1   | Dr Boz         | [How Long to Fast for 3 Stages of Autophagy - Keto and Intermittent Fasting](https://www.youtube.com/live/SerNSubQJos?si=CKs5PNvd19AnellR) |
 | (K)  | Video  | 1:02:40 |  3   | Dr Boz         | [Fix Insulin Resistance Once & For All (10 COMMON Symptoms)](https://youtu.be/PS2cP2SGKtg?si=jJw2YCw1vSGwefBa) |
+| (K)  | Video  | 1:04:36 |  1   | Primal         | [Ultimate Fasting Guide: Lose Weight Faster & Age In Reverse (DO THIS) Dave Asprey](https://youtu.be/6KSyXuxTnRM?si=GtZdf9M5_EPDz3TI) |
 | (K)  | Video  | 1:28:34 |  1   | Dr Chappus     | [Our Bodies ARE NOT Designed to Run on Carbohydrates - Dr. Gary Fettke](https://youtu.be/5W5w0WSBwDI?si=DaQ2LkC3Xnlc2Q9q) |
 | (K)  | Video  | 2:41:09 |  1   | Dr Lustig      | [The Shocking Benefits of Quitting Sugar for 30 Days! (How To Live Longer)](https://youtu.be/IKDsZWbm_xM?si=wKFXykvgFExykEop) |
 | (L)  | Video  | 0:01:37 |  1   | Dr Hampton     | [Can you really AFFORD Carnivore?](https://youtube.com/shorts/aEAxV5nRyWg?si=7-ScLUnMlK1emYkQ) |
 | (L)  | Video  | 0:04:18 |  1   | Dr Boz         | [Carnivore Pitfalls](https://youtu.be/ylLCeEbjzco?si=_h2u18QL2LiJT1Cp) |
 | (L)  | Video  | 0:23:00 |  1   | myzerocarblife | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
+| (L)  | Video  | 0:23:00 |  1   | MyZeroCarbLife | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
 | (L)  | Video  | 1:01:23 |  1   | Tour PhD       | [Tour on The Origin of Life](https://youtu.be/qeuW2UPa1Lw?si=bB_tEGP9fFmKCJ8o) |
 | (L)  | Video  | 1:04:05 |  1   | Primal         | [I Only Ate Meat For 200 DAYS: Here's What Happened To My HEART](https://youtu.be/PEtXLp2YEtk?si=xoGMb7Ng9QkwdTwk) |
-| (M)  | Book   |         |  1   | Brain          | [Energy: The Metabolic Theory of Mental Illness](https://www.mycme.com/courses/brain-energy-the-metabolic-theory-of-mental-illness-9615) |
 | (M)  | Video  | 0:16:03 |  1   | Nick Norwitz   | [Metabolic Mayhem!](https://youtu.be/65q5NG7uba0?si=gNUVg38i-kB54rg8) |
 | (S)  | Video  | 0:05:11 |  1   | Dave Mac       | [85-Year-Olds Stun Doctor with Carnivore Results: See His Reaction!](https://www.youtube.com/watch?v=iyenYTtCx6E) |
 | (S)  | Video  | 1:02:07 |  1   | Dave Mac       | [How My Carnivore Success Made My Doctor a Believer](https://youtu.be/OAIXWxq41SI?si=-sXS7XNkFmJ5WXQf) |
@@ -347,6 +343,7 @@ Sorted by category and then length.
 | (W)  | Video  | 0:23:31 |  1   | Lillie         | [3 Major Problems with the Carnivore Diet](https://www.youtube.com/watch?v=MWVLCrMfvCQ) |
 | (W)  | Video  | 0:24:37 |  1   | Dr Ekberg      | [1 Absolute Best Meal Plan To Lose Weight Faster](https://www.youtube.com/watch?v=LHO_6kkQodY) |
 | (W)  | Video  | 0:44:27 |  1   | Bikman PhD     | [Fat: Why it Matters and What to Do About It](https://www.youtube.com/watch?v=gfikT_O4v9A&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=6) |
+| (W)  | Video  | 0:56:50 |  1   | Dr Fung        | [BURN BODY FAT?](https://youtu.be/D8nArHgImrk?si=5P1vp2Fuq8-35lsH) | 
 | (W)  | Video  | 1:01:50 |  1   | Dr Boz         | [80lbs lost with and withOUT Autophagy](https://www.youtube.com/watch?v=82CPlwz6Pmc) |
 | (W)  | Video  | 1:10:50 |  1   | Bikman PhD     | [The Truth about GLP 1, Ozempic and Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
 | (W)  | Video  | 1:10:50 |  1   | Dr Bikman      | [The Truth about GLP 1, Ozempic & Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
@@ -360,15 +357,15 @@ Sorted by category and then length.
 
 This section contains references to scientific articles on the topics.
 
-- (C) [Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets](https://www.nature.com/articles/ejcn2013116)
-- (C) [The Warburg Effect: How Does it Benefit Cancer Cells?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783224/) (Study)
-- (C) [Feasibility and metabolic outcomes of a well-formulated ketogenic diet as an adjuvant therapeutic intervention for women with stage IV metastatic breast cancer: The Keto-CARE trial ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10760925/)(Study)
-- (C) [High-fat diet made Inuits healthier but shorter thanks to gene mutations ](https://www.ox.ac.uk/research/high-fat-diet-made-inuits-healthier-shorter-thanks-gene-mutations-study-finds)(Article)
-- (C) [Cancer as a mitochondrial metabolic disease ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493566/)(Study)
-- (B) [Ketogenic Diets On The Brain ](https://pubmed.ncbi.nlm.nih.gov/35873236/)(Study)
 - (B) [Ketogenic Diet As A Metabolic Treatment For Mental Illness](https://pubmed.ncbi.nlm.nih.gov/32773571/)
-- (B) [Turmeric Affects On Liver](https://www.amjmed.com/article/S0002-9343(22)00740-9/fulltext)
+- (B) [Ketogenic Diets On The Brain ](https://pubmed.ncbi.nlm.nih.gov/35873236/)(Study)
 - (B) [Statin Effects On A Low Carb Diet](https://pubmed.ncbi.nlm.nih.gov/35938780/)
+- (B) [Turmeric Affects On Liver](https://www.amjmed.com/article/S0002-9343(22)00740-9/fulltext)
+- (C) [Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets](https://www.nature.com/articles/ejcn2013116)
+- (C) [Cancer as a mitochondrial metabolic disease ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4493566/)(Study)
+- (C) [Feasibility and metabolic outcomes of a well-formulated ketogenic diet as an adjuvant therapeutic intervention for women with stage IV metastatic breast cancer: The Keto-CARE trial ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10760925/)(Study)
+- (C) [High-fat diet made Inuits healthier but shorter thanks to gene mutations ](https://www.ox.ac.uk/research/high-fat-diet-made-inuits-healthier-shorter-thanks-gene-mutations-study-finds)
+- (C) [The Warburg Effect: How Does it Benefit Cancer Cells?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783224/) (Study)
 
 ◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
@@ -378,7 +375,24 @@ This section contains references to scientific articles on the topics.
 
 <h2>[alphabetical]</h2>
 
-<h3>Dr Josh Axe ✘</h3>
+### Dave Asprey
+
+Dave Asprey is best known as the founder of Bulletproof Coffee and the entire Biohacking movement.
+
+As a four-time New York Times bestselling author, CEO of Upgrade Labs, and host of a Webby award-winning, top 100 podcast, The Human Upgrade (formerly Bulletproof Radio), Dave is a maverick in the entrepreneurial health science space.
+
+As a true pioneer, Dave was the first person to ever sell a product online, and as you might guess, it was related to coffee.
+
+Dave sold caffeine t-shirts out of his dorm room before the web browser was even invented which earned him a profile in Entrepreneur Magazine. Dave became an early internet technology journalist, a cyber security expert, and co-founded a division of Exodus Communications, a company that seeded the internet we know today
+
+<h5>Links</h5>
+
+- Https://daveasprey.com
+- https://daveasprey.com/wp-content/uploads/2020/06/IF-guide_4.12.pdf
+
+◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+
+### Dr Josh Axe ✘
 
 Dr Josh Axe, DC, DNM, CNS, is a doctor of chiropractic, certified doctor of natural medicine and clinical nutritionist with a passion to help people eat healthy and live a healthy lifestyle. In 2008, he started a functional medicine center in Nashville, which grew to become one of the most renowned clinics in the world.
 
@@ -626,6 +640,20 @@ Experience & Accomplishments:
 
 ◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
+### Dr Georgia Ede
+
+Dr. Georgia Ede, a Harvard-trained psychiatrist specializing in mental health and the brain. Let our sponsor BetterHelp connect you to a therapist who can support you. Visit https://betterhelp.com... and enjoy a special discount on your first month. 
+
+Dr Ede has spent 25 years researching the role of a Ketogenic Diet and the Carnivore Diet and its impact on mental illness and brain disease, namely dementia, depression, anxiety, ADHD, and bipolar disorder.
+
+Access the full show notes, including referenced articles, books, and additional resources: https://www.5minutebod...
+
+This episode discusses how the brain functions at an optimal state and the 5 neurotransmitters responsible for mood and optimal brain function. Dr. Ede also shares the worst foods people are eating every day that destroys brain function and lead to common mental illnesses like dementia, Alzheimer’s, anxiety, and depression. 
+
+We also discuss the side effects of medications, namely statins, and their negative effects on the brain.
+
+◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+
 ### Dr Sten Ekberg ★
 
 Ekberg received a BBA, Magna Cum Laude, from [Southern Methodist University](https://en.wikipedia.org/wiki/Southern_Methodist_University) [Cox School of Business](https://en.wikipedia.org/wiki/Cox_School_of_Business) in [Dallas, Texas](https://en.wikipedia.org/wiki/Dallas,_Texas) and holds a Doctor of Chiropractic, Magna Cum Laude, from [Life University](https://en.wikipedia.org/wiki/Life_University) in [Marietta, Georgia](https://en.wikipedia.org/wiki/Marietta,_Georgia). He competed in track and field at Southern Methodist where he still holds records.
@@ -762,6 +790,14 @@ Dr. Chris Knobbe is a respected ophthalmologist with a strong clinical practice,
 - App - Seed Oil Scout  [https://www.seedoilscout.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG9yY0FNamNLdC1ocDlYbFF1UnJIU0JjckU0d3xBQ3Jtc0tta2VmdTAtdnNkaWZuRWJ4LXJOTldjdDVJaktfVFlIR0liU3dsV1YxeFFLblgwOGhGR2hpN3RJQld3T080bUc5ODZ6MkZXVk9qS19hRm16NUlGMkw1UWZtTEV6UjhjenA2WEFmMzZIM2FIS3ZNNDBSSQ&q=https%3A%2F%2Fwww.seedoilscout.com%2F&v=MuYvGyNXvPk)
 - App - Local Fats [https://localfats.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjhNMGNGZGczNUJ0ODhqVlIxbFlWR25wRDc3QXxBQ3Jtc0ttWV9RcUQ2bmdlY28zNHlCcElTdmpHTGNTMHhkRk1iVDBDZTdIVlRxVDh2SkNHb2NacXRjQUY2aWYycWNBWWFmWFVfU3hNMUd5Vnd5XzFGaUtfNHprdXhPejQyQXF6V2w2RFJTY24xX3BUbDYxbWh5TQ&q=https%3A%2F%2Flocalfats.com%2F&v=MuYvGyNXvPk) 
 - Review - [https://www.tiktok.com/@seedoilscout/...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFpESllXOGlDaVk0SEhVWVBaRmkxeWl5TzY3Z3xBQ3Jtc0trOXpuODhJU0wzLXBnYmZpUGFiVnlab0M3d3lTM2tLdkhqRXFSWEE4dnpmX1ZLOUZwT3NJeXJlTllFRHhnbzlQUGRUT05FQ09tVC02djU0anNxblN4UkphMXZpd2FzN1NEcUQ4SFBWMnBjVk8yc2RMaw&q=https%3A%2F%2Fwww.tiktok.com%2F@seedoilscout%2Fvideo%2F7371193001038728494&v=MuYvGyNXvPk)  
+
+◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+
+
+
+### Dr Donald Layman
+
+Dr (Don)ald Layman, a PhD researcher and expert in protein metabolism and metabolic health. Dr Layman has spent decades researching the role of protein in metabolic health, including the role of leucine in muscle protein synthesis.
 
 ◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
@@ -1063,7 +1099,7 @@ Links
 
 ◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
-### Dr Thomas N. Seyfried PHD ★
+### Dr Thomas N. Seyfried PhD ★
 
 Thomas N. Seyfried is Professor of Biology at Boston College, and received his Ph.D. in Genetics and Biochemistry from the University of Illinois, Urbana, in 1976. He did his undergraduate work at the University of New England where he recently received the distinguished Alumni Achievement Award. He also holds a Master's degree in Genetics from Illinois State University. 
 

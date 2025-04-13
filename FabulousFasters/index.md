@@ -1,5 +1,8 @@
 ---
 title: Fabulous Fasters Home Page;
+html:
+  head: |
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
 subject: Health & Fasting
 author: David C Black
 contacts: dcblack@mac.com
