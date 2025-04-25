@@ -44,7 +44,7 @@ tags:
 
 # Experts on Keto & Carnivore
 
-[Updated 2025-April-10]
+[Updated 2025-April-25 04:19 PM]
 
 This document can be found at:
 
@@ -121,23 +121,23 @@ I've labeled a lot of material herein as part of a category. Most items are not 
 
 Category labels (may be combined):
 
-- **(A)**bout authors, channels
+- **(A)**uto-immne diseases (Muliple Sclerosis, Neuropathy, Parkinsons)
 - **(B)**rain issues & Sleep
 - **(C)**ancer
 - **(D)**iabetes, Prediabetes, Insulinemia & Metabolism
 - **(E)**strogen & Women's issues
 - **(F)**alsehoods, lies & myths - Drugs, Food & Medical
+- **(G)**eneral biomes (mouth & intestinal), glucose, insulin, serotonin & biochemistry
 - **(H)**eart & Cardiovascular Disease (incl. blood pressure)
-- **(L)**ifestyle - Carnivore, Keto, Ketovore: Recipes, Cost, Concerns (see also (F)alsehoods)
 - **(K)**etosis, Autophagy & Fasting (see also (D)
-- **(M)**uliple Sclerosis
-- **(N)**europathy
-- **(P)**arkinson's
+- **(L)**ifestyle - Carnivore, Keto, Ketovore: Recipes, Cost, Concerns (see also (F)alsehoods)
+- **(M)**edicines, supplements and foods
+- **(P)**eople, authors, and sources
 - **(S)**tories of success
 - **(T)**esting, Bloodwork, Blood pressure
+- **(W)**eight-loss & Obesity
 - **(X)**ercising, Weight lifting, HIIT, Aerobic
-- **(W)**eight-loss
-- **(*)** this means most categories seem to apply
+- **(*)** when several categories apply equally
 
 ◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
@@ -254,15 +254,17 @@ Sorted by category and then length.
 
 | Cat  | Type   |  Length | Fav  | Source         | Description/Link                                             |
 | ---- | ------ | ------: | :--: | -------------- | ------------------------------------------------------------ |
-| (A)  | Video  | 0:07:23 |  1   | James Tour     | [Biochemist, Messianic Jew](https://youtu.be/QNGLZvtRoiU?si=xR9lWh1tD8txOgw_) |
+| (A)  | Video  | 0:16:03 |  1   | Nick Norwitz   | [Metabolic Mayhem!](https://youtu.be/65q5NG7uba0?si=gNUVg38i-kB54rg8) |
 | (B)  | Course | 0:01:00 |  1   | myCME          | [Managing Major Mental Illness with Dietary Change: The New Science of Hope](https://www.mycme.com/courses/managing-major-mental-illness-with-dietary-change-9616) |
+| (B)  | Video  | 0:01:04 |  1   | Dr Norwitz     | [Why Sleep is the ultimate brain hack](https://youtube.com/shorts/r-FYy_eEV4w?si=g0ekTCETZNyIL8Ma) |
 | (B)  | Video  | 0:07:05 |  1   | Metabolic Mind | [The Connection Between Metabolic and Mental Health](https://youtu.be/3O7DHiMRfmU?si=1UL_Hajvhk0dkK1e) |
 | (B)  | Video  | 0:11:24 |  1   | Dr Norwitz     | [Why is sleep important](https://youtu.be/KNzTbr0B8aQ?si=zsqoOMYq1SE4Ofzg) |
+| (B)  | video  | 0:11:28 |  1   | Norwitz        | [How a Common Kitchen Spice Could Boost Brain Function and Mental Health](https://youtu.be/rF0c31ssn7g?si=g9-gUBI1yu-YXcJB) |
 | (B)  | Video  | 0:16:46 |  1   | Holly          | [After a Year of 3 AM Wakeups, I Finally. Fixed My Sleep](https://youtu.be/7ulKd1_sp5Y?si=2vvRLGezKt4FO5oe)] |
 | (B)  | Video  | 1:00:53 |  3   | Dr Boz         | [Sleep Lecture + BDNF + Training](https://youtu.be/E020nmykCHw?si=-nPrIvwVQrX9aSR8) |
 | (B)  | video  | 1:29:51 |  1   | primal         | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
 | (B)  | Video  | 1:29:51 |  1   | Primal         | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
-| (B)  | Video  | short   |  1   | Dr Norwitz     | [Why Sleep is the ultimate brain hack](https://youtube.com/shorts/r-FYy_eEV4w?si=g0ekTCETZNyIL8Ma) |
+| (C)  | Video  | 0:00:56 |  1   | Dr Seyfried    | [Cancer is very preventable](https://youtube.com/shorts/PyPqJsKoe7M?si=x4uRz5LslnU7qd3x) |
 | (C)  | Video  | 0:42:07 |  1   | AI & Health    | [Can a keto diet eliminate cancer growth? Dr Seyfried says yes](https://www.youtube.com/watch?v=qa3j40c8iAo&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=2) |
 | (C)  | Video  | 0:50:30 |  1   | Dr Boz         | [My honest advice to someone with cancer](https://www.youtube.com/watch?v=BrZ-0Fqu5kk) |
 | (C)  | Video  | 0:51:58 |  1   | Dr Boz         | [My husband might have cancer. He should've listened](https://www.youtube.com/watch?v=fZnydK9KskU) |
@@ -291,6 +293,8 @@ Sorted by category and then length.
 | (F)  | Video  | 1:10:45 |  1   | Dr Berry       | [Carnivore Diet Dangers? 2 Doctors Answer Questions - Dr Chaffee](https://www.youtube.com/watch?v=bVj_kYUM0Sk) |
 | (F)  | Video  | 1:12:26 |  1   | Dr Westman     | [Big Pharma Lies: What They Don't Want You to Know About Statins with Dave Feldman](https://www.youtube.com/watch?v=tKWaS9-8zLQ) |
 | (F)  | Video  | 1:15:59 |  3   | Dr Boz         | [**SHOW DOCTORS** What Physicians Need to Know About the Ketogenic Diet](https://youtu.be/WtcK8lZV1AM?si=cadfge58QArkvEkK) |
+| (G)  | Video  | 0:19:49 |  1   | Dr Ekberg      | [No Carb Foods Can Still Spike Your Blood Sugar](https://youtu.be/jNpwxgfihiA?si=KTVeXrlPu7uvw5eX) |
+| (G)  | Video  | 0:35:10 |  1   | Dr Ekberg      | [Top 10 Foods That DESTROY Your Blood - Sugar!](https://youtu.be/i1QkD8neXgo?si=N_Hl6CiTNHUlBavi) |
 | (H)  | Video  | 0:21:10 |  1   | Dr Brewer      | [#1 Best Way to Find Clogged Arteries](https://www.youtube.com/watch?v=fV7DqKCVrro) |
 | (H)  | Video  | 0:30:46 |  1   | Dr Brewer      | [#1 Worst Meal that Clogs Your Arteries](https://www.youtube.com/watch?v=xRwVxuPCzsc) |
 | (H)  | Video  | 0:32:19 |  2   | Dr Brewer      | [How I Cleaned Out My Arteries In 1 Year](https://www.youtube.com/watch?v=yYLym9PiJtA) |
@@ -318,6 +322,7 @@ Sorted by category and then length.
 | (K)  | Video  | 0:51:35 |  1   | Bikman PhD     | [FASTING EASY? add butter & MCT oil: no effect on insulin, mTOR, autophagy](https://youtu.be/NOVHg0veeFY?si=68S8RAv_V759CFnh) |
 | (K)  | Video  | 1:00:20 |  1   | Dr Boz         | [What Labs do I order?](https://www.youtube.com/live/rbjEh2e_dko?si=HFL9zhI82mN1em2-) |
 | (K)  | Video  | 1:01:18 |  1   | Dr Boz         | [How Long to Fast for 3 Stages of Autophagy - Keto and Intermittent Fasting](https://www.youtube.com/live/SerNSubQJos?si=CKs5PNvd19AnellR) |
+| (K)  | Video  | 1:01:40 |  1   | Primal         | [The FASTEST Way To Fix Fatty Liver Naturally (10 COMMON Symptoms)](https://youtu.be/zxdm-Dd6J8o?si=lx9DNPXVBeopqSpL) |
 | (K)  | Video  | 1:02:40 |  3   | Dr Boz         | [Fix Insulin Resistance Once & For All (10 COMMON Symptoms)](https://youtu.be/PS2cP2SGKtg?si=jJw2YCw1vSGwefBa) |
 | (K)  | Video  | 1:04:36 |  1   | Primal         | [Ultimate Fasting Guide: Lose Weight Faster & Age In Reverse (DO THIS) Dave Asprey](https://youtu.be/6KSyXuxTnRM?si=GtZdf9M5_EPDz3TI) |
 | (K)  | Video  | 1:28:34 |  1   | Dr Chappus     | [Our Bodies ARE NOT Designed to Run on Carbohydrates - Dr. Gary Fettke](https://youtu.be/5W5w0WSBwDI?si=DaQ2LkC3Xnlc2Q9q) |
@@ -328,7 +333,11 @@ Sorted by category and then length.
 | (L)  | Video  | 0:23:00 |  1   | MyZeroCarbLife | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
 | (L)  | Video  | 1:01:23 |  1   | Tour PhD       | [Tour on The Origin of Life](https://youtu.be/qeuW2UPa1Lw?si=bB_tEGP9fFmKCJ8o) |
 | (L)  | Video  | 1:04:05 |  1   | Primal         | [I Only Ate Meat For 200 DAYS: Here's What Happened To My HEART](https://youtu.be/PEtXLp2YEtk?si=xoGMb7Ng9QkwdTwk) |
-| (M)  | Video  | 0:16:03 |  1   | Nick Norwitz   | [Metabolic Mayhem!](https://youtu.be/65q5NG7uba0?si=gNUVg38i-kB54rg8) |
+| (M)  | Video  | 0:05:01 |  1   | Dr Berg        | [Fascinating Health Benefits of Methylene Blue](https://www.youtube.com/watch?v=dDUZ0ODBfJs&pp=ygUOTWV0aHlsZW5lIGJsdWXSBwkJhAkBhyohjO8%3D) |
+| (M)  | Video  | 0:07:05 |  1   | Gary Brecka    | [Methylene Blue: Improved Focus, ATP Production & Anti-Aging with Gary Brecka](https://www.youtube.com/watch?v=KvASX2yp0zU&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
+| (M)  | Video  | 0:07:50 |  1   | Dr Anderson    | [Everything You NEED to KNOW About Methylene Blue](https://www.youtube.com/watch?v=bfPByasoJTw&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
+| (M)  | Video  | 1:01:07 |  1   | Dr Boz         | [Why I'm using Methylene Blue for my metabolism](https://www.youtube.com/watch?v=WAuGLi4jsBQ&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
+| (P)  | Video  | 0:07:23 |  1   | James Tour     | [Biochemist, Messianic Jew](https://youtu.be/QNGLZvtRoiU?si=xR9lWh1tD8txOgw_) |
 | (S)  | Video  | 0:05:11 |  1   | Dave Mac       | [85-Year-Olds Stun Doctor with Carnivore Results: See His Reaction!](https://www.youtube.com/watch?v=iyenYTtCx6E) |
 | (S)  | Video  | 1:02:07 |  1   | Dave Mac       | [How My Carnivore Success Made My Doctor a Believer](https://youtu.be/OAIXWxq41SI?si=-sXS7XNkFmJ5WXQf) |
 | (T)  | Video  | 0:01:09 |  1   | Dr Brewer      | [How to Measure you Blood Pressure the Right Way (short)](https://www.youtube.com/watch?v=dP8oZ916pcE) |
@@ -342,13 +351,15 @@ Sorted by category and then length.
 | (W)  | Video  | 0:12:55 |  1   | Dr Berry       | [BEWARE: Fasting is Dangerous?](https://www.youtube.com/watch?v=cnnCwOhJJic&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=4) |
 | (W)  | Video  | 0:23:31 |  1   | Lillie         | [3 Major Problems with the Carnivore Diet](https://www.youtube.com/watch?v=MWVLCrMfvCQ) |
 | (W)  | Video  | 0:24:37 |  1   | Dr Ekberg      | [1 Absolute Best Meal Plan To Lose Weight Faster](https://www.youtube.com/watch?v=LHO_6kkQodY) |
+| (W)  | Video  | 0:32:26 |  1   | Dr Ekberg      | [Top 10 Fat Burning Foods For FAST Weight LOSS](https://youtu.be/8NRtHJqwuGA?si=vaYbwidqbxW-POcS) |
 | (W)  | Video  | 0:44:27 |  1   | Bikman PhD     | [Fat: Why it Matters and What to Do About It](https://www.youtube.com/watch?v=gfikT_O4v9A&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=6) |
-| (W)  | Video  | 0:56:50 |  1   | Dr Fung        | [BURN BODY FAT?](https://youtu.be/D8nArHgImrk?si=5P1vp2Fuq8-35lsH) | 
+| (W)  | Video  | 0:56:50 |  1   | Dr Fung        | [BURN BODY FAT?](https://youtu.be/D8nArHgImrk?si=5P1vp2Fuq8-35lsH) |
 | (W)  | Video  | 1:01:50 |  1   | Dr Boz         | [80lbs lost with and withOUT Autophagy](https://www.youtube.com/watch?v=82CPlwz6Pmc) |
 | (W)  | Video  | 1:10:50 |  1   | Bikman PhD     | [The Truth about GLP 1, Ozempic and Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
 | (W)  | Video  | 1:10:50 |  1   | Dr Bikman      | [The Truth about GLP 1, Ozempic & Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
 | (W)  | Video  | 1:24:08 |  1   | Primal Podcast | [Ultimate Protein Guide: Lose Weight Faster: How Much You REALLY Need)](https://youtu.be/hHkxBEQaZdY?si=AfMCtgd06BTfK2kD) |
 | (W)  | Video  | 1:30:23 |  3   | Dr Chaffee     | [Revolutionizing Nutrition: What You've Been Doing Wrong](https://youtu.be/K66nar1_zX8?si=5yprKMuAknpzWWY5) |
+| (W)  | Video  | 1:32:17 |  1   | Levels         | [Uncovering the SHOCKING Realities of OBESITY and Skinny Fat - Dr. Robert Lustig](https://youtu.be/sxJvfqTFttY?si=Ow9vJQ-1o7HEMgbd) |
 | (W)  | Video  | 1:32:21 |  1   | Dr Chaffee     | [Why We Are Carnivores Slide Presentation](https://www.youtube.com/watch?v=C-WUb3mJEso) |
 
 ◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
@@ -366,6 +377,7 @@ This section contains references to scientific articles on the topics.
 - (C) [Feasibility and metabolic outcomes of a well-formulated ketogenic diet as an adjuvant therapeutic intervention for women with stage IV metastatic breast cancer: The Keto-CARE trial ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10760925/)(Study)
 - (C) [High-fat diet made Inuits healthier but shorter thanks to gene mutations ](https://www.ox.ac.uk/research/high-fat-diet-made-inuits-healthier-shorter-thanks-gene-mutations-study-finds)
 - (C) [The Warburg Effect: How Does it Benefit Cancer Cells?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783224/) (Study)
+- (H) [TG/HDL-C as a Risk Marker for Cardiovascular Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC10001260/) 
 
 ◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
 
