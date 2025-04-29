@@ -12,7 +12,7 @@ html:
 ---
 # [🏠 Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html)
 
-[Updated 2025-April-10]
+[Updated 2025-April-29]
 
 <meta http-equiv="refresh" content="10">
 <meta property="og:title" content="Fabulous Fasters">
@@ -32,13 +32,17 @@ Post your status, goals, questions, and tips here.
 ## Meetings
 
 - [Weekly Checkin](https://dcblack.github.io/FabulousFasters/WeeklyCheckin.html)
-- [Saturday Review](https://dcblack.github.io/FabulousFasters/SaturdayReview.html)
+- [Book Review](https://dcblack.github.io/FabulousFasters/BookReview.html)
 
 ## [Resources](https://dcblack.github.io/FabulousFasters/Resources/index.html)
 
 Let me know if you have something to contribute here (a link or a document).
 
 ## History
+
+#### April 2025 Changes
+
+Meetings moved up a day. Now ==Tuesday== evenings and ==Friday== mornings!
 
 #### February 2025 Changes
 
@@ -56,4 +60,4 @@ We changed the Zoom link so I can take over. See [Weekly Checkin](https://dcblac
 
 Also, I formally introduced a bit more structure to the meeting format. I hope you like this; however, I am open to suggestions. See above.
 
-Finally, the [Saturday Review](https://dcblack.github.io/FabulousFasters/SaturdayReview.html) will continue as is. Its primary focus is review; however, I would like a quick one-minute status & goal to be part of it. So, the format is similar but with a different emphasis.
+Finally, the [Book Review](https://dcblack.github.io/FabulousFasters/BookReview.html) will continue as is. Its primary focus is review; however, I would like a quick one-minute status & goal to be part of it. So, the format is similar but with a different emphasis.

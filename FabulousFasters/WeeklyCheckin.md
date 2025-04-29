@@ -1,10 +1,18 @@
+---
+title: Fabulous Faster's Weekly Checkin 
+subject: Weekly support topics and rules
+author: David C Black
+contacts: dcblack@mac.com
+---
+[Updated 2025-April-29 02:44 PM]
+
 # Fabulous Faster's Weekly Checkin
 
 ## Details
 
 #### Mutual support getting to our goals
 
-When: ==Wednesday evening at 9 PM Eastern / 8 PM Central / 7 PM Mountain / 6 PM Pacific==
+When: ==Tuesday evening at 8 PM Eastern / 7 PM Central / 6 PM Mountain / 5 PM Pacific==
 
 Where: ==**Zoom Meeting CLICK HERE** ➜==https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1
 
@@ -32,11 +40,7 @@ Everyone is requested to find a topic they could present to keep on hand. It cou
 #### Join Zoom meeting.
 
 Topic: Fabulous Fasters
-Time: Dec 4, 2024 08:00 PM Central Time (US and Canada)
-        Every week on Wed, 101 occurrence(s)
-Please download and import the following iCalendar (.ics) files to your calendar system.
-Weekly: https://us02web.zoom.us/meeting/tZAud--qrj0iEt2Hf3qHaZfi04cVWL2-3OsU/ics?icsToken=98tyKuGsrTssGNSTuBGORpwIA4igM-rziCFHj7cPtBm2EghSWAX_ZrZBBIVTQpWD&meetingMasterEventId=IEN5oa7NTQil-l2c_V2dBw
-
+Times: Every week on Tuesday at 8 PM Eastern / 7 PM Central / 6 PM Mountain / 5 PM Pacific
 
 ==**CLICK HERE** ➜==https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1
 

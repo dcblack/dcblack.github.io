@@ -1,8 +1,10 @@
 <!doctype html>
-<html style='font-size:16px !important'>
+<html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-
+<meta charset="UTF-8" content="">
+<meta name="author" content="David C Black">
+<meta name="description" content="">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
@@ -27,11 +29,11 @@ body.typora-export { padding-left: 30px; padding-right: 30px; }
 #write li > figure:last-child { margin-bottom: 0.5rem; }
 #write ol, #write ul { position: relative; }
 img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
-button, input, select, textarea { color: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; }
+button, input, select, textarea { color: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-width: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; }
 input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; position: relative; }
+#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; }
 p { line-height: inherit; }
 h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
 p { orphans: 4; }
@@ -161,6 +163,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .md-fences.md-fences-math { font-size: 1em; }
 .md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
 .md-fences-advanced:not(.md-focus) { background: inherit; }
+.mermaid-svg { margin: auto; }
 .typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
 .typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
 .typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
@@ -231,14 +234,14 @@ mjx-container { break-inside: avoid; }
     /* open-sans-700 - latin-ext_latin */
     /* open-sans-700italic - latin-ext_latin */
   html {
-    font-size: 12px;
+    font-size: 16px;
     -webkit-font-smoothing: antialiased;
 }
 
 body {
     font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
     color: rgb(51, 51, 51);
-    line-height: 1.2;
+    line-height: 1.6;
 }
 
 #write {
@@ -612,53 +615,91 @@ header, .context-menu, .megamenu-content, footer{
  */
 
 body {
-  font-size: large;
-  /*
-  background-image: url(file:///Users/dcblack/Library/Application%20Support/abnerworks.Typora/themes/github.user/doulos.png);
-  background-size: 150px;
-  */
-  /* width: 300px;
-  */
+    font-size: large;
+    /*
+    background-image: url(file:///Users/dcblack/Library/Application%20Support/abnerworks.Typora/themes/github.user/doulos.png);
+    background-size: 150px;
+    */
+    /* width: 300px;
+    */
 }
 
 table {
-  width: 100%;
-  border: 2px solid black;
+    width: 100%;
+    border: 2px solid black;
 }
 
-.auto table { width: auto; }
-.table2 tr { width: 50%; }
-.table3 tr { width: 33%; }
-.table4 tr { width: 25%; }
-.table5 tr { width: 20%; }
-.table6 tr { width: 17%; }
+.auto table {
+    width: auto;
+}
 
+.table2 tr {
+    width: 50%;
+}
+
+.table3 tr {
+    width: 33%;
+}
+
+.table4 tr {
+    width: 25%;
+}
+
+.table5 tr {
+    width: 20%;
+}
+
+.table6 tr {
+    width: 17%;
+}
+
+li::marker {
+  content: "•";
+  color: red;
+}
 
 th {
-  background: Cyan;
+    background: Cyan;
 }
 
 h1 {
-  border-top: 1px solid black;
-  color: DarkOrange;
+    border-top: 1px solid black;
+    color: #fd7e14;
+    font-size: 2.00em;
 }
 
 h2 {
-  color: DodgerBlue;
-}
-h3 {
-  color: LimeGreen;
+    color: #007bff;
+    font-size: 1.75em;
 }
 
+h3 {
+    color: auto;
+    font-size: 1.50em;
+}
+
+hr {
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid;
+    border-left: none;
+}
+
+.md-toc-h4 {
+    display: none;
+}
+.md-toc-h5 {
+    display: none;
+}
+.md-toc-h6 {
+    display: none;
+}
  @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
-</style><title>WeeklyCheckin</title>
+</style><title>Fabulous Faster&#39;s Weekly Checkin</title>
 </head>
 <body class='typora-export'><div class='typora-export-content'>
-<div id='write'  class=''><h1 id='fabulous-fasters-weekly-checkin'><span>Fabulous Faster&#39;s Weekly Checkin</span></h1><h2 id='details'><span>Details</span></h2><h4 id='mutual-support-getting-to-our-goals'><span>Mutual support getting to our goals</span></h4><p><span>When: </span><mark><span>Wednesday evening at 9 PM Eastern / 8 PM Central / 7 PM Mountain / 6 PM Pacific</span></mark></p><p><span>Where: </span><mark><strong><span>Zoom Meeting CLICK HERE</span></strong><span> ➜</span></mark><a href='https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1' target='_blank' class='url'>https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1</a></p><p><span>What: </span><mark><span>Share your progress, questions, and goals</span></mark></p><h4 id='meeting-flow'><span>Meeting flow</span></h4><ol start='' ><li><p><span>Round-robin: How was your week (successes, challenges, questions, and goals for next week)? [Require one of each.] Verbal interjections (ideally praises or sympathy) by others should be limited, but text interjections may be longer. Consider how many are attending, and try to keep your answers short enough to allow everyone to participate. This is our main focus - support.</span></p></li><li><p><span>More extended feedback may occur when discussing something that came up in step 1.</span></p></li><li><p><span>As time allows, we solicit &quot;focused topics&quot; from anyone present (see below). We want to keep the discussion within the one-hour format.</span></p></li></ol><h4 id='focused-topics'><span>Focused topics</span></h4><p><span>Everyone is requested to find a topic they could present to keep on hand. It could be a short video or book excerpt (e.g., a fabulous keto recipe, an exercise idea, or a mental aid for relaxing). Really, anything that we could discuss in terms of improving our health (weight reduction, reversing diabetes, lowering chronic risks). It could even be a question. Let me know and I can add your idea to the list below.</span></p><ul><li><p><span>Recipe ideas</span></p></li><li><p><span>Recent news on keto</span></p></li><li><p><span>Upcoming conferences</span></p></li><li><p><span>Conference reports</span></p></li><li><p><span>Fasting tips</span></p></li><li><p><span>Scientific studies</span></p></li></ul><p>&nbsp;</p><h4 id='join-zoom-meeting'><span>Join Zoom meeting.</span></h4><p><span>Topic: Fabulous Fasters</span>
-<span>Time: Dec 4, 2024 08:00 PM Central Time (US and Canada)</span>
-<span>        Every week on Wed, 101 occurrence(s)</span>
-<span>Please download and import the following iCalendar (.ics) files to your calendar system.</span>
-<span>Weekly: </span><a href='https://us02web.zoom.us/meeting/tZAud--qrj0iEt2Hf3qHaZfi04cVWL2-3OsU/ics?icsToken=98tyKuGsrTssGNSTuBGORpwIA4igM-rziCFHj7cPtBm2EghSWAX_ZrZBBIVTQpWD&amp;meetingMasterEventId=IEN5oa7NTQil-l2c_V2dBw' target='_blank' class='url'>https://us02web.zoom.us/meeting/tZAud--qrj0iEt2Hf3qHaZfi04cVWL2-3OsU/ics?icsToken=98tyKuGsrTssGNSTuBGORpwIA4igM-rziCFHj7cPtBm2EghSWAX_ZrZBBIVTQpWD&meetingMasterEventId=IEN5oa7NTQil-l2c_V2dBw</a></p><p><mark><strong><span>CLICK HERE</span></strong><span> ➜</span></mark><a href='https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1' target='_blank' class='url'>https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1</a></p><p><span>Meeting ID: 843 0620 6889</span>
+<div id='write'  class=''><p><span>[Updated 2025-April-29 02:44 PM]</span></p><h1 id='fabulous-fasters-weekly-checkin'><span>Fabulous Faster&#39;s Weekly Checkin</span></h1><h2 id='details'><span>Details</span></h2><h4 id='mutual-support-getting-to-our-goals'><span>Mutual support getting to our goals</span></h4><p><span>When: </span><mark><span>Tuesday evening at 8 PM Eastern / 7 PM Central / 6 PM Mountain / 5 PM Pacific</span></mark></p><p><span>Where: </span><mark><strong><span>Zoom Meeting CLICK HERE</span></strong><span> ➜</span></mark><a href='https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1' target='_blank' class='url'>https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1</a></p><p><span>What: </span><mark><span>Share your progress, questions, and goals</span></mark></p><h4 id='meeting-flow'><span>Meeting flow</span></h4><ol start='' ><li><p><span>Round-robin: How was your week (successes, challenges, questions, and goals for next week)? [Require one of each.] Verbal interjections (ideally praises or sympathy) by others should be limited, but text interjections may be longer. Consider how many are attending, and try to keep your answers short enough to allow everyone to participate. This is our main focus - support.</span></p></li><li><p><span>More extended feedback may occur when discussing something that came up in step 1.</span></p></li><li><p><span>As time allows, we solicit &quot;focused topics&quot; from anyone present (see below). We want to keep the discussion within the one-hour format.</span></p></li></ol><h4 id='focused-topics'><span>Focused topics</span></h4><p><span>Everyone is requested to find a topic they could present to keep on hand. It could be a short video or book excerpt (e.g., a fabulous keto recipe, an exercise idea, or a mental aid for relaxing). Really, anything that we could discuss in terms of improving our health (weight reduction, reversing diabetes, lowering chronic risks). It could even be a question. Let me know and I can add your idea to the list below.</span></p><ul><li><p><span>Recipe ideas</span></p></li><li><p><span>Recent news on keto</span></p></li><li><p><span>Upcoming conferences</span></p></li><li><p><span>Conference reports</span></p></li><li><p><span>Fasting tips</span></p></li><li><p><span>Scientific studies</span></p></li></ul><p>&nbsp;</p><h4 id='join-zoom-meeting'><span>Join Zoom meeting.</span></h4><p><span>Topic: Fabulous Fasters</span>
+<span>Times: Every week on Tuesday at 8 PM Eastern / 7 PM Central / 6 PM Mountain / 5 PM Pacific</span></p><p><mark><strong><span>CLICK HERE</span></strong><span> ➜</span></mark><a href='https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1' target='_blank' class='url'>https://us02web.zoom.us/j/84306206889?pwd=dtQL3XRSa52AM78d8pcIr7rzlEGWVE.1</a></p><p><span>Meeting ID: 843 0620 6889</span>
 <span>Passcode: 224416</span></p><hr /><p><span>One tap mobile</span>
 <span>+13462487799,,84306206889#,,,,</span><em><span>224416# US (Houston)</span>
 <span>+12532158782,,84306206889#,,,,</span></em><span>224416# US (Tacoma)</span></p><hr /><p><span>Dial by your location</span>
