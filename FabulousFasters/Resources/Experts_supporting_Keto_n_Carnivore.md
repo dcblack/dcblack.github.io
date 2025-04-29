@@ -44,7 +44,7 @@ tags:
 
 # Experts on Keto & Carnivore
 
-[Updated 2025-April-25 04:19 PM]
+[Updated 2025-April-28 11:31 AM]
 
 This document can be found at:
 
@@ -57,9 +57,9 @@ This document can be found at:
 
 ## Introduction [READ FIRST]
 
-In this document, I have compiled a list of books, videos, doctors and researchers that express views on the impact of lifestyle on metabolic health. Specifically, I am researching what constitutes a healthy metabolism and how ketogenic and carnivore diets contribute to improved health. This aims to educate us on the scientific evidence supporting these approaches. By introducing trustworthy experts, I hope to help individuals better understand how to improve their own health and that of others. 
+I’ve put together a list of books, videos, doctors, and researchers who share their thoughts on how our lifestyle affects our metabolic health. I’m particularly interested in understanding what makes a healthy metabolism and how ketogenic and carnivore diets can improve our well-being. By bringing you together with these trusted experts, I hope to help you make informed choices about your health and the health of your loved ones. 
 
-This is not a book nor a carefully written news article and may seem a bit messy at first. The idea is to give you names and references which you can search further. You might want to start with the list of [Books](#Books) and read some of the starred book titles. Or perhaps view some of the [Videos](#Videos).
+This isn’t a book or a carefully written news article, so it may seem messy at first. It’s meant to give you names and references you can search further. Start with the list of Books and read some of the starred titles. Alternatively, view some of the Videos. I've also started a section containing referenes to scientific articles backing up important claims. It's still in its earliest stages.
 
 ## Methodology
 
@@ -83,7 +83,7 @@ I do have a few biases. I value practicing MDs over DOs. I also value bonafide P
 
 Finally, I may change my mind over time.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ## What topics are addressed?
 
@@ -113,7 +113,7 @@ The experts in this document address cures for the following diseases (alphabeti
 >
 > DISCLAIMER: I am not a medical doctor; nothing in this should be taken as medical advice. Everything presented is merely the results of my research. You should never begin a lifestyle program without consulting your doctor, and you should never change medications without first getting professional advice on the potential pros and cons for you as an individual. In any event, you are responsible for your health. Don't expect anyone to cure you.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 # Categories
 
@@ -122,13 +122,14 @@ I've labeled a lot of material herein as part of a category. Most items are not 
 Category labels (may be combined):
 
 - **(A)**uto-immne diseases (Muliple Sclerosis, Neuropathy, Parkinsons)
-- **(B)**rain issues & Sleep
+- **(B)**rain issues, Alzheimers, Dementia, Stress & Sleep
 - **(C)**ancer
 - **(D)**iabetes, Prediabetes, Insulinemia & Metabolism
 - **(E)**strogen & Women's issues
 - **(F)**alsehoods, lies & myths - Drugs, Food & Medical
 - **(G)**eneral biomes (mouth & intestinal), glucose, insulin, serotonin & biochemistry
 - **(H)**eart & Cardiovascular Disease (incl. blood pressure)
+- **(I)**nstrumentation & devices - CGM, Blood pressure device, Breath meter, Scale
 - **(K)**etosis, Autophagy & Fasting (see also (D)
 - **(L)**ifestyle - Carnivore, Keto, Ketovore: Recipes, Cost, Concerns (see also (F)alsehoods)
 - **(M)**edicines, supplements and foods
@@ -139,7 +140,7 @@ Category labels (may be combined):
 - **(X)**ercising, Weight lifting, HIIT, Aerobic
 - **(*)** when several categories apply equally
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ---
 
@@ -185,7 +186,7 @@ The following personalities have reasonable evidence substantiating their claims
 32. [**Dr Paul Mason, MD**](#Dr Paul Mason, MD)
 33. [**Dr Casey Means, MD ★**](#Dr Casey Means, MD ★), Surgeon
 34. [**Professor Tim Noaks**](Professor Tim Noaks), South African research scientist
-35. [**Dr Nick Norwitz, MD PhD**](#Dr Nick Norwitz, MD PhD), Metabolic researcher-educator
+35. [**Dr Nick Norwitz, MD PhD**](#Dr Nick Norwitz, MD PhD), Metabolic researcher & educator
 36. [**Dr Seam O'Mara, MD JD**](#https://www.youtube.com/@DrSeanOMara), focuses on visceral fat
 37. [**Dr Philip Ovadia, MD**](#Dr Philip Ovadia, MD), Heart Surgeon https://ifixhearts.com/about-me
 38. [**Dr Chris Palmer, MD**](#Dr Chris Palmer, MD), Director of Metabolic and Mental Health Program https://www.chrispalmermd.com/
@@ -200,7 +201,7 @@ The following personalities have reasonable evidence substantiating their claims
 47. [**Dr Eric Westman ★**](#Dr Eric Westman ★), Professor www.ericwestmanmd.com
 48. [**Dr Anthony Youn**](#Dr Anthony Youn), Plastic surgeon focused on collagen (5-types)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Questionable
 
@@ -214,7 +215,7 @@ The following have made statements that seem suspicious to me. They appear to be
 6. [**Paul Saladino, MD ✘**](#Paul Saladino, MD ✘) - promotes keto diets but uses science randomly to suit personal bias
 7. [**Mark Sisson ✘**](#Mark Sisson ✘)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 # Books
 
@@ -246,123 +247,132 @@ The following books are all from my personal library. I own either Audible, Kind
    - (W) [Nature Wants Us To Be Fat](https://a.co/d/2lvccrh), Richard Johnson, MD
    - (W) [The Bulletproof Diet: Lose Up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life ](https://amzn.to/3R0QQmQ)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 # Videos
 
 Sorted by category and then length.
 
-| Cat  | Type   |  Length | Fav  | Source         | Description/Link                                             |
-| ---- | ------ | ------: | :--: | -------------- | ------------------------------------------------------------ |
-| (A)  | Video  | 0:16:03 |  1   | Nick Norwitz   | [Metabolic Mayhem!](https://youtu.be/65q5NG7uba0?si=gNUVg38i-kB54rg8) |
-| (B)  | Course | 0:01:00 |  1   | myCME          | [Managing Major Mental Illness with Dietary Change: The New Science of Hope](https://www.mycme.com/courses/managing-major-mental-illness-with-dietary-change-9616) |
-| (B)  | Video  | 0:01:04 |  1   | Dr Norwitz     | [Why Sleep is the ultimate brain hack](https://youtube.com/shorts/r-FYy_eEV4w?si=g0ekTCETZNyIL8Ma) |
-| (B)  | Video  | 0:07:05 |  1   | Metabolic Mind | [The Connection Between Metabolic and Mental Health](https://youtu.be/3O7DHiMRfmU?si=1UL_Hajvhk0dkK1e) |
-| (B)  | Video  | 0:11:24 |  1   | Dr Norwitz     | [Why is sleep important](https://youtu.be/KNzTbr0B8aQ?si=zsqoOMYq1SE4Ofzg) |
-| (B)  | video  | 0:11:28 |  1   | Norwitz        | [How a Common Kitchen Spice Could Boost Brain Function and Mental Health](https://youtu.be/rF0c31ssn7g?si=g9-gUBI1yu-YXcJB) |
-| (B)  | Video  | 0:16:46 |  1   | Holly          | [After a Year of 3 AM Wakeups, I Finally. Fixed My Sleep](https://youtu.be/7ulKd1_sp5Y?si=2vvRLGezKt4FO5oe)] |
-| (B)  | Video  | 1:00:53 |  3   | Dr Boz         | [Sleep Lecture + BDNF + Training](https://youtu.be/E020nmykCHw?si=-nPrIvwVQrX9aSR8) |
-| (B)  | video  | 1:29:51 |  1   | primal         | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
-| (B)  | Video  | 1:29:51 |  1   | Primal         | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
-| (C)  | Video  | 0:00:56 |  1   | Dr Seyfried    | [Cancer is very preventable](https://youtube.com/shorts/PyPqJsKoe7M?si=x4uRz5LslnU7qd3x) |
-| (C)  | Video  | 0:42:07 |  1   | AI & Health    | [Can a keto diet eliminate cancer growth? Dr Seyfried says yes](https://www.youtube.com/watch?v=qa3j40c8iAo&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=2) |
-| (C)  | Video  | 0:50:30 |  1   | Dr Boz         | [My honest advice to someone with cancer](https://www.youtube.com/watch?v=BrZ-0Fqu5kk) |
-| (C)  | Video  | 0:51:58 |  1   | Dr Boz         | [My husband might have cancer. He should've listened](https://www.youtube.com/watch?v=fZnydK9KskU) |
-| (C)  | Video  | 1:04:22 |  3   | Dr Seyfried    | [Here’s How To Poison Tumors (FOR GOOD)](https://youtu.be/0sMXs_hp4Ww?si=FkM3MthM1ZKajRKf) |
-| (C)  | Video  | 1:06:50 |  1   | Dr Deming      | [Cancer Doc Promotes Keto Prevention](https://www.youtube.com/watch?v=V0_vVe1NxU4&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=1&pp=gAQBiAQB) |
-| (C)  | Video  | 1:12:57 |  1   | Primal         | [Eat HIGH FAT: The Fastest Way To Kill Cancer Cells (Thomas Seyfried)](https://youtu.be/D0L0uG2l6Zc?si=8sm_tih2NjHVQsIM) |
-| (C)  | Video  | 1:12:57 |  3   | Primal         | [Eat HIGH FAT: The Fastest Way To Kill Cancer Cells (Thomas Seyfried)](https://youtu.be/D0L0uG2l6Zc?si=7FVg0EgSXMIBmJtS) |
-| (C)  | Video  | 1:26:56 |  1   | Tucker         | [Dr. Patrick Soon-Shiong: You're Being Lied to About Cancer, Cause & Cure](https://youtu.be/mgZaT-OriO8?si=KIYSXanZbaW9fu6n) |
-| (D)  | Video  | 0:33:57 |  1   | Bikman PhD     | [Uric Acid](https://www.youtube.com/watch?v=Eh6pg3jBPEk)     |
-| (D)  | Video  | 0:38:55 |  1   | Metabolic Mind | [How This Doctor Put Over 150 Patients into Diabetes Remission](https://youtu.be/PJQ5e5jwSxY?si=wl5ppTOy4Wd9-3qk) |
-| (D)  | Video  | 0:52:57 |  1   | Dr Westman     | [Type 2 Diabetes - part 2](https://vimeo.com/1057213205/5daa79b816?ts=0&share=copy&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%8C%7BREPLAY%7D%20-%20How%20to%20achieve%20normal%20blood%20sugars%20without%20diabetes%20medication%20-%2016632954) |
-| (D)  | Video  | 1:02:46 |  1   | Dr Berry       | [Reversing T2D & The American Diabetes Society](https://www.youtube.com/live/W_xWso4WYjs?si=Ip5FeyAmGTc6lMu_) |
-| (D)  | Video  | 1:15:49 |  1   | Bikman PhD     | [4 Steps to Reverse Insulin Resistance](https://youtu.be/IrbhAk3lWcI?si=PgipBUVzOCGmx5Aw) |
-| (D)  | Video  | 1:20:31 |  1   | Dr Means       | [93% of Adults Have Metabolic Issues (10 COMMON Signs)](https://youtu.be/K8DSx1pM_3Q) |
-| (D)  | Video  | 1:53:17 |  1   | Dr Shanahan    | [The REAL Cause of Insulin Resistance (Stop Eating This!)](https://youtu.be/tN9o1oBDX-M?si=vZvpr-VORTZKn3yu) |
-| (E)  | Video  | 1:06:35 |  1   | Dr Boz         | [The BIGGEST LIE about Hormone Replacement Therapy (HRT)](https://www.youtube.com/live/72eSVVO9bpY?si=1sX1w0Pi6ezLmJSQ) |
-| (F)  | Video  | 0:01:06 |  3   | Dr Lufkin      | [Why Your Doctor LIES To You](https://www.youtube.com/live/ZkkbwA7We2U?si=v9tZFAQJoxf_a65R) |
-| (F)  | Video  | 0:04:22 |  1   | ?              | [The Great Cholesterol Scam](https://youtu.be/btUNkUlUIeQ?si=naDI7S0LZgdH6lxJ) |
-| (F)  | Video  | 0:15:03 |  1   | Dr Norwitz     | [Ignorance Is Bliss: The Dark Truth About Chocolate & Diabetes](https://www.youtube.com/watch?v=i9IgjxtTDEM) |
-| (F)  | Video  | 0:24:59 |  1   | Dr Brewer      | [Watch This Video Before Stopping Baby Aspirin](https://youtu.be/9VQtnHAakwQ?si=Hmk2EnCV6FoYpr_j) |
-| (F)  | Video  | 0:30:33 |  1   | Carn Squad     | [Massive Data Leaked...3 Stunning Carnivore Studies Retrieved](https://youtu.be/vjhX400AQG4?si=aA82XrI6H5vfCR00) |
-| (F)  | Video  | 0:47:46 |  1   | Dr Brewer      | [Big Food's Dirty Secret Exposed! ft. Dr. Lustig](https://www.youtube.com/watch?v=0l3o-MZl4ts&t=0) |
-| (F)  | Video  | 0:56:51 |  1   | Dr Berry       | [Why Dieticians Give Bad Advice](https://www.youtube.com/live/5DMN5kAXQT4?si=fdNJoSfDLx1GwlnS) |
-| (F)  | Video  | 1:09:36 |  1   | Dr Westman     | ["Big Pharma Is Fooling You and You Don't Even Know It!" UNCUT - Doctor Reacts](https://www.youtube.com/watch?v=SyLVrHWZTEc) |
-| (F)  | Video  | 1:10:09 |  3   | Boz & Berry    | [About being a Doctor on Youtube and Keto!](https://www.youtube.com/watch?v=_sHgwxDHGYE) |
-| (F)  | Video  | 1:10:45 |  1   | Dr Berry       | [Carnivore Diet Dangers? 2 Doctors Answer Questions - Dr Chaffee](https://www.youtube.com/watch?v=bVj_kYUM0Sk) |
-| (F)  | Video  | 1:12:26 |  1   | Dr Westman     | [Big Pharma Lies: What They Don't Want You to Know About Statins with Dave Feldman](https://www.youtube.com/watch?v=tKWaS9-8zLQ) |
-| (F)  | Video  | 1:15:59 |  3   | Dr Boz         | [**SHOW DOCTORS** What Physicians Need to Know About the Ketogenic Diet](https://youtu.be/WtcK8lZV1AM?si=cadfge58QArkvEkK) |
-| (G)  | Video  | 0:19:49 |  1   | Dr Ekberg      | [No Carb Foods Can Still Spike Your Blood Sugar](https://youtu.be/jNpwxgfihiA?si=KTVeXrlPu7uvw5eX) |
-| (G)  | Video  | 0:35:10 |  1   | Dr Ekberg      | [Top 10 Foods That DESTROY Your Blood - Sugar!](https://youtu.be/i1QkD8neXgo?si=N_Hl6CiTNHUlBavi) |
-| (H)  | Video  | 0:21:10 |  1   | Dr Brewer      | [#1 Best Way to Find Clogged Arteries](https://www.youtube.com/watch?v=fV7DqKCVrro) |
-| (H)  | Video  | 0:30:46 |  1   | Dr Brewer      | [#1 Worst Meal that Clogs Your Arteries](https://www.youtube.com/watch?v=xRwVxuPCzsc) |
-| (H)  | Video  | 0:32:19 |  2   | Dr Brewer      | [How I Cleaned Out My Arteries In 1 Year](https://www.youtube.com/watch?v=yYLym9PiJtA) |
-| (H)  | Video  | 0:33:27 |  1   | Dr Brewer      | [Top 7 Foods That Clean Out Arteries](https://www.youtube.com/watch?v=WYK-NOPbtfA) |
-| (H)  | Video  | 0:37:14 |  3   | Dr Ovadia      | [Heart Surgeon: The WORST Food Destroying Your Heart](https://www.youtube.com/watch?v=i4XUcNcO0dw&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=5&pp=gAQBiAQB) – interview |
-| (H)  | Video  | 0:57:45 |  1   | Dr Boz         | [He took the 'best' statins for 14 years and calcified his arteries](https://www.youtube.com/live/AwBCS-8_M8M?si=6WvuUL1NtPhp8gc-) |
-| (H)  | Video  | 1:05:57 |  1   | Dr Brewer      | [How to Predict a Heart Attack AT HOME](https://www.youtube.com/watch?v=WJ5upZcXTSk) |
-| (H)  | Video  | 1:13:03 |  1   | Dr Boz         | [The biggest risk for Heart Disease is NOT LDL or HbA1c](https://www.youtube.com/live/jq50sqWZW7E?si=EGnQZf2noNvWatfs) |
-| (H)  | Video  | 1:13:03 |  1   | Dr Boz         | [The biggest risk for Heart Disease is NOT LDL or HbA1c](https://www.youtube.com/watch?v=jq50sqWZW7E&t=0s) with Dr Kevin Foray |
-| (H)  | Video  | 1:21:52 |  1   | Dr Brewer      | [How To Do Keto To Burn Fat, Reverse Fatty Liver & Unclog Arteries](https://www.youtube.com/live/s7yK6h37DdE?si=9IZp77N6wAcBOs_K) |
-| (H)  | Video  | 1:22:05 |  1   | Dr Brewer      | [How Quitting Sugar Reversed My Arterial Plaque](https://www.youtube.com/watch?v=ODcqzqirZAk&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=7) |
-| (H)  | Video  | 1:25:03 |  1   | Dr Berry       | [Reverse Visceral Fat & Chronic Inflammation](https://www.youtube.com/live/EvKiRewyYJg?si=UAmY8V1R1FmD-Lvp) |
-| (K)  | Series |      20 |  3   | Dr Boz         | [Kickstart Metabolism In 3 Days With Sardines](https://youtu.be/Bhipbos4eUU?si=JvOccHK9jLLFAn_z) |
-| (K)  | Video  | 0:03:26 |  1   | Dr Boz         | [Tutorial Cronometer App - Count your carbs](https://www.loom.com/share/9b4467fb5ff843e78acc5eb42e085fbc) |
-| (K)  | Video  | 0:06:09 |  1   | Dr Boz         | [The keto mistake I wish I could undo](https://www.youtube.com/watch?v=GoYWOwnKJ3A) |
-| (K)  | Video  | 0:07:47 |  1   | Dr Norwitz     | [Finally! How Ketosis Really Works.](https://www.youtube.com/watch?v=uyq5qAPKTKg) |
-| (K)  | Video  | 0:08:31 |  1   | Dr Boz         | [Watch This Before You Shop](https://www.youtube.com/watch?v=UYxKm71MeII) |
-| (K)  | Video  | 0:08:53 |  1   | Dr Westman     | [TOP 10 TIPS TO START KETO!](https://www.youtube.com/watch?v=M47nd9F7vPk) |
-| (K)  | Video  | 0:12:53 |  1   | Dr Boz         | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
-| (K)  | Video  | 0:12:56 |  1   | Dr Norwitz     | [How Ketones Take out the Trash: New Research on Diet and Brain Aging](https://www.youtube.com/watch?v=oRaNzfHF_do) |
-| (K)  | Video  | 0:12:57 |  1   | Dr Boz         | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
-| (K)  | Video  | 0:14:43 |  1   | Dr Boz         | [Human Growth Hormone: How to do HGH Right!](https://www.youtube.com/watch?v=UJOcc47pbwU) |
-| (K)  | Video  | 0:28:02 |  1   | Bikman PhD     | [How Autophagy Protects Your Cells and Boosts Longevity](https://youtu.be/Er1MVXUOJh8?si=dMBe1GD-xXKdusGc) |
-| (K)  | Video  | 0:46:45 |  1   | Dr Boz         | [The Science on Lifestyle for REVERSING “Incurable” Diseases](https://www.youtube.com/watch?v=zDWJeIT_xbY) |
-| (K)  | Video  | 0:51:35 |  1   | Bikman PhD     | [FASTING EASY? add butter & MCT oil: no effect on insulin, mTOR, autophagy](https://youtu.be/NOVHg0veeFY?si=68S8RAv_V759CFnh) |
-| (K)  | Video  | 1:00:20 |  1   | Dr Boz         | [What Labs do I order?](https://www.youtube.com/live/rbjEh2e_dko?si=HFL9zhI82mN1em2-) |
-| (K)  | Video  | 1:01:18 |  1   | Dr Boz         | [How Long to Fast for 3 Stages of Autophagy - Keto and Intermittent Fasting](https://www.youtube.com/live/SerNSubQJos?si=CKs5PNvd19AnellR) |
-| (K)  | Video  | 1:01:40 |  1   | Primal         | [The FASTEST Way To Fix Fatty Liver Naturally (10 COMMON Symptoms)](https://youtu.be/zxdm-Dd6J8o?si=lx9DNPXVBeopqSpL) |
-| (K)  | Video  | 1:02:40 |  3   | Dr Boz         | [Fix Insulin Resistance Once & For All (10 COMMON Symptoms)](https://youtu.be/PS2cP2SGKtg?si=jJw2YCw1vSGwefBa) |
-| (K)  | Video  | 1:04:36 |  1   | Primal         | [Ultimate Fasting Guide: Lose Weight Faster & Age In Reverse (DO THIS) Dave Asprey](https://youtu.be/6KSyXuxTnRM?si=GtZdf9M5_EPDz3TI) |
-| (K)  | Video  | 1:28:34 |  1   | Dr Chappus     | [Our Bodies ARE NOT Designed to Run on Carbohydrates - Dr. Gary Fettke](https://youtu.be/5W5w0WSBwDI?si=DaQ2LkC3Xnlc2Q9q) |
-| (K)  | Video  | 2:41:09 |  1   | Dr Lustig      | [The Shocking Benefits of Quitting Sugar for 30 Days! (How To Live Longer)](https://youtu.be/IKDsZWbm_xM?si=wKFXykvgFExykEop) |
-| (L)  | Video  | 0:01:37 |  1   | Dr Hampton     | [Can you really AFFORD Carnivore?](https://youtube.com/shorts/aEAxV5nRyWg?si=7-ScLUnMlK1emYkQ) |
-| (L)  | Video  | 0:04:18 |  1   | Dr Boz         | [Carnivore Pitfalls](https://youtu.be/ylLCeEbjzco?si=_h2u18QL2LiJT1Cp) |
-| (L)  | Video  | 0:23:00 |  1   | myzerocarblife | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
-| (L)  | Video  | 0:23:00 |  1   | MyZeroCarbLife | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
-| (L)  | Video  | 1:01:23 |  1   | Tour PhD       | [Tour on The Origin of Life](https://youtu.be/qeuW2UPa1Lw?si=bB_tEGP9fFmKCJ8o) |
-| (L)  | Video  | 1:04:05 |  1   | Primal         | [I Only Ate Meat For 200 DAYS: Here's What Happened To My HEART](https://youtu.be/PEtXLp2YEtk?si=xoGMb7Ng9QkwdTwk) |
-| (M)  | Video  | 0:05:01 |  1   | Dr Berg        | [Fascinating Health Benefits of Methylene Blue](https://www.youtube.com/watch?v=dDUZ0ODBfJs&pp=ygUOTWV0aHlsZW5lIGJsdWXSBwkJhAkBhyohjO8%3D) |
-| (M)  | Video  | 0:07:05 |  1   | Gary Brecka    | [Methylene Blue: Improved Focus, ATP Production & Anti-Aging with Gary Brecka](https://www.youtube.com/watch?v=KvASX2yp0zU&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
-| (M)  | Video  | 0:07:50 |  1   | Dr Anderson    | [Everything You NEED to KNOW About Methylene Blue](https://www.youtube.com/watch?v=bfPByasoJTw&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
-| (M)  | Video  | 1:01:07 |  1   | Dr Boz         | [Why I'm using Methylene Blue for my metabolism](https://www.youtube.com/watch?v=WAuGLi4jsBQ&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
-| (P)  | Video  | 0:07:23 |  1   | James Tour     | [Biochemist, Messianic Jew](https://youtu.be/QNGLZvtRoiU?si=xR9lWh1tD8txOgw_) |
-| (S)  | Video  | 0:05:11 |  1   | Dave Mac       | [85-Year-Olds Stun Doctor with Carnivore Results: See His Reaction!](https://www.youtube.com/watch?v=iyenYTtCx6E) |
-| (S)  | Video  | 1:02:07 |  1   | Dave Mac       | [How My Carnivore Success Made My Doctor a Believer](https://youtu.be/OAIXWxq41SI?si=-sXS7XNkFmJ5WXQf) |
-| (T)  | Video  | 0:01:09 |  1   | Dr Brewer      | [How to Measure you Blood Pressure the Right Way (short)](https://www.youtube.com/watch?v=dP8oZ916pcE) |
-| (T)  | Video  | 0:12:23 |  1   | Dr Brewer      | [#1 Best AT HOME Test to Find Clogged Arteries](https://youtu.be/GNayrvFhiVE?si=o7v-UsVkA09zKkS1) (blood pressure) |
-| (T)  | Video  | 0:22:35 |  1   | Dr Brewer      | [You're Measuring your Blood Pressure WRONG: Top 10 MISTAKES](https://www.youtube.com/watch?v=oygDkbEDKRw) |
-| (T)  | Video  | 0:28:39 |  1   | Dr Brewer      | [#1 Best AT HOME Test to Predict Longevity](https://youtu.be/ao1vYrYl0iw?si=_ycoZEJlDly3qiLy) |
-| (W)  | Video  | 0:01:20 |  1   | Gravitas       | [Fat Movie part 2](https://youtu.be/3u8jzKkMA98?si=z1llsdvl7H-cRTDP) |
-| (W)  | Video  | 0:01:36 |  1   | Gravitas       | [Fat Movie part 1](https://youtu.be/iVJM_0XEiBI?si=9f9FvG8BuFb2Aqt4) |
-| (W)  | Video  | 0:05:47 |  1   | Dr Boz         | [Why you can't lose weight with intermittent fasting](https://www.youtube.com/watch?v=mDyYN4nW9Rk) |
-| (W)  | Video  | 0:12:23 |  1   | Dr Boz         | [72 Hour Fast Benefits, How it Effects Norepinephrine](https://www.youtube.com/watch?v=PRcTrRrcupg) |
-| (W)  | Video  | 0:12:55 |  1   | Dr Berry       | [BEWARE: Fasting is Dangerous?](https://www.youtube.com/watch?v=cnnCwOhJJic&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=4) |
-| (W)  | Video  | 0:23:31 |  1   | Lillie         | [3 Major Problems with the Carnivore Diet](https://www.youtube.com/watch?v=MWVLCrMfvCQ) |
-| (W)  | Video  | 0:24:37 |  1   | Dr Ekberg      | [1 Absolute Best Meal Plan To Lose Weight Faster](https://www.youtube.com/watch?v=LHO_6kkQodY) |
-| (W)  | Video  | 0:32:26 |  1   | Dr Ekberg      | [Top 10 Fat Burning Foods For FAST Weight LOSS](https://youtu.be/8NRtHJqwuGA?si=vaYbwidqbxW-POcS) |
-| (W)  | Video  | 0:44:27 |  1   | Bikman PhD     | [Fat: Why it Matters and What to Do About It](https://www.youtube.com/watch?v=gfikT_O4v9A&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=6) |
-| (W)  | Video  | 0:56:50 |  1   | Dr Fung        | [BURN BODY FAT?](https://youtu.be/D8nArHgImrk?si=5P1vp2Fuq8-35lsH) |
-| (W)  | Video  | 1:01:50 |  1   | Dr Boz         | [80lbs lost with and withOUT Autophagy](https://www.youtube.com/watch?v=82CPlwz6Pmc) |
-| (W)  | Video  | 1:10:50 |  1   | Bikman PhD     | [The Truth about GLP 1, Ozempic and Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
-| (W)  | Video  | 1:10:50 |  1   | Dr Bikman      | [The Truth about GLP 1, Ozempic & Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
-| (W)  | Video  | 1:24:08 |  1   | Primal Podcast | [Ultimate Protein Guide: Lose Weight Faster: How Much You REALLY Need)](https://youtu.be/hHkxBEQaZdY?si=AfMCtgd06BTfK2kD) |
-| (W)  | Video  | 1:30:23 |  3   | Dr Chaffee     | [Revolutionizing Nutrition: What You've Been Doing Wrong](https://youtu.be/K66nar1_zX8?si=5yprKMuAknpzWWY5) |
-| (W)  | Video  | 1:32:17 |  1   | Levels         | [Uncovering the SHOCKING Realities of OBESITY and Skinny Fat - Dr. Robert Lustig](https://youtu.be/sxJvfqTFttY?si=Ow9vJQ-1o7HEMgbd) |
-| (W)  | Video  | 1:32:21 |  1   | Dr Chaffee     | [Why We Are Carnivores Slide Presentation](https://www.youtube.com/watch?v=C-WUb3mJEso) |
+| Cat  | Type   |  Length | Fav  | Source          | Description/Link                                             |
+| ---- | ------ | ------: | :--: | --------------- | ------------------------------------------------------------ |
+| (A)  | Video  | 0:16:03 |  1   | Nick Norwitz    | [Metabolic Mayhem!](https://youtu.be/65q5NG7uba0?si=gNUVg38i-kB54rg8) |
+| (B)  | Course | 0:01:00 |  1   | myCME           | [Managing Major Mental Illness with Dietary Change: The New Science of Hope](https://www.mycme.com/courses/managing-major-mental-illness-with-dietary-change-9616) |
+| (B)  | Video  | 0:00:50 |  1   | Dr Boz          | [Im on Team Reversible (Alzheimer’s](https://youtube.com/shorts/XOSlUiHHRrw?si=MO9rwKEvvvxnYTlL) |
+| (B)  | Video  | 0:01:04 |  1   | Dr Norwitz      | [Why Sleep is the ultimate brain hack](https://youtube.com/shorts/r-FYy_eEV4w?si=g0ekTCETZNyIL8Ma) |
+| (B)  | Video  | 0:01:06 |  1   | Dave Asprey     | [Optimal Stress](https://youtube.com/shorts/PiWG5uJ6xuE?si=HYvK-yqJpkvQsrKa) |
+| (B)  | Video  | 0:01:36 |  1   | Metabolic Mind  | ["I stumbled upon this life quite by accident."](https://youtube.com/shorts/7r3rgdG0-54?si=vfEqZctBxaVEDhtu) |
+| (B)  | Video  | 0:07:05 |  1   | Metabolic Mind  | [The Connection Between Metabolic and Mental Health](https://youtu.be/3O7DHiMRfmU?si=1UL_Hajvhk0dkK1e) |
+| (B)  | Video  | 0:11:24 |  1   | Nick Norwitz    | [Why is sleep important](https://youtu.be/KNzTbr0B8aQ?si=zsqoOMYq1SE4Ofzg) |
+| (B)  | video  | 0:11:28 |  1   | Nick Norwitz    | [How a Common Kitchen Spice Could Boost Brain Function and Mental Health](https://youtu.be/rF0c31ssn7g?si=g9-gUBI1yu-YXcJB) |
+| (B)  | Video  | 0:16:46 |  1   | Holly           | [After a Year of 3 AM Wakeups, I Finally. Fixed My Sleep](https://youtu.be/7ulKd1_sp5Y?si=2vvRLGezKt4FO5oe)] |
+| (B)  | Video  | 1:00:53 |  3   | Dr Boz          | [Sleep Lecture + BDNF + Training](https://youtu.be/E020nmykCHw?si=-nPrIvwVQrX9aSR8) |
+| (B)  | video  | 1:29:51 |  1   | primal          | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
+| (B)  | Video  | 1:29:51 |  1   | Primal          | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
+| (C)  | Video  | 0:00:56 |  1   | Dr Seyfried     | [Cancer is very preventable](https://youtube.com/shorts/PyPqJsKoe7M?si=x4uRz5LslnU7qd3x) |
+| (C)  | Video  | 0:42:07 |  1   | AI & Health     | [Can a keto diet eliminate cancer growth? Dr Seyfried says yes](https://www.youtube.com/watch?v=qa3j40c8iAo&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=2) |
+| (C)  | Video  | 0:50:30 |  1   | Dr Boz          | [My honest advice to someone with cancer](https://www.youtube.com/watch?v=BrZ-0Fqu5kk) |
+| (C)  | Video  | 0:51:58 |  1   | Dr Boz          | [My husband might have cancer. He should've listened](https://www.youtube.com/watch?v=fZnydK9KskU) |
+| (C)  | Video  | 1:04:22 |  3   | Dr Seyfried     | [Here’s How To Poison Tumors (FOR GOOD)](https://youtu.be/0sMXs_hp4Ww?si=FkM3MthM1ZKajRKf) |
+| (C)  | Video  | 1:06:50 |  1   | Dr Deming       | [Cancer Doc Promotes Keto Prevention](https://www.youtube.com/watch?v=V0_vVe1NxU4&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=1&pp=gAQBiAQB) |
+| (C)  | Video  | 1:12:57 |  1   | Primal          | [Eat HIGH FAT: The Fastest Way To Kill Cancer Cells (Thomas Seyfried)](https://youtu.be/D0L0uG2l6Zc?si=8sm_tih2NjHVQsIM) |
+| (C)  | Video  | 1:12:57 |  3   | Primal          | [Eat HIGH FAT: The Fastest Way To Kill Cancer Cells (Thomas Seyfried)](https://youtu.be/D0L0uG2l6Zc?si=7FVg0EgSXMIBmJtS) |
+| (C)  | Video  | 1:26:56 |  1   | Tucker          | [Dr. Patrick Soon-Shiong: You're Being Lied to About Cancer, Cause & Cure](https://youtu.be/mgZaT-OriO8?si=KIYSXanZbaW9fu6n) |
+| (D)  | Video  | 0:33:57 |  1   | Bikman PhD      | [Uric Acid](https://www.youtube.com/watch?v=Eh6pg3jBPEk)     |
+| (D)  | Video  | 0:38:55 |  1   | Metabolic Mind  | [How This Doctor Put Over 150 Patients into Diabetes Remission](https://youtu.be/PJQ5e5jwSxY?si=wl5ppTOy4Wd9-3qk) |
+| (D)  | Video  | 0:52:57 |  1   | Dr Westman      | [Type 2 Diabetes - part 2](https://vimeo.com/1057213205/5daa79b816?ts=0&share=copy&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%8C%7BREPLAY%7D%20-%20How%20to%20achieve%20normal%20blood%20sugars%20without%20diabetes%20medication%20-%2016632954) |
+| (D)  | Video  | 1:02:46 |  1   | Dr Berry        | [Reversing T2D & The American Diabetes Society](https://www.youtube.com/live/W_xWso4WYjs?si=Ip5FeyAmGTc6lMu_) |
+| (D)  | Video  | 1:15:49 |  1   | Bikman PhD      | [4 Steps to Reverse Insulin Resistance](https://youtu.be/IrbhAk3lWcI?si=PgipBUVzOCGmx5Aw) |
+| (D)  | Video  | 1:20:31 |  1   | Dr Means        | [93% of Adults Have Metabolic Issues (10 COMMON Signs)](https://youtu.be/K8DSx1pM_3Q) |
+| (D)  | Video  | 1:53:17 |  1   | Dr Shanahan     | [The REAL Cause of Insulin Resistance (Stop Eating This!)](https://youtu.be/tN9o1oBDX-M?si=vZvpr-VORTZKn3yu) |
+| (E)  | Video  | 1:06:35 |  1   | Dr Boz          | [The BIGGEST LIE about Hormone Replacement Therapy (HRT)](https://www.youtube.com/live/72eSVVO9bpY?si=1sX1w0Pi6ezLmJSQ) |
+| (F)  | Video  | 0:01:06 |  3   | Dr Lufkin       | [Why Your Doctor LIES To You](https://www.youtube.com/live/ZkkbwA7We2U?si=v9tZFAQJoxf_a65R) |
+| (F)  | Video  | 0:04:22 |  1   | ?               | [The Great Cholesterol Scam](https://youtu.be/btUNkUlUIeQ?si=naDI7S0LZgdH6lxJ) |
+| (F)  | Video  | 0:15:03 |  1   | Nick Norwitz    | [Ignorance Is Bliss: The Dark Truth About Chocolate & Diabetes](https://www.youtube.com/watch?v=i9IgjxtTDEM) |
+| (F)  | Video  | 0:24:59 |  1   | Dr Brewer       | [Watch This Video Before Stopping Baby Aspirin](https://youtu.be/9VQtnHAakwQ?si=Hmk2EnCV6FoYpr_j) |
+| (F)  | Video  | 0:29:46 |  1   | Dr Ekberg       | [#1 Most DANGEROUS Cholesterol Lie You Must Know!](https://youtu.be/dQLkDijNE2A?si=UriUk4mG9nkkorYM) |
+| (F)  | Video  | 0:30:33 |  1   | Carn Squad      | [Massive Data Leaked...3 Stunning Carnivore Studies Retrieved](https://youtu.be/vjhX400AQG4?si=aA82XrI6H5vfCR00) |
+| (F)  | Video  | 0:47:46 |  1   | Dr Brewer       | [Big Food's Dirty Secret Exposed! ft. Dr. Lustig](https://www.youtube.com/watch?v=0l3o-MZl4ts&t=0) |
+| (F)  | Video  | 0:56:51 |  1   | Dr Berry        | [Why Dieticians Give Bad Advice](https://www.youtube.com/live/5DMN5kAXQT4?si=fdNJoSfDLx1GwlnS) |
+| (F)  | Video  | 1:09:36 |  1   | Dr Westman      | ["Big Pharma Is Fooling You and You Don't Even Know It!" UNCUT - Doctor Reacts](https://www.youtube.com/watch?v=SyLVrHWZTEc) |
+| (F)  | Video  | 1:10:09 |  3   | Boz & Berry     | [About being a Doctor on Youtube and Keto!](https://www.youtube.com/watch?v=_sHgwxDHGYE) |
+| (F)  | Video  | 1:10:45 |  1   | Dr Berry        | [Carnivore Diet Dangers? 2 Doctors Answer Questions - Dr Chaffee](https://www.youtube.com/watch?v=bVj_kYUM0Sk) |
+| (F)  | Video  | 1:12:26 |  1   | Dr Westman      | [Big Pharma Lies: What They Don't Want You to Know About Statins with Dave Feldman](https://www.youtube.com/watch?v=tKWaS9-8zLQ) |
+| (F)  | Video  | 1:15:59 |  3   | Dr Boz          | [**SHOW DOCTORS** What Physicians Need to Know About the Ketogenic Diet](https://youtu.be/WtcK8lZV1AM?si=cadfge58QArkvEkK) |
+| (G)  | Video  | 0:19:49 |  1   | Dr Ekberg       | [No Carb Foods Can Still Spike Your Blood Sugar](https://youtu.be/jNpwxgfihiA?si=KTVeXrlPu7uvw5eX) |
+| (G)  | Video  | 0:35:10 |  1   | Dr Ekberg       | [Top 10 Foods That DESTROY Your Blood - Sugar!](https://youtu.be/i1QkD8neXgo?si=N_Hl6CiTNHUlBavi) |
+| (H)  | Video  | 0:21:10 |  1   | Dr Brewer       | [#1 Best Way to Find Clogged Arteries](https://www.youtube.com/watch?v=fV7DqKCVrro) |
+| (H)  | Video  | 0:30:46 |  1   | Dr Brewer       | [#1 Worst Meal that Clogs Your Arteries](https://www.youtube.com/watch?v=xRwVxuPCzsc) |
+| (H)  | Video  | 0:32:19 |  2   | Dr Brewer       | [How I Cleaned Out My Arteries In 1 Year](https://www.youtube.com/watch?v=yYLym9PiJtA) |
+| (H)  | Video  | 0:33:27 |  1   | Dr Brewer       | [Top 7 Foods That Clean Out Arteries](https://www.youtube.com/watch?v=WYK-NOPbtfA) |
+| (H)  | Video  | 0:37:14 |  3   | Dr Ovadia       | [Heart Surgeon: The WORST Food Destroying Your Heart](https://www.youtube.com/watch?v=i4XUcNcO0dw&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=5&pp=gAQBiAQB) – interview |
+| (H)  | Video  | 0:57:45 |  1   | Dr Boz          | [He took the 'best' statins for 14 years and calcified his arteries](https://www.youtube.com/live/AwBCS-8_M8M?si=6WvuUL1NtPhp8gc-) |
+| (H)  | Video  | 1:05:57 |  1   | Dr Brewer       | [How to Predict a Heart Attack AT HOME](https://www.youtube.com/watch?v=WJ5upZcXTSk) |
+| (H)  | Video  | 1:13:03 |  1   | Dr Boz          | [The biggest risk for Heart Disease is NOT LDL or HbA1c](https://www.youtube.com/live/jq50sqWZW7E?si=EGnQZf2noNvWatfs) |
+| (H)  | Video  | 1:13:03 |  1   | Dr Boz          | [The biggest risk for Heart Disease is NOT LDL or HbA1c](https://www.youtube.com/watch?v=jq50sqWZW7E&t=0s) with Dr Kevin Foray |
+| (H)  | Video  | 1:21:52 |  1   | Dr Brewer       | [How To Do Keto To Burn Fat, Reverse Fatty Liver & Unclog Arteries](https://www.youtube.com/live/s7yK6h37DdE?si=9IZp77N6wAcBOs_K) |
+| (H)  | Video  | 1:22:05 |  1   | Dr Brewer       | [How Quitting Sugar Reversed My Arterial Plaque](https://www.youtube.com/watch?v=ODcqzqirZAk&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=7) |
+| (H)  | Video  | 1:25:03 |  1   | Dr Berry        | [Reverse Visceral Fat & Chronic Inflammation](https://www.youtube.com/live/EvKiRewyYJg?si=UAmY8V1R1FmD-Lvp) |
+| (I)  | Video  | 0:08:30 |  1   | Diabetes Strong | [My Favorite CGM Sites | Best Accuracy and Fewest Failures](https://www.youtube.com/watch?v=oifd5lyMWaQ) |
+| (K)  | Series |      20 |  3   | Dr Boz          | [Kickstart Metabolism In 3 Days With Sardines](https://youtu.be/Bhipbos4eUU?si=JvOccHK9jLLFAn_z) |
+| (K)  | Video  | 0:03:26 |  1   | Dr Boz          | [Tutorial Cronometer App - Count your carbs](https://www.loom.com/share/9b4467fb5ff843e78acc5eb42e085fbc) |
+| (K)  | Video  | 0:06:09 |  1   | Dr Boz          | [The keto mistake I wish I could undo](https://www.youtube.com/watch?v=GoYWOwnKJ3A) |
+| (K)  | Video  | 0:07:47 |  1   | Nick Norwitz    | [Finally! How Ketosis Really Works.](https://www.youtube.com/watch?v=uyq5qAPKTKg) |
+| (K)  | Video  | 0:08:31 |  1   | Dr Boz          | [Watch This Before You Shop](https://www.youtube.com/watch?v=UYxKm71MeII) |
+| (K)  | Video  | 0:08:53 |  1   | Dr Westman      | [TOP 10 TIPS TO START KETO!](https://www.youtube.com/watch?v=M47nd9F7vPk) |
+| (K)  | Video  | 0:12:53 |  1   | Dr Boz          | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
+| (K)  | Video  | 0:12:56 |  1   | Nick Norwitz    | [How Ketones Take out the Trash: New Research on Diet and Brain Aging](https://www.youtube.com/watch?v=oRaNzfHF_do) |
+| (K)  | Video  | 0:12:57 |  1   | Dr Boz          | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
+| (K)  | Video  | 0:14:43 |  1   | Dr Boz          | [Human Growth Hormone: How to do HGH Right!](https://www.youtube.com/watch?v=UJOcc47pbwU) |
+| (K)  | Video  | 0:28:02 |  1   | Bikman PhD      | [How Autophagy Protects Your Cells and Boosts Longevity](https://youtu.be/Er1MVXUOJh8?si=dMBe1GD-xXKdusGc) |
+| (K)  | Video  | 0:45:48 |  1   | Dr Ekberg       | [What Happens If You Don't Eat For 100 Hours?](https://youtu.be/DOevpP0fX28?si=IqBX4PZwNbgivwIa) |
+| (K)  | Video  | 0:46:45 |  1   | Dr Boz          | [The Science on Lifestyle for REVERSING “Incurable” Diseases](https://www.youtube.com/watch?v=zDWJeIT_xbY) |
+| (K)  | Video  | 0:51:35 |  1   | Bikman PhD      | [FASTING EASY? add butter & MCT oil: no effect on insulin, mTOR, autophagy](https://youtu.be/NOVHg0veeFY?si=68S8RAv_V759CFnh) |
+| (K)  | Video  | 1:00:20 |  1   | Dr Boz          | [What Labs do I order?](https://www.youtube.com/live/rbjEh2e_dko?si=HFL9zhI82mN1em2-) |
+| (K)  | Video  | 1:01:18 |  1   | Dr Boz          | [How Long to Fast for 3 Stages of Autophagy - Keto and Intermittent Fasting](https://www.youtube.com/live/SerNSubQJos?si=CKs5PNvd19AnellR) |
+| (K)  | Video  | 1:01:40 |  1   | Primal          | [The FASTEST Way To Fix Fatty Liver Naturally (10 COMMON Symptoms)](https://youtu.be/zxdm-Dd6J8o?si=lx9DNPXVBeopqSpL) |
+| (K)  | Video  | 1:02:40 |  3   | Dr Boz          | [Fix Insulin Resistance Once & For All (10 COMMON Symptoms)](https://youtu.be/PS2cP2SGKtg?si=jJw2YCw1vSGwefBa) |
+| (K)  | Video  | 1:04:36 |  1   | Primal          | [Ultimate Fasting Guide: Lose Weight Faster & Age In Reverse (DO THIS) Dave Asprey](https://youtu.be/6KSyXuxTnRM?si=GtZdf9M5_EPDz3TI) |
+| (K)  | Video  | 1:28:34 |  1   | Dr Chappus      | [Our Bodies ARE NOT Designed to Run on Carbohydrates - Dr. Gary Fettke](https://youtu.be/5W5w0WSBwDI?si=DaQ2LkC3Xnlc2Q9q) |
+| (K)  | Video  | 2:41:09 |  1   | Dr Lustig       | [The Shocking Benefits of Quitting Sugar for 30 Days! (How To Live Longer)](https://youtu.be/IKDsZWbm_xM?si=wKFXykvgFExykEop) |
+| (L)  | Video  | 0:01:37 |  1   | Dr Hampton      | [Can you really AFFORD Carnivore?](https://youtube.com/shorts/aEAxV5nRyWg?si=7-ScLUnMlK1emYkQ) |
+| (L)  | Video  | 0:04:18 |  1   | Dr Boz          | [Carnivore Pitfalls](https://youtu.be/ylLCeEbjzco?si=_h2u18QL2LiJT1Cp) |
+| (L)  | Video  | 0:23:00 |  1   | myzerocarblife  | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
+| (L)  | Video  | 0:23:00 |  1   | MyZeroCarbLife  | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
+| (L)  | Video  | 1:01:23 |  1   | Tour PhD        | [Tour on The Origin of Life](https://youtu.be/qeuW2UPa1Lw?si=bB_tEGP9fFmKCJ8o) |
+| (L)  | Video  | 1:04:05 |  1   | Primal          | [I Only Ate Meat For 200 DAYS: Here's What Happened To My HEART](https://youtu.be/PEtXLp2YEtk?si=xoGMb7Ng9QkwdTwk) |
+| (M)  | Video  | 0:01:15 |  1   | Dr Boz          | [You Need to Know This About Creatine](https://youtube.com/shorts/qBG0Dox-lNE?si=DbqkB8be9q3VaMZp) |
+| (M)  | Video  | 0:05:01 |  1   | Dr Berg         | [Fascinating Health Benefits of Methylene Blue](https://www.youtube.com/watch?v=dDUZ0ODBfJs&pp=ygUOTWV0aHlsZW5lIGJsdWXSBwkJhAkBhyohjO8%3D) |
+| (M)  | Video  | 0:07:05 |  1   | Gary Brecka     | [Methylene Blue: Improved Focus, ATP Production & Anti-Aging with Gary Brecka](https://www.youtube.com/watch?v=KvASX2yp0zU&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
+| (M)  | Video  | 0:07:50 |  1   | Dr Anderson     | [Everything You NEED to KNOW About Methylene Blue](https://www.youtube.com/watch?v=bfPByasoJTw&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
+| (M)  | Video  | 1:01:07 |  1   | Dr Boz          | [Why I'm using Methylene Blue for my metabolism](https://www.youtube.com/watch?v=WAuGLi4jsBQ&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
+| (P)  | Video  | 0:07:23 |  1   | James Tour      | [Biochemist, Messianic Jew](https://youtu.be/QNGLZvtRoiU?si=xR9lWh1tD8txOgw_) |
+| (S)  | Video  | 0:05:11 |  1   | Dave Mac        | [85-Year-Olds Stun Doctor with Carnivore Results: See His Reaction!](https://www.youtube.com/watch?v=iyenYTtCx6E) |
+| (S)  | Video  | 1:02:07 |  1   | Dave Mac        | [How My Carnivore Success Made My Doctor a Believer](https://youtu.be/OAIXWxq41SI?si=-sXS7XNkFmJ5WXQf) |
+| (T)  | Video  | 0:01:09 |  1   | Dr Brewer       | [How to Measure you Blood Pressure the Right Way (short)](https://www.youtube.com/watch?v=dP8oZ916pcE) |
+| (T)  | Video  | 0:12:23 |  1   | Dr Brewer       | [#1 Best AT HOME Test to Find Clogged Arteries](https://youtu.be/GNayrvFhiVE?si=o7v-UsVkA09zKkS1) (blood pressure) |
+| (T)  | Video  | 0:22:35 |  1   | Dr Brewer       | [You're Measuring your Blood Pressure WRONG: Top 10 MISTAKES](https://www.youtube.com/watch?v=oygDkbEDKRw) |
+| (T)  | Video  | 0:28:39 |  1   | Dr Brewer       | [#1 Best AT HOME Test to Predict Longevity](https://youtu.be/ao1vYrYl0iw?si=_ycoZEJlDly3qiLy) |
+| (W)  | Video  | 0:01:20 |  1   | Gravitas        | [Fat Movie part 2](https://youtu.be/3u8jzKkMA98?si=z1llsdvl7H-cRTDP) |
+| (W)  | Video  | 0:01:36 |  1   | Gravitas        | [Fat Movie part 1](https://youtu.be/iVJM_0XEiBI?si=9f9FvG8BuFb2Aqt4) |
+| (W)  | Video  | 0:05:47 |  1   | Dr Boz          | [Why you can't lose weight with intermittent fasting](https://www.youtube.com/watch?v=mDyYN4nW9Rk) |
+| (W)  | Video  | 0:12:23 |  1   | Dr Boz          | [72 Hour Fast Benefits, How it Effects Norepinephrine](https://www.youtube.com/watch?v=PRcTrRrcupg) |
+| (W)  | Video  | 0:12:55 |  1   | Dr Berry        | [BEWARE: Fasting is Dangerous?](https://www.youtube.com/watch?v=cnnCwOhJJic&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=4) |
+| (W)  | Video  | 0:23:31 |  1   | Lillie          | [3 Major Problems with the Carnivore Diet](https://www.youtube.com/watch?v=MWVLCrMfvCQ) |
+| (W)  | Video  | 0:24:37 |  1   | Dr Ekberg       | [1 Absolute Best Meal Plan To Lose Weight Faster](https://www.youtube.com/watch?v=LHO_6kkQodY) |
+| (W)  | Video  | 0:32:26 |  1   | Dr Ekberg       | [Top 10 Fat Burning Foods For FAST Weight LOSS](https://youtu.be/8NRtHJqwuGA?si=vaYbwidqbxW-POcS) |
+| (W)  | Video  | 0:44:27 |  1   | Bikman PhD      | [Fat: Why it Matters and What to Do About It](https://www.youtube.com/watch?v=gfikT_O4v9A&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=6) |
+| (W)  | Video  | 0:56:50 |  1   | Dr Fung         | [BURN BODY FAT?](https://youtu.be/D8nArHgImrk?si=5P1vp2Fuq8-35lsH) |
+| (W)  | Video  | 1:01:50 |  1   | Dr Boz          | [80lbs lost with and withOUT Autophagy](https://www.youtube.com/watch?v=82CPlwz6Pmc) |
+| (W)  | Video  | 1:10:50 |  1   | Bikman PhD      | [The Truth about GLP 1, Ozempic and Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
+| (W)  | Video  | 1:10:50 |  1   | Dr Bikman       | [The Truth about GLP 1, Ozempic & Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
+| (W)  | Video  | 1:24:08 |  1   | Primal Podcast  | [Ultimate Protein Guide: Lose Weight Faster: How Much You REALLY Need)](https://youtu.be/hHkxBEQaZdY?si=AfMCtgd06BTfK2kD) |
+| (W)  | Video  | 1:30:23 |  3   | Dr Chaffee      | [Revolutionizing Nutrition: What You've Been Doing Wrong](https://youtu.be/K66nar1_zX8?si=5yprKMuAknpzWWY5) |
+| (W)  | Video  | 1:32:17 |  1   | Levels          | [Uncovering the SHOCKING Realities of OBESITY and Skinny Fat - Dr. Robert Lustig](https://youtu.be/sxJvfqTFttY?si=Ow9vJQ-1o7HEMgbd) |
+| (W)  | Video  | 1:32:21 |  1   | Dr Chaffee      | [Why We Are Carnivores Slide Presentation](https://www.youtube.com/watch?v=C-WUb3mJEso) |
+| (X)  | Video  | 0:01:17 |  1   | Dave Asprey     | [The End of Cardio: Burn Fat in 8 Minutes](https://youtube.com/shorts/x1CK0pWc6-4?si=gtBk1bmro6di1_y3) |
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 # Articles
 
@@ -379,7 +389,7 @@ This section contains references to scientific articles on the topics.
 - (C) [The Warburg Effect: How Does it Benefit Cancer Cells?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783224/) (Study)
 - (H) [TG/HDL-C as a Risk Marker for Cardiovascular Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC10001260/) 
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 --------------------------------------------------------------------------------
 
@@ -402,7 +412,7 @@ Dave sold caffeine t-shirts out of his dorm room before the web browser was even
 - Https://daveasprey.com
 - https://daveasprey.com/wp-content/uploads/2020/06/IF-guide_4.12.pdf
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Josh Axe ✘
 
@@ -421,13 +431,13 @@ Dr Josh Axe has authored several celebrated and bestselling books, including:
 - [The Collagen Diet: A 28-Day Plan for Sustained Weight Loss, Glowing Skin, Great Gut Health, and a Younger You](https://www.amazon.com/Collagen-Diet-Sustained-Glowing-Younger/dp/0316529656/) (Little, Brown Spark, December 2019)
 - [**Ancient Remedies: Secrets to Healing with Herbs, Essential Oils, CBD, and the Most Powerful Natural Medicine in History**](https://draxe.com/ancientremedies/) (Little, Brown Spark, February 2021)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Eric Berg DC
 
 Dr. Eric Berg received his Doctor of Chiropractic degree from Palmer College of Chiropractic in 1988. Dr. Berg is a licensed chiropractor in Virginia, California, and Louisiana, but he no longer practices chiropractic in any state and does not see patients, so he can focus on educating people as a full-time activity, yet he maintains an active license.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Richard Bernstein, MD
 
@@ -464,7 +474,7 @@ Bernstein's low-carbohydrate diet was initially opposed by the American Diabetes
 
 Bernstein's focus on maintaining low blood sugar targets conflicts with mainstream guidance to maintain a higher fasting blood sugar target for insulin-dependent patients (such as Type 1 diabetics).[[12\]](https://en.wikipedia.org/wiki/Richard_K._Bernstein#cite_note-12) This higher target is to reduce the risk of [hypoglycemia](https://en.wikipedia.org/wiki/Hypoglycemia) which can be fatal. Type 1 diabetics on Bernstein's regime need to be constantly on guard against hypoglycemia. Bernstein claims however that the hypoglycemia risk is even higher with the high-carb low-fat original ADA standard diet because it requires big doses of insulin.[[13\]](https://en.wikipedia.org/wiki/Richard_K._Bernstein#cite_note-13)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Ben Bikman ★
 
@@ -487,7 +497,7 @@ After my mission in Samara, Russia, I came to BYU. My pathway in academia began 
 
 My research interests at BYU continue my interests in the causes and consequences of obesity with particular emphasis on insulin resistance.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Ken Berry, MD ★
 
@@ -499,7 +509,7 @@ Ken Berry, MD is a family physician in Camden, Tennessee and is affiliated with 
 * Website https://phdhealth.community/
 * YouTube https://www.youtube.com/@KenDBerryMD
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Annette Bozworth, MD ★
 
@@ -518,7 +528,7 @@ Dr. Boz has been an assistant professor. She's been featured on CNN, Time Magazi
 
 
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Ford Brewer, MD ★
 
@@ -531,7 +541,7 @@ After beginning his career in full-time emergency medicine and as full-time facu
 * Website https://prevmedhealth.com
 * YouTube https://www.youtube.com/@PrevMedHealth
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Anthony Chaffee, MD ★
 
@@ -553,7 +563,7 @@ More recently, he volunteered as a doctor in the refugee camps in Bangladesh, he
 * https://lowcarbdownunder.com.au/directory/dr-anthony-chaffee-md/
 * https://www.youtube.com/@anthonychaffeemd
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Titus Chiu DC ✘
 
@@ -563,7 +573,7 @@ Titus Chiu, MS, DC, DACNB, is an award-winning professor, healer and functional 
 
 * https://drtituschiu.com/
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Robert Cywes, MD ★
 
@@ -573,7 +583,7 @@ Dr. Robert Cywes is a dual board-certified general surgeon and pediatric surgeon
 
 - https://www.youtube.com/channel/UCk4Mk7vArjSYBa1VKv9-chA
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dominic D'Agostino, PhD ★
 
@@ -595,7 +605,7 @@ D’Agostino has a personal interest in environmental medicine and methods to en
 
 D’Agostino is a well-known expert in his field and has been featured on various media outlets, including Joe Rogan, Tim Ferriss, Impact Theory, TED, and dozens of other top media outlets. He has also collaborated with other researchers and experts in the field, exploring topics such as high-fat diets, time-restricted feeding, fasting, and nutrition psychotherapy.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr William Davis, MD
 
@@ -607,7 +617,7 @@ Links
 
 + https://drdavisinfinitehealth.com/
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Thomas DeLauer
 
@@ -618,7 +628,7 @@ Thomas DeLauer has written for prominent health and fitness magazines, including
 
 As a successful businessman, Thomas DeLauer has created and owns a life and fitness coaching company. He has also spoken at events like the BiohackingCongress in Silicon Valley, showcasing his expertise in business and health optimization.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Katie Deming, MD
 
@@ -650,7 +660,7 @@ Experience & Accomplishments:
 
 \- Physician inventor of cancer-related inventions
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Georgia Ede
 
@@ -664,13 +674,13 @@ This episode discusses how the brain functions at an optimal state and the 5 neu
 
 We also discuss the side effects of medications, namely statins, and their negative effects on the brain.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Sten Ekberg ★
 
 Ekberg received a BBA, Magna Cum Laude, from [Southern Methodist University](https://en.wikipedia.org/wiki/Southern_Methodist_University) [Cox School of Business](https://en.wikipedia.org/wiki/Cox_School_of_Business) in [Dallas, Texas](https://en.wikipedia.org/wiki/Dallas,_Texas) and holds a Doctor of Chiropractic, Magna Cum Laude, from [Life University](https://en.wikipedia.org/wiki/Life_University) in [Marietta, Georgia](https://en.wikipedia.org/wiki/Marietta,_Georgia). He competed in track and field at Southern Methodist where he still holds records.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dave Feldman
 
@@ -682,7 +692,7 @@ I’ve since learned quite a bit on the subject both through research and experi
 
 As of this writing, my “Extreme Drop” experiment has gotten the most attention (see [infographic here](http://cholesterolcode.com/infographic-of-prediction-experiment/), and [do-it-yourself page here](http://cholesterolcode.com/extreme-cholesterol-drop-experiment/)) where I induced a 73 point drop in my LDL-C and a 1115 point drop in my LDL-P.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Gary Fettke, MD
 
@@ -706,13 +716,13 @@ Dr. Gary Fettke is an Australian orthopaedic surgeon who has gained recognition 
 
 Overall, Dr. Gary Fettke is a prominent figure in the nutrition and health community, known for his expertise and advocacy for a low-carb, high-fat diet and his criticism of prevailing nutrition guidelines.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Kevin Forey, MD
 
 Kevin Forey is an Internal Medicine doctor that seeks to provide an educational resource for everyday individuals who are interested in learning more about food, nutrition, physical exercise, and other strategies for preventing common medical illnesses. Throughout this website, you will find an unbiased and evidence-based message that is easy to understand.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Ken Ford, PhD
 
@@ -720,13 +730,13 @@ Dr Ken Ford is a researcher who has studied the ketogenic diet and its effects o
 
 - https://u.osu.edu/ketodiet/speaker-bios/ken-ford-phd
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Jason Fung, MD ★
 
 **Dr Jason Fung** is a *New York Times*-bestselling author whose books include *The Obesity Code, The Diabetes Code, The Obesity Code Cookbook, The PCOS Plan*, *Life in the Fasting Lane*, and *The Complete Guide to Fasting. Dr Fung completed medical school at the University of Toronto and a fellowship in nephrology at the University of California. Dr Fung is also the co-founder of The Fasting Method, a program to help people lose weight and reverse Type 2 Diabetes naturally with fasting. He lives in Toronto.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Sasha Gominak
 
@@ -735,13 +745,13 @@ Dr. Stasha C. Gominak is a neurologist in Tyler, Texas and is affiliated with [C
 + Videos https://www.youtube.com/@DrStashaGominak/playlists
 + 
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Becky Gillaspy, DC
 
 [Becky Gillaspy, DC](https://www.linkedin.com/in/drbeckygillaspy/), is the author of *[the Intermittent Fasting Diet Guide and Cookbook](https://www.drbeckyfitness.com/book).* She grew up in central Pennsylvania and graduated Summa Cum Laude with research honors from [Palmer College of Chiropractic](https://www.palmer.edu/) in 1991. She spent a number of years seeing patients in private practice and worked as an on-air health consultant for a local ABC TV affiliate. Following the birth of her daughter, Dr. Becky spent the rest of her 24+ year professional career teaching a range of college courses from Anatomy to Nutrition in addition to earning her certification as a health and wellness coach. She now works full-time, helping people reach their health and weight loss goals through her website and [YouTube channel](https://www.youtube.com/beckygillaspy).
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Joan Ifland, PhD
 
@@ -758,7 +768,7 @@ Specialties: Processed food addiction research, provision of services and produc
 
 Since 1996, Dr. Ifland has helped people recover from diet-related disease by focusing on addiction to processed foods. As both an academic and a front-line guide, Joan has taught thousands of compulsive eaters how to find peace with food and recover from diabetes, heart disease, cancer, depression, fatigue, isolation, and obesity. Through adaptation of drug and alcohol addiction recovery methods, Dr. Ifland gives practitioners and clients new insights into why food addiction recovery can generate extraordinary health outcomes.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Richard Johnson
 
@@ -768,7 +778,7 @@ Since 1996, Dr. Ifland has helped people recover from diet-related disease by fo
 
 - **Video 59:43 -** [Replacing Fructose with Allulose: Exploring the Science of Artificial Sweetners](https://www.youtube.com/watch?v=8j4ATA28tlw)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Bart Kay 🤨
 
@@ -778,7 +788,7 @@ Bart Kay can also be followed on LBRY: [https://lbry.tv/$/invite/@Bart-Kay-Nu...
 
 - **Video 1:57:35 -** [The Hard Science Behind the Carnivore Diet](https://youtu.be/iifuYkPjVWg?si=CiD3_ztAeygeYe3y)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Chris Knobbe, MD
 
@@ -803,7 +813,7 @@ Dr. Chris Knobbe is a respected ophthalmologist with a strong clinical practice,
 - App - Local Fats [https://localfats.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjhNMGNGZGczNUJ0ODhqVlIxbFlWR25wRDc3QXxBQ3Jtc0ttWV9RcUQ2bmdlY28zNHlCcElTdmpHTGNTMHhkRk1iVDBDZTdIVlRxVDh2SkNHb2NacXRjQUY2aWYycWNBWWFmWFVfU3hNMUd5Vnd5XzFGaUtfNHprdXhPejQyQXF6V2w2RFJTY24xX3BUbDYxbWh5TQ&q=https%3A%2F%2Flocalfats.com%2F&v=MuYvGyNXvPk) 
 - Review - [https://www.tiktok.com/@seedoilscout/...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFpESllXOGlDaVk0SEhVWVBaRmkxeWl5TzY3Z3xBQ3Jtc0trOXpuODhJU0wzLXBnYmZpUGFiVnlab0M3d3lTM2tLdkhqRXFSWEE4dnpmX1ZLOUZwT3NJeXJlTllFRHhnbzlQUGRUT05FQ09tVC02djU0anNxblN4UkphMXZpd2FzN1NEcUQ4SFBWMnBjVk8yc2RMaw&q=https%3A%2F%2Fwww.tiktok.com%2F@seedoilscout%2Fvideo%2F7371193001038728494&v=MuYvGyNXvPk)  
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 
 
@@ -811,13 +821,13 @@ Dr. Chris Knobbe is a respected ophthalmologist with a strong clinical practice,
 
 Dr (Don)ald Layman, a PhD researcher and expert in protein metabolism and metabolic health. Dr Layman has spent decades researching the role of protein in metabolic health, including the role of leucine in muscle protein synthesis.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Robert Lufkin, MD
 
 Physician/medical school professor (UCLA and USC) focusing on the applied science of health, longevity, and consciousness. After reversing chronic disease and transforming his life he is making it his mission to help others do the same.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Robert Lustig, MD
 
@@ -830,7 +840,7 @@ Dr. Lustig has fostered a global discussion of metabolic health and nutrition, e
 * Website - https://www.robertlufkinmd.com/
 * Book - Metabolical https://a.co/d/0r1RPIe
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dave Mac
 
@@ -841,7 +851,7 @@ Dave Mac is a YouTube blogger who interviews hundreds of people that have used t
 + Main website https://www.youtube.com/channel/UCzcoPGdDRiPiWZYV4_EkzPQ
 + 0:05:02 Dave Mac [I was wrong about Carnivore](https://www.youtube.com/watch?v=2pDu3cgMS1E)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Daniel Maggs, GP
 
@@ -863,7 +873,7 @@ He sells a course on men's wellness.
 
  [LinkedIn](https://www.linkedin.com/in/drdanmaggs/) [Facebook](https://www.facebook.com/drdanmaggs/reviews) 
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Marty Makary, MD ★
 
@@ -877,7 +887,7 @@ Clinically, Dr. Makary is the chief of Islet Transplant Surgery at Johns Hopkins
 
 * Website https://www.martymd.com/
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Kerry & Jen Mann
 
@@ -898,7 +908,7 @@ I am not a medical professional or a doctor. The content provided, including any
 * Amazon https://amazon.com/hz/wishlist/ls/1AWN60Y0X2U2F?ref_=wl_share
 * Healing Humanity https://healinghumanity.life/
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Paul Mason, MD
 
@@ -926,7 +936,7 @@ Dr. Mason is a Specialist Registrar in the Australasian College of Sports and Ex
 
 Dr. Mason is also a Defeat Diabetes expert, sharing his personal journey and approach to sending type 2 diabetes into remission. He has transitioned from promoting a high-carbohydrate diet to advocating for low-carbohydrate and ketogenic diets, having witnessed the positive impact on his patients’ health.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Casey Means, MD ★
 
@@ -949,7 +959,7 @@ Dr Means has decades of experience understanding the root cause of the most chro
 
 - https://www.theprimal.com/lab/the-root-cause-of-chronic-disease-and-the-link-with-mitochondria
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Professor Tim Noakes
 
@@ -984,18 +994,18 @@ Professor Noakes’ research focuses on exercise physiology, particularly in the
 
 Professor Noakes has been involved in several high-profile controversies, including a 2016 case where he was falsely accused of misconduct by the Health Professions Council of South Africa (HPCSA). He has also been a vocal critic of mainstream dietary advice, labeling it “genocide” and advocating for a low-carbohydrate, high-fat diet instead. Despite these controversies, Professor Noakes remains a respected figure in the scientific community, with over 33,000 citations to his work.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Nick Norwitz, MD PhD ★
 
-Dr. **Nick** **Norwitz** **is** a researcher-educator whose mission is to “Make Metabolic Health Mainstream.”
+Dr. **Nick Norwitz** is a researcher-educator whose mission is to “Make Metabolic Health Mainstream.”
 
 <h5>Links</h5>
 
 - Website https://nicknorwitz.com
 - YouTube https://www.youtube.com/@nicknorwitzPhD
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Sean O'Mara, MD JD
 
@@ -1012,7 +1022,7 @@ Dr. Sean O’Mara is a renowned physician specializing in health and performance
 
 **In Summary** Dr. Sean O’Mara is a leading authority in the field of health and performance optimization, with a distinct emphasis on visceral fat reduction and innovative strategies for achieving optimal health. His expertise and approach have helped numerous high-achieving individuals transform their lives and achieve remarkable improvements in their overall well-being.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Philip Ovadia, MD
 
@@ -1022,7 +1032,7 @@ Dr Ovadia has practiced cardio thoracic surgery in Beaver, PA, and Clearwater, F
 
 Dr Ovadia lives in Florida with his wife and two daughters.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Barbara O'Neill ✘
 
@@ -1032,7 +1042,7 @@ From https://en.wikipedia.org/wiki/Barbara_O'Neill:
 >
 > In 2019, the [Health Care Complaints Commission](https://en.wikipedia.org/wiki/Health_Care_Complaints_Commission) in [New South Wales](https://en.wikipedia.org/wiki/New_South_Wales) ruled that she is prohibited from providing any health-related services following several complaints from the public and health professionals.[[1\]](https://en.wikipedia.org/wiki/Barbara_O'Neill#cite_note-HCCC_Public_Statement-1)[[4\]](https://en.wikipedia.org/wiki/Barbara_O'Neill#cite_note-HCCC_Statement_of_Decision-4)[[5\]](https://en.wikipedia.org/wiki/Barbara_O'Neill#cite_note-TG_20191011-5) An investigation found that she provided dangerous advice to vulnerable patients, such as telling those with cancer to forego prescribed [chemotherapy](https://en.wikipedia.org/wiki/Chemotherapy) for [bicarbonate of soda](https://en.wikipedia.org/wiki/Bicarbonate_of_soda), and to give infants [unpasteurised](https://en.wikipedia.org/wiki/Pasteurization) goat's milk.[[6\]](https://en.wikipedia.org/wiki/Barbara_O'Neill#cite_note-TG_20191003-6) The investigation found that she also did not have any qualifications in a health-related field, and that she failed to meet the expected standards of unregistered health professionals.[[4\]](https://en.wikipedia.org/wiki/Barbara_O'Neill#cite_note-HCCC_Statement_of_Decision-4)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Chris Palmer, MD
 
@@ -1040,7 +1050,7 @@ Dr. Christopher M. Palmer is a Harvard psychiatrist and researcher working at th
 
  Dr. Palmer received his medical degree from [Washington University School of Medicine](https://www.usnews.com/best-graduate-schools/top-medical-schools/washington-university-in-st-louis-04060). He did his internship and psychiatry residency at [McLean Hospital](https://www.mcleanhospital.org/news/mclean-hospital-proud-be-ranked-1-psychiatry-us-news-world-report), [Massachusetts General Hospital](https://health.usnews.com/best-hospitals/area/ma/massachusetts-general-hospital-6140430), and Harvard Medical School.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Mindy Pelz, MD
 
@@ -1051,7 +1061,7 @@ Dr. Mindy Pelz is a world-renowned women’s health expert on a mission to empow
 - https://drmindypelz.com
 - https://www.youtube.com/@TheResetterPodcast
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr David Perlmutter, MD
 
@@ -1071,7 +1081,7 @@ Dr. Perlmutter is the recipient of numerous awards, including: the *Linus Paulin
 - [Biography](https://drperlmutter.com/about/bio/)
 - Book: [Drop Acid](https://a.co/d/8KvXF2s)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dhru Purohit
 
@@ -1081,19 +1091,19 @@ His podcast, Dhru Purohit Show, is a top 50 global health podcast with over 30+ 
 
 [YouTube Channel](https://www.youtube.com/channel/UCBnLhz50WZAvsF4S72xtESA?sub_confirmation=1)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Sarah Pugh 🙄
 
 Outrageous science with no evidence.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Paul Saladino, MD ✘
 
 **Paul** **Saladino**, M.D., is a classically trained **MD** interested in understanding and correcting the roots of chronic disease. Self-proclaimed "Carnivore MD," who has aggressively promoted an all-meat diet, admits that it has had negative effects on him and that long-term ketosis is “probably not a great thing for most humans.” His opinions seem to vary without much science to back his ideas. On the other hand, many of his suggestions are decent.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Bret Scher, MD
 
@@ -1109,7 +1119,7 @@ Links
 
 - Website https://lowcarbcardiologist.com/
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Thomas N. Seyfried PhD ★
 
@@ -1122,7 +1132,7 @@ Thomas N. Seyfried (born 1946[[1\]](https://en.wikipedia.org/wiki/Thomas_N._Seyf
 
 His research focuses on mechanisms of chronic diseases such as cancer, epilepsy, neurodegenerative lipid storage diseases, and caloric restriction diets.[[2\]](https://en.wikipedia.org/wiki/Thomas_N._Seyfried#cite_note-2) Thomas N. Seyfried has been published in over 150 peer-reviewed publications.[[3\]](https://en.wikipedia.org/wiki/Thomas_N._Seyfried#cite_note-3) He previously served as chair of the Scientific Advisory Committee for the National Tay-Sachs and Allied Diseases Association and presently serves on several editorial boards, including those for Nutrition & Metabolism, Neurochemical Research, the Journal of Lipid Research, and ASN Neuro. His 2012 book is *Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer*. Seyfried is a popular interview guest regarding the topic of cancer.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Cate Shanahan, MD ★
 
@@ -1137,7 +1147,7 @@ Books
 
 - https://drcate.com/
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Mark Sisson ✘
 
@@ -1151,7 +1161,7 @@ Sisson finished 4th in the February 1982 [Ironman World Championship](https://en
 
 Sisson served for 15 years as chairman of the [International Triathlon Union](https://en.wikipedia.org/wiki/International_Triathlon_Union) (ITU) Anti-Doping Commission and as the ITU's liaison to the [International Olympic Committee](https://en.wikipedia.org/wiki/International_Olympic_Committee).[[8\]](https://en.wikipedia.org/wiki/Mark_Sisson#cite_note-LATimes-8) He was asked to step down from the roles due to [conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest) in 2003 when he ==started his own [dietary supplement](https://en.wikipedia.org/wiki/Dietary_supplement) company==, Primal Nutrition.[[8\]](https://en.wikipedia.org/wiki/Mark_Sisson#cite_note-LATimes-8)
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr David Unwin, MD ★
 
@@ -1188,7 +1198,7 @@ Dr. David Unwin is a leading advocate for low-carb lifestyle medicine in the UK,
 - [Dr David Unwin's Low Carb Diet](https://www.lowcarbprogram.com/articles/dr-david-unwin-low-carb-diet-sheet)
 - https://pubmed.ncbi.nlm.nih.gov/34468402/
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Matt Walker PhD ★
 
@@ -1205,7 +1215,7 @@ In addition to his academic work, Walker is a sought-after speaker and has given
 * Website https://www.sleepdiplomat.com/
 * Animated Book Summary https://www.youtube.com/watch?v=k_ztODszMiU
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Amy West, MD
 
@@ -1213,7 +1223,7 @@ Dr Amy West is a Physical Medicine and Rehabilitation Specialist with over nine 
 
 Dr West's focuses include non-operative sports medicine, musculoskeletal ultrasound, peripheral joint injections, electromyography (EMG), and concussion management. Her clinical and research interests include female athletes, adaptive sports, lifestyle medicine, transgender athletes, and nutrition. She is active in the CrossFit community, serving on the CrossFit Games Medical Team and participating in various CrossFit functions and outreach events. Dr West has been featured on multiple podcasts and has authored peer-reviewed video and written publications.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Eric Westman ★
 
@@ -1266,7 +1276,7 @@ Dr Eric Westman, Associate Professor of Medicine at Duke. He is Board Certified 
 - Website
 - YouTube https://www.youtube.com/@AdaptYourLife
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 ### Dr Anthony Youn
 
@@ -1282,6 +1292,7 @@ Dr. Anthony Youn is a nationally recognized, board-certified plastic surgeon. He
 
 Let me know if you want to provide corrections, additions, or have any other comments.
 
-◆ [==Contents==](#toc) ◆ [==Who's Who==](#Who's who) ◆ [==Videos==](#Videos) ◆
+◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
 <h5>The end</h5>
+<!-- @a=npkddyyj @e=yypwwwwwwwwwRMMwwRSSwwwwR             wlllhc%[]lc%()hhiLINKS?kb??50ww -->
