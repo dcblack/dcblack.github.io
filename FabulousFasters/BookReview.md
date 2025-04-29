@@ -4,9 +4,9 @@ subject: Schedule and topics for book review
 author: David C Black
 contacts: dcblack@mac.com
 ---
-[Updated 2025-April-29 02:44 PM]
+[Updated 2025-April-29 03:17 PM]
 
-# Fabulous Faster's Book Review
+# 📚 [Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html) Book Review
 
 ####  Join us each Friday morning for our Fabulous Fasters Book Review.
 

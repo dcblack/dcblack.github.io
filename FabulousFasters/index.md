@@ -31,8 +31,8 @@ Post your status, goals, questions, and tips here.
 
 ## Meetings
 
-- [Weekly Checkin](https://dcblack.github.io/FabulousFasters/WeeklyCheckin.html)
-- [Book Review](https://dcblack.github.io/FabulousFasters/BookReview.html)
+- [✅ Weekly Checkin](https://dcblack.github.io/FabulousFasters/WeeklyCheckin.html)
+- [📚 Book Review](https://dcblack.github.io/FabulousFasters/BookReview.html)
 
 ## [Resources](https://dcblack.github.io/FabulousFasters/Resources/index.html)
 

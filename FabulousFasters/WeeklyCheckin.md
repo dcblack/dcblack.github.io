@@ -4,9 +4,9 @@ subject: Weekly support topics and rules
 author: David C Black
 contacts: dcblack@mac.com
 ---
-[Updated 2025-April-29 02:44 PM]
+[Updated 2025-April-29 03:17 PM]
 
-# Fabulous Faster's Weekly Checkin
+# ✅ [Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html) Weekly Checkin
 
 ## Details
 
