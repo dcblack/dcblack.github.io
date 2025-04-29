@@ -1,8 +1,10 @@
 <!doctype html>
-<html style='font-size:16px !important'>
+<html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-
+<meta charset="UTF-8" content="">
+<meta name="author" content="">
+<meta name="description" content="">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
@@ -27,11 +29,11 @@ body.typora-export { padding-left: 30px; padding-right: 30px; }
 #write li > figure:last-child { margin-bottom: 0.5rem; }
 #write ol, #write ul { position: relative; }
 img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
-button, input, select, textarea { color: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; }
+button, input, select, textarea { color: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-width: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; }
 input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; position: relative; }
+#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; }
 p { line-height: inherit; }
 h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
 p { orphans: 4; }
@@ -161,6 +163,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .md-fences.md-fences-math { font-size: 1em; }
 .md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
 .md-fences-advanced:not(.md-focus) { background: inherit; }
+.mermaid-svg { margin: auto; }
 .typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
 .typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
 .typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
@@ -612,70 +615,89 @@ header, .context-menu, .megamenu-content, footer{
  */
 
 body {
-  font-size: large;
-  /*
-  background-image: url(file:///Users/dcblack/Library/Application%20Support/abnerworks.Typora/themes/github.user/doulos.png);
-  background-size: 150px;
-  */
-  /* width: 300px;
-  */
+    font-size: large;
+    /*
+    background-image: url(file:///Users/dcblack/Library/Application%20Support/abnerworks.Typora/themes/github.user/doulos.png);
+    background-size: 150px;
+    */
+    /* width: 300px;
+    */
 }
 
 table {
-  width: 100%;
-  border: 2px solid black;
+    width: 100%;
+    border: 2px solid black;
 }
 
-.auto table { width: auto; }
-.table2 tr { width: 50%; }
-.table3 tr { width: 33%; }
-.table4 tr { width: 25%; }
-.table5 tr { width: 20%; }
-.table6 tr { width: 17%; }
+.auto table {
+    width: auto;
+}
 
+.table2 tr {
+    width: 50%;
+}
+
+.table3 tr {
+    width: 33%;
+}
+
+.table4 tr {
+    width: 25%;
+}
+
+.table5 tr {
+    width: 20%;
+}
+
+.table6 tr {
+    width: 17%;
+}
+
+li::marker {
+  content: "•";
+  color: red;
+}
 
 th {
-  background: Cyan;
+    background: Cyan;
 }
 
 h1 {
-  border-top: 1px solid black;
-  color: DarkOrange;
+    border-top: 1px solid black;
+    color: #fd7e14;
+    font-size: 2.00em;
 }
 
 h2 {
-  color: DodgerBlue;
-}
-h3 {
-  color: LimeGreen;
+    color: #007bff;
+    font-size: 1.75em;
 }
 
+h3 {
+    color: auto;
+    font-size: 1.50em;
+}
+
+hr {
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid;
+    border-left: none;
+}
+
+.md-toc-h4 {
+    display: none;
+}
+.md-toc-h5 {
+    display: none;
+}
+.md-toc-h6 {
+    display: none;
+}
  @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
 </style><title>Fabulous Fasters Saturday Review</title>
 </head>
 <body class='typora-export'><div class='typora-export-content'>
-<div id='write'  class=''><h1 id='fabulous-fasters-saturday-review'><span>Fabulous Fasters Saturday Review</span></h1><p><span>Join us this Saturday for our third meeting of the Fabulous Fasters Saturday Review.</span></p><p><span>When: </span><mark><span>Saturday 11 AM Eastern / 10 Central / 9 Mountain / 8 Pacific</span></mark></p><p><span>Where: </span><a href='#join-zoom-meeting'><span>Zoom (link below)</span></a></p><p><span>What: </span><mark><span>Review chapters 2 &amp; 3 of the book &quot;Good Energy&quot; by Casey Means MD</span></mark></p><h4 id='future-topics'><span>Future Topics</span></h4><ul><li><p><span>Blind Spots, Marty Makary MD</span></p></li><li><p><span>Brain Energy, Christopher Palmer MD</span></p></li><li><p><span>Dark Calories, Catherine Shanahan MD</span></p></li><li><p><span>Drop Acid, David Perlmutter MD</span></p></li><li><p><span>Good Energy, Casy Means MD</span></p></li><li><p><span>Iodine Why You Need It, David Brownstein MD</span></p></li><li><p><span>Keto Continuum, Annette Bosworth MD</span></p></li><li><p><span>Lies I Taught in Medical School, Robert Lufkin MD</span></p></li><li><p><span>Nature Wants Us To Be Fat, Richard Johnson MD</span></p></li><li><p><span>Why We Get Sick, Ben Bickman PhD</span></p></li><li><p><span>Others? (let us know)</span></p></li></ul><h4 id='past-topics'><span>Past Topics</span></h4><figure class='table-figure'><table><thead><tr><th style='text-align:center;' ><span>Date</span></th><th style='text-align:center;' ><span>#</span></th><th><span>Topic</span></th><th><span>Comments</span></th></tr></thead><tbody><tr><td style='text-align:center;' ><span>10/26/2024</span></td><td style='text-align:center;' ><span>5</span></td><td><span>Tucker Carlson interview with Calley &amp; Casey Means MD titled How Big Pharma Keeps Us Sick </span><a href='https://tuckercarlson.com/tucker-show-casey-calley-means' target='_blank' class='url'>https://tuckercarlson.com/tucker-show-casey-calley-means</a></td><td><span>Good conversation on various topics. Also pointed to other interviews (Dr. Boz and Joe Rogan)</span></td></tr><tr><td style='text-align:center;' ><span>11/01/2024</span></td><td style='text-align:center;' ><span>4</span></td><td><span>Good Energy, Intro &amp; Chapter 1</span></td><td><span>Focused discussion. Ten factors affecting us on page 15. Three keys to understanding page 22. Five things we can measure page 23.</span></td></tr></tbody></table></figure><h4 id='calendar'><span>Calendar</span></h4><p><span>Please download and import the following iCalendar (.ics) files to your calendar system.</span>
-<span>Weekly: </span><a href='https://us02web.zoom.us/meeting/tZEvdemgqj0pGdCz1mTJ32V48QyBs06pcQAB/ics?icsToken=98tyKuGtrDkqEtCTsxqDRpwMAIjoc_zwiCFejad-hk7oNwoAMDWibtNbEKEvRsjT&amp;meetingMasterEventId=St_99a3kS5-iCYQBHyu95w' target='_blank' class='url'>https://us02web.zoom.us/meeting/tZEvdemgqj0pGdCz1mTJ32V48QyBs06pcQAB/ics?icsToken=98tyKuGtrDkqEtCTsxqDRpwMAIjoc_zwiCFejad-hk7oNwoAMDWibtNbEKEvRsjT&meetingMasterEventId=St_99a3kS5-iCYQBHyu95w</a></p><h4 id='join-zoom-meeting'><span>Join Zoom Meeting</span></h4><p><mark><span>CLICK HERE ---&gt;</span></mark><span> </span><a href='https://us02web.zoom.us/j/85220846334?pwd=n1SgD7MBfYIlI1YaavhWPN59MbdfVi.1' target='_blank' class='url'>https://us02web.zoom.us/j/85220846334?pwd=n1SgD7MBfYIlI1YaavhWPN59MbdfVi.1</a></p><p><span>Meeting ID: 852 2084 6334</span>
-<span>Passcode: 226784</span></p><hr /><p><span>One tap mobile</span>
-<span>+13462487799,,85220846334#,,,,</span><em><span>226784# US (Houston)</span>
-<span>+12532158782,,85220846334#,,,,</span></em><span>226784# US (Tacoma)</span></p><hr /><p><span>Dial by your location</span>
-<span>• +1 346 248 7799 US (Houston)</span>
-<span>• +1 253 215 8782 US (Tacoma)</span>
-<span>• +1 669 444 9171 US</span>
-<span>• +1 669 900 9128 US (San Jose)</span>
-<span>• +1 719 359 4580 US</span>
-<span>• +1 253 205 0468 US</span>
-<span>• +1 312 626 6799 US (Chicago)</span>
-<span>• +1 360 209 5623 US</span>
-<span>• +1 386 347 5053 US</span>
-<span>• +1 507 473 4847 US</span>
-<span>• +1 564 217 2000 US</span>
-<span>• +1 646 558 8656 US (New York)</span>
-<span>• +1 646 931 3860 US</span>
-<span>• +1 689 278 1000 US</span>
-<span>• +1 301 715 8592 US (Washington DC)</span>
-<span>• +1 305 224 1968 US</span>
-<span>• +1 309 205 3325 US</span></p><p><span>Meeting ID: 852 2084 6334</span>
-<span>Passcode: 226784</span></p><p><span>Find your local number: </span><a href='https://us02web.zoom.us/u/kb0aXzKJBe' target='_blank' class='url'>https://us02web.zoom.us/u/kb0aXzKJBe</a></p><p>&nbsp;</p></div></div>
+<div id='write'  class=''><h1 id='this-page-has-moved'><span>This page has moved!</span></h1><h2 id='go-to-httpsdcblackgithubiofabulousfastersbookreviewhtml'><span>Go to </span><a href='https://dcblack.github.io/FabulousFasters/BookReview.html' target='_blank' class='url'>https://dcblack.github.io/FabulousFasters/BookReview.html</a></h2></div></div>
 </body>
 </html>
