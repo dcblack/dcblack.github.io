@@ -7,7 +7,7 @@ subject: Health & Fasting
 author: David C Black
 contacts: dcblack@mac.com
 ---
-# [Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html) Resources
+# [Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html) Resources [pdf](https://dcblack.github.io/FabulousFasters/Resources.pdf)
 
 [Updated 2025-April-10]
 
