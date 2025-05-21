@@ -26,12 +26,15 @@ function Project_setup()
 
   case "${ACTION}" in
     add|repeat)
+      clear
       header -Color -hbar=- "FabulousFasters"
       if git rev-parse --show-toplevel 1>/dev/null 2>&1; then
         # shellcheck disable=SC2034
         GIT_WORK_DIR="$(git rev-parse --show-toplevel)"
       fi
       open "https://dcblack.github.io/FabulousFasters/index.html"
+      sleep 1
+      open -a iTerm
       PROJECT_DIR="$(dirname "${SETUP_PATH}")"
       PROJECT_NAME="$(basename "${PROJECT_DIR}")"
       export GIT_WORK_DIR PROJECT_NAME PROJECT_DIR

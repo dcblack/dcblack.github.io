@@ -135,7 +135,7 @@ Category labels (may be combined):
 - **(D)**iabetes, Prediabetes, Insulinemia & Metabolism
 - **(E)**strogen & Women's issues
 - **(F)**alsehoods, lies & myths - Drugs, Food & Medical
-- **(G)**eneral biomes (mouth & intestinal), glucose, insulin, serotonin & biochemistry
+- **(G)**eneral biomes (mouth & intestinal), glucose, insulin, chloresterol, serotonin & biochemistry
 - **(H)**eart & Cardiovascular Disease (incl. blood pressure)
 - **(I)**nstrumentation & devices - CGM, Blood pressure device, Breath meter, Scale
 - **(K)**etosis, Autophagy & Fasting - see also (D)
@@ -407,6 +407,8 @@ Sorted by category and then length.
 | (W) | Video  | 1:32:21 |  1  | Dr Chaffee      | [Why We Are Carnivores Slide Presentation](https://www.youtube.com/watch?v=C-WUb3mJEso) |
 | (X) | Video  | 0:01:17 |  1  | Dave Asprey     | [The End of Cardio: Burn Fat in 8 Minutes](https://youtube.com/shorts/x1CK0pWc6-4?si=gtBk1bmro6di1_y3) |
 | (X) | Video  | 0:18:52 |  2  | Dr Brewer       | [WARNING! Legs Weaken First: 3 Exercises Every Senior Must Do](https://youtu.be/4qllKrMIvmQ?si=9zBiBlQ4Yrn4glxv) |
+| (G) | Video  | 0:03:21 |  1  | Dr Boz          | [Three Myths About Cholesterol People Still Believe](https://youtu.be/3GP2CbUNHPs?si=vtVOrT0vTQxa8R9f) |
+
 
 ◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
