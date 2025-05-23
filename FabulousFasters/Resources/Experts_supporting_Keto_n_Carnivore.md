@@ -56,8 +56,9 @@ tags:
 
 This document can be found at:
 
-- Web page <https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.html>
-- PDF <https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.pdf>
+<img src="Experts_supporting_Keto_n_Carnivore.assets/ketovore-experts-web.png" alt="ketovore-experts-web" style="zoom:20%;" />	<img src="Experts_supporting_Keto_n_Carnivore.assets/ketovore-experts-pdf.png" alt="ketovore-experts-pdf" style="zoom:20%;" />
+
+
 
 <h2>Contents</h2><a name="toc"></a>
 
