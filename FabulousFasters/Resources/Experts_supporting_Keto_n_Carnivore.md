@@ -52,13 +52,7 @@ tags:
 
 # Experts on Keto & Carnivore [v2.1]
 
-[Updated 2025-May-14 09:12 AM]
-
-This document can be found at:
-
-<img src="Experts_supporting_Keto_n_Carnivore.assets/ketovore-experts-web.png" alt="ketovore-experts-web" style="zoom:20%;" />	<img src="Experts_supporting_Keto_n_Carnivore.assets/ketovore-experts-pdf.png" alt="ketovore-experts-pdf" style="zoom:20%;" />
-
-
+[Updated 2025-May-23 09:12 AM]
 
 <h2>Contents</h2><a name="toc"></a>
 
@@ -290,6 +284,7 @@ Sorted by category and then length.
 | (C)  | Movie  | 1:00:00 |  3   | CanceREvolution | [CancerEvolution film](https://www.youtube.com/@CANCEREVOLUTIONdoc) |
 | (C)  | Video  | 0:00:56 |  1   | Dr Seyfried     | [Cancer is very preventable](https://youtube.com/shorts/PyPqJsKoe7M?si=x4uRz5LslnU7qd3x) |
 | (C)  | Video  | 0:01:02 |  1   | Dave Asprey     | [What would you do](https://youtube.com/shorts/ZDcSK0PFEEM?si=1RuN3hynZxgnBCHt) |
+| (C)  | Video  | 0:09:42 |  1   | Dr Norwitz      | [Keto vs Colon Cancer: The Microbiome Missing Link](https://youtu.be/GGbQDstmty4?si=qG5KH86iZbfVu5XK) |
 | (C)  | Video  | 0:42:07 |  1   | AI & Health     | [Can a keto diet eliminate cancer growth? Dr Seyfried says yes](https://www.youtube.com/watch?v=qa3j40c8iAo&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=2) |
 | (C)  | Video  | 0:50:30 |  1   | Dr Boz          | [My honest advice to someone with cancer](https://www.youtube.com/watch?v=BrZ-0Fqu5kk) |
 | (C)  | Video  | 0:51:58 |  1   | Dr Boz          | [My husband might have cancer. He should've listened](https://www.youtube.com/watch?v=fZnydK9KskU) |
@@ -312,9 +307,13 @@ Sorted by category and then length.
 | (D)  | Video  | 1:20:31 |  1   | Dr Means        | [93% of Adults Have Metabolic Issues (10 COMMON Signs)](https://youtu.be/K8DSx1pM_3Q) |
 | (D)  | Video  | 1:53:17 |  1   | Dr Shanahan     | [The REAL Cause of Insulin Resistance (Stop Eating This!)](https://youtu.be/tN9o1oBDX-M?si=vZvpr-VORTZKn3yu) |
 | (E)  | Video  | 1:06:35 |  1   | Dr Boz          | [The BIGGEST LIE about Hormone Replacement Therapy (HRT)](https://www.youtube.com/live/72eSVVO9bpY?si=1sX1w0Pi6ezLmJSQ) |
+| (F)  | Movie  | 1:42:22 |  1   | Youtube         | [Fat Fiction](https://youtu.be/j3fYf38AU6w?si=i6IgxlNO8P5YFze2) |
 | (F)  | Video  | 0:01:06 |  3   | Dr Lufkin       | [Why Your Doctor LIES To You](https://www.youtube.com/live/ZkkbwA7We2U?si=v9tZFAQJoxf_a65R) |
+| (F)  | Video  | 0:03:49 |  1   | Dr Boz          | [What Doctors Weren't Allowed to Say about HRT](https://youtu.be/VylHOCl8ZuM?si=UX1rQGN2J73bvHIJ) |
 | (F)  | Video  | 0:04:22 |  1   | ?               | [The Great Cholesterol Scam](https://youtu.be/btUNkUlUIeQ?si=naDI7S0LZgdH6lxJ) |
 | (F)  | Video  | 0:15:03 |  1   | Nick Norwitz    | [Ignorance Is Bliss: The Dark Truth About Chocolate & Diabetes](https://www.youtube.com/watch?v=i9IgjxtTDEM) |
+| (F)  | Video  | 0:16:19 |  1   | Lilly Kane      | [3 Red Flags of Health Influencers: Who l Actually Watch vs. Avoid](https://youtu.be/DrCMj_4IXpc?si=8RweS9Weam4NC2z2) |
+| (F)  | Video  | 0:22:06 |  1   | Dr Bikman       | [The China Study Revisited - Science vs. Storytelling](https://youtu.be/tSkD7y-Zspo?si=h_iMufPmS36-__wM) |
 | (F)  | Video  | 0:24:59 |  1   | Dr Brewer       | [Watch This Video Before Stopping Baby Aspirin](https://youtu.be/9VQtnHAakwQ?si=Hmk2EnCV6FoYpr_j) |
 | (F)  | Video  | 0:29:46 |  1   | Dr Ekberg       | [#1 Most DANGEROUS Cholesterol Lie You Must Know!](https://youtu.be/dQLkDijNE2A?si=UriUk4mG9nkkorYM) |
 | (F)  | Video  | 0:30:33 |  1   | Carn Squad      | [Massive Data Leaked...3 Stunning Carnivore Studies Retrieved](https://youtu.be/vjhX400AQG4?si=aA82XrI6H5vfCR00) |
@@ -326,8 +325,10 @@ Sorted by category and then length.
 | (F)  | Video  | 1:12:26 |  1   | Dr Westman      | [Big Pharma Lies: What They Don't Want You to Know About Statins with Dave Feldman](https://www.youtube.com/watch?v=tKWaS9-8zLQ) |
 | (F)  | Video  | 1:15:59 |  3   | Dr Boz          | [**SHOW DOCTORS** What Physicians Need to Know About the Ketogenic Diet](https://youtu.be/WtcK8lZV1AM?si=cadfge58QArkvEkK) |
 | (G)  | Video  | 0:03:21 |  1   | Dr Boz          | [Three Myths About Cholesterol People Still Believe](https://youtu.be/3GP2CbUNHPs?si=vtVOrT0vTQxa8R9f) |
+| (G)  | Video  | 0:13:16 |  1   | Dr Norwitz      | [The Power of CAC = 0: When Does LDL Matter?](https://youtu.be/_t-6qirB5-I?si=U7ZIk5rhs-1ftftR) |
 | (G)  | Video  | 0:19:49 |  1   | Dr Ekberg       | [No Carb Foods Can Still Spike Your Blood Sugar](https://youtu.be/jNpwxgfihiA?si=KTVeXrlPu7uvw5eX) |
 | (G)  | Video  | 0:35:10 |  1   | Dr Ekberg       | [Top 10 Foods That DESTROY Your Blood - Sugar!](https://youtu.be/i1QkD8neXgo?si=N_Hl6CiTNHUlBavi) |
+| (G)  | Video  | 1:19:46 |  1   | Dr Norwitz      | [Master The Microbiome: A Deep Dive into Nutrition and Gut Health](https://youtu.be/IyDW_LAUa04?si=apVH0ySFQwz_vHh-) |
 | (H)  | Video  | 0:21:10 |  1   | Dr Brewer       | [#1 Best Way to Find Clogged Arteries](https://www.youtube.com/watch?v=fV7DqKCVrro) |
 | (H)  | Video  | 0:30:46 |  1   | Dr Brewer       | [#1 Worst Meal that Clogs Your Arteries](https://www.youtube.com/watch?v=xRwVxuPCzsc) |
 | (H)  | Video  | 0:32:19 |  2   | Dr Brewer       | [How I Cleaned Out My Arteries In 1 Year](https://www.youtube.com/watch?v=yYLym9PiJtA) |
@@ -341,18 +342,22 @@ Sorted by category and then length.
 | (H)  | Video  | 1:21:52 |  1   | Dr Brewer       | [How To Do Keto To Burn Fat, Reverse Fatty Liver & Unclog Arteries](https://www.youtube.com/live/s7yK6h37DdE?si=9IZp77N6wAcBOs_K) |
 | (H)  | Video  | 1:22:05 |  1   | Dr Brewer       | [How Quitting Sugar Reversed My Arterial Plaque](https://www.youtube.com/watch?v=ODcqzqirZAk&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=7) |
 | (H)  | Video  | 1:25:03 |  1   | Dr Berry        | [Reverse Visceral Fat & Chronic Inflammation](https://www.youtube.com/live/EvKiRewyYJg?si=UAmY8V1R1FmD-Lvp) |
+| (H)  | Video  | 6:44:49 |  1   | Dr Brewer       | [The Ultimate Guide for Plaque Reversal](https://youtu.be/evAkd-6ytUQ?si=Xv51oKXim9dd6u2p) |
 | (I)  | Video  | 0:08:30 |  1   | Diabetes Strong | [My Favorite CGM Sites                                       |
+| (K)  | Movie  | 1:26:55 |  1   | Youtube         | [Fasting: The Healer Within](https://youtu.be/XL-_4_oLkBE?si=Q3bJkNyHUNmSepIH) |
 | (K)  | Series |      20 |  3   | Dr Boz          | [Kickstart Metabolism In 3 Days With Sardines](https://youtu.be/Bhipbos4eUU?si=JvOccHK9jLLFAn_z) |
 | (K)  | Video  | 0:03:26 |  1   | Dr Boz          | [Tutorial Cronometer App - Count your carbs](https://www.loom.com/share/9b4467fb5ff843e78acc5eb42e085fbc) |
 | (K)  | Video  | 0:06:09 |  1   | Dr Boz          | [The keto mistake I wish I could undo](https://www.youtube.com/watch?v=GoYWOwnKJ3A) |
 | (K)  | Video  | 0:07:47 |  1   | Nick Norwitz    | [Finally! How Ketosis Really Works.](https://www.youtube.com/watch?v=uyq5qAPKTKg) |
 | (K)  | Video  | 0:08:31 |  1   | Dr Boz          | [Watch This Before You Shop](https://www.youtube.com/watch?v=UYxKm71MeII) |
 | (K)  | Video  | 0:08:53 |  1   | Dr Westman      | [TOP 10 TIPS TO START KETO!](https://www.youtube.com/watch?v=M47nd9F7vPk) |
+| (K)  | Video  | 0:12:27 |  1   | Dr Berry        | [The Truth About Food Noise](https://youtu.be/pgvnC65XWwU?si=1s0bl4BOfs-cyD-9) |
 | (K)  | Video  | 0:12:53 |  1   | Dr Boz          | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
 | (K)  | Video  | 0:12:56 |  1   | Nick Norwitz    | [How Ketones Take out the Trash: New Research on Diet and Brain Aging](https://www.youtube.com/watch?v=oRaNzfHF_do) |
 | (K)  | Video  | 0:12:57 |  1   | Dr Boz          | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
 | (K)  | Video  | 0:14:43 |  1   | Dr Boz          | [Human Growth Hormone: How to do HGH Right!](https://www.youtube.com/watch?v=UJOcc47pbwU) |
 | (K)  | Video  | 0:23:16 |  1   | Dr Westman      | [Do You Actually Need CARBS To Live? - Doctor Reacts](https://youtu.be/pfI10N4M7QA?si=6EJ_yhpxG45J1Tp_) |
+| (K)  | Video  | 0:25:31 |  1   | Ben Azadi       | [What to do if you are not in Ketosis - 6 solitions](https://youtu.be/X7RQ7GNiOkM?si=w71HmZyaXZsERsaw) |
 | (K)  | Video  | 0:28:02 |  1   | Bikman PhD      | [How Autophagy Protects Your Cells and Boosts Longevity](https://youtu.be/Er1MVXUOJh8?si=dMBe1GD-xXKdusGc) |
 | (K)  | Video  | 0:29:40 |  1   | Dr Ekberg       | [I Ate NO FOOD For 100 Hours: Here's What Happened To My Blood](https://youtu.be/ucknbzRBiSQ?si=GZlNpUX9CwAwE5VL) |
 | (K)  | Video  | 0:45:48 |  1   | Dr Ekberg       | [What Happens If You Don't Eat For 100 Hours?](https://youtu.be/DOevpP0fX28?si=IqBX4PZwNbgivwIa) |
@@ -365,6 +370,7 @@ Sorted by category and then length.
 | (K)  | Video  | 1:04:35 |  1   | Primal Podcast  | [#1 Fasting Expert: Get EPIC Fasting Results (Do Butter Coffee)](https://www.youtube.com/watch?v=6KSyXuxTnRM) |
 | (K)  | Video  | 1:04:36 |  1   | Primal Podcast  | [Ultimate Fasting Guide: Lose Weight Faster & Age In Reverse (DO THIS) Dave Asprey](https://youtu.be/6KSyXuxTnRM?si=GtZdf9M5_EPDz3TI) |
 | (K)  | Video  | 1:28:34 |  1   | Dr Chappus      | [Our Bodies ARE NOT Designed to Run on Carbohydrates - Dr. Gary Fettke](https://youtu.be/5W5w0WSBwDI?si=DaQ2LkC3Xnlc2Q9q) |
+| (K)  | Video  | 2:31:01 |  1   | Ben Azadi       | [How to Follow the Ketogenic Diet | The COMPLETE GUIDE TO KETO](https://youtu.be/g-e5GZMR1qc?si=yJTUkS3RHE2rAK2q) |
 | (K)  | Video  | 2:41:09 |  1   | Dr Lustig       | [The Shocking Benefits of Quitting Sugar for 30 Days! (How To Live Longer)](https://youtu.be/IKDsZWbm_xM?si=wKFXykvgFExykEop) |
 | (L)  | Video  | 0:01:37 |  1   | Dr Hampton      | [Can you really AFFORD Carnivore?](https://youtube.com/shorts/aEAxV5nRyWg?si=7-ScLUnMlK1emYkQ) |
 | (L)  | Video  | 0:04:18 |  1   | Dr Boz          | [Carnivore Pitfalls](https://youtu.be/ylLCeEbjzco?si=_h2u18QL2LiJT1Cp) |
@@ -409,8 +415,12 @@ Sorted by category and then length.
 | (W)  | Video  | 1:32:17 |  1   | Levels          | [Uncovering the SHOCKING Realities of OBESITY and Skinny Fat - Dr. Robert Lustig](https://youtu.be/sxJvfqTFttY?si=Ow9vJQ-1o7HEMgbd) |
 | (W)  | Video  | 1:32:21 |  1   | Dr Chaffee      | [Why We Are Carnivores Slide Presentation](https://www.youtube.com/watch?v=C-WUb3mJEso) |
 | (X)  | Video  | 0:01:17 |  1   | Dave Asprey     | [The End of Cardio: Burn Fat in 8 Minutes](https://youtube.com/shorts/x1CK0pWc6-4?si=gtBk1bmro6di1_y3) |
+| (X)  | Video  | 0:02:56 |  1   | 50% Awesome     | [REHIT Training Demo](https://youtu.be/DA7-l3l6AUg?si=10z4URONpD3hXiTB) |
+| (X)  | Video  | 0:06:15 |  1   | Dr Brewer       | [High Intensity Interval Training for Older Adults!](https://youtu.be/Hj4nPnwIQ40?si=meX0pzKUdFnAfV77) |
+| (X)  | Video  | 0:09:15 |  1   | Dave Asprey     | [How I Work Out Only 20 Minutes A Week](https://youtu.be/dvaT6Fgy9ag?si=GMT0aOozjfH1-NQW) |
 | (X)  | Video  | 0:18:52 |  2   | Dr Brewer       | [WARNING! Legs Weaken First: 3 Exercises Every Senior Must Do](https://youtu.be/4qllKrMIvmQ?si=9zBiBlQ4Yrn4glxv) |
-
+| (X)  | Video  | 0:23:25 |  1   | Dr Stenberg     | [What is HIIT Training? Why HIlT Works? Fast Weight Loss With High Intensity Int...](https://youtu.be/EOlgg1Ud-UM?si=yPTJ4UmLGp_kAiMr) |
+| (X)  | Video  | 0:28:33 |  1   | Dr Stenberg     | [WARNING! Your Legs WEAKEN First! Eat These 10 Foods To Strengthen Them!](https://youtu.be/_6-IUD6QPyI?si=jHfddTDpk5W43eb1) |
 
 ◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
@@ -1403,5 +1413,14 @@ Let me know if you want to provide corrections, additions, or have any other com
 
 ◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
+# Where to get this document
+
+This document can be found below. The images are clickable in the PDF and on the web. For print copies, use your phone for the QR code.
+
+<a href="https://tinyurl.com/ketovore-experts"><img src="Experts_supporting_Keto_n_Carnivore.assets/ketovore-experts-web.png" alt="ketovore-experts-web" style="zoom:20%;" /></a>													<a href="https://tinyurl.com/ketovore-experts-pdf"><img src="Experts_supporting_Keto_n_Carnivore.assets/ketovore-experts-pdf.png" alt="ketovore-experts-pdf" style="zoom:20%;" /></a>
+
+
+
 <h5>The end</h5>
+
 <!-- @a=npkddyyj @e=yypwwwwwwwwwRMMwwRSSwwwwR             wlllhc%[]lc%()hhiLINKS?kb??50ww -->
