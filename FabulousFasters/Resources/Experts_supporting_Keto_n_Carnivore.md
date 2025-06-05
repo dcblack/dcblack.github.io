@@ -50,9 +50,15 @@ tags:
   - weight-loss
 ---
 
+<<<<<<< HEAD
 # Experts on Keto & Carnivore [v2.2]
 
 [Update 2025-June-5 06:18 PM]
+=======
+# Experts on Keto & Carnivore [v2.1]
+
+[Updated 2025-May-23 09:12 AM]
+>>>>>>> fe11e09347e97e8fa347a14ba47ca02e9f48c2d1
 
 <h2>Contents</h2><a name="toc"></a>
 
