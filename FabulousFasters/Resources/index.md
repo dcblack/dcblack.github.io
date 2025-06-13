@@ -1,5 +1,3 @@
-
-<iframe src="FabulousFasters/updated.md" width="100%" height="300px"></iframe>
 --
 : Fabulous Fasters Resources;
 html:
@@ -9,6 +7,19 @@ subject: Health & Fasting
 author: David C Black
 contacts: dcblack@mac.com
 ---
+<style>
+  body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #1e1e1e;
+      color: #f1f1f1;
+    }
+  }
+</style>
 # [Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html) Resources [pdf](https://dcblack.github.io/FabulousFasters/Resources.pdf)
 
 <iframe src="../updated.md" width="30%" height="40px"></iframe>

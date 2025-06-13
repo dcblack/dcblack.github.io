@@ -10,9 +10,22 @@ html:
   head: |
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 ---
+<style>
+  body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #1e1e1e;
+      color: #f1f1f1;
+    }
+  }
+</style>
 # [🏠 Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html)
 
-<iframe src="updated.md" width="30%" height="40px"></iframe>
+<iframe src="updated.md" width="30%" height="60px"></iframe>
 
 <meta http-equiv="refresh" content="10">
 <meta property="og:title" content="Fabulous Fasters">
