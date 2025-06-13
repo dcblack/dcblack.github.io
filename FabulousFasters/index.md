@@ -12,7 +12,7 @@ html:
 ---
 # [🏠 Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html)
 
-<iframe src="updated.md" width="100%" height="300px"></iframe>
+<iframe src="updated.md" width="30%" height="40px"></iframe>
 
 <meta http-equiv="refresh" content="10">
 <meta property="og:title" content="Fabulous Fasters">

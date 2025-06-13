@@ -6,7 +6,7 @@ html:
 ---
 # [🏠 David C Black](https://dcblack.github.io/index.html)
 
-<iframe src="FabulousFasters/updated.md" width="100%" height="300px"></iframe>
+<iframe src="FabulousFasters/updated.md" width="30%" height="40px"></iframe>
 
 <meta http-equiv="refresh" content="10">
 <meta property="og:title" content="David C Black">
