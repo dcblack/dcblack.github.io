@@ -18,47 +18,16 @@ plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
   - jekyll-coffeescript
-tags: 
-  - allulose
-  - Alzheimer's
-  - apoptosis
-  - arthritis
-  - autophagy
-  - autophagy
-  - cancer
-  - carnivore (lion)
-  - coronary disease
-  - cortisol
-  - diabetes
-  - diet
-  - dementia
-  - fatty liver disease
-  - GLP1
-  - gut-biome
-  - insulin
-  - insulinemia
-  - ketogenic (keto)
-  - ketosis
-  - kidney disease
-  - lifestyle
-  - metabolism
-  - neuropathy
-  - ozempic
-  - Parkinson's
-  - pituitary
-  - thyroid
-  - weight-loss
+tags: [ allulose, Alzheimers, apoptosis, arthritis, autism, autophagy, cancer,
+  carnivore (lion), cholesterol, coronary disease, cortisol, diabetes, diet,
+  dementia, epilepsy, fatty liver disease, GLP1, gut-biome, HIIT, hormones, insulin, insulinemia,
+  keto, ketogenic, ketosis, kidney disease, lifestyle, metabolism, neuropathy,
+  obesity, ozempic, Parkinson's, pituitary, REHIT, thyroid, vegan, weight-loss ]
 ---
 
-<<<<<<< HEAD
-# Experts on Keto & Carnivore [v2.2]
+# Experts on Keto & Carnivore [v2.4]
 
-[Update 2025-June-5 06:18 PM]
-=======
-# Experts on Keto & Carnivore [v2.1]
-
-[Updated 2025-May-23 09:12 AM]
->>>>>>> fe11e09347e97e8fa347a14ba47ca02e9f48c2d1
+[Updated 2025-June-12 07:00 PM]
 
 <h2>Contents</h2><a name="toc"></a>
 
@@ -131,7 +100,7 @@ I've labeled a lot of material herein as part of a category. Most items are not 
 Category labels (may be combined):
 
 - **(A)**uto-immne diseases (Muliple Sclerosis, Neuropathy, Parkinsons)
-- **(B)**rain issues, Alzheimers, Dementia, Stress & Sleep
+- **(B)**rain issues, Alzheimers, Dementia, Stress & Sleep, Epilepsy 
 - **(C)**ancer
 - **(D)**iabetes, Prediabetes, Insulinemia & Metabolism
 - **(E)**strogen & Women's issues
@@ -445,6 +414,7 @@ This section contains references to scientific articles on the topics.
 - (C) [The Warburg Effect: How Does it Benefit Cancer Cells?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783224/) (Study)
 - (D) [Insulin secretion and action in subjects with impaired fasting glucose and impaired glucose tolerance](https://pubmed.ncbi.nlm.nih.gov/16644701/)
 - (H) [TG/HDL-C as a Risk Marker for Cardiovascular Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC10001260/) 
+- (K) [Beyond epilepsy management: A narrative review of the health effects of ketogenic diets](https://pubmed.ncbi.nlm.nih.gov/40403346/) 🆕
 
 ◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 

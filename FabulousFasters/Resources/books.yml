@@ -1,0 +1,147 @@
+- { Category: "B",
+    Title:    "Brain Energy",
+    Amazon:   "https://a.co/d/i1s8okR",
+    Author:   "Christopher Palmer"
+  }
+- { Category: "B",
+    Title:    "Change Your Diet, Change Your Mind",
+    Amazon:   "https://amzn.to/4csAYmd",
+    Author:   "Dr Thomas N. Seyfried",
+    Tag:      "Dr Thomas N. Seyfried PhD"
+  }
+- { Category: "B",
+    Title:    "Energy: The Metabolic Theory of Mental Illness",
+    Amazon:   "https://www.mycme.com/courses/brain-energy-the-metabolic-theory-of-mental-illness-9615",
+    Author:   "{:TODO:}"
+  }
+- { Category: "B",
+    Title:    "Heavily Meditated: The Fast Path to Remove Your Triggers, Dissolve Stress, and Activate Inner Peace",
+    Amazon:   "https://amzn.to/3RwxdTU",
+    Author:   "Dave Asprey"
+  }
+- { Category: "B",
+    Title:    "Iodine Why You Need It, Why You Can't Live Without It",
+    Amazon:   "https://a.co/d/bpJtFmu",
+    Author:   "David Brownstein"
+  }
+- { Category: "B",
+    Title:    "Super Human: The Bulletproof Plan to Age Backward and Maybe Even Live Forever",
+    Amazon:   "https://amzn.to/4jfxN4d"
+  }
+- { Category: "B",
+    Title:    "Why We Sleep",
+    Amazon:   "https://a.co/d/cfKaIFt",
+    Author:   "Matthew Walker",
+    Tag:      "Matthew Walker PhD"
+  }
+- { Category: "C",
+    Title:    "Any Way You Can",
+    Amazon:   "https://a.co/d/hMcGZb4",
+    Author:   "Annette Bosworth",
+    Tag:      "Dr Annette Bozworth, MD ★"
+  }
+- { Category: "C",
+    Title:    "BioDiet",
+    Amazon:   "https://a.co/d/clxcwxX",
+    Author:   "Dr David G Harper",
+    Tag:      "Dr David G Harper, PhD"
+  }
+- { Category: "C",
+    Title:    "Cancer as a Metabolic Disease",
+    Amazon:   "https://a.co/d/7eqRuc7",
+    Author:   "Dr Thomas N. Seyfried",
+    Tag:      "Dr Thomas N. Seyfried PhD"
+  }
+- { Category: "D",
+    Title:    "Drop Acid",
+    Amazon:   "https://a.co/d/9DuLOKd",
+    Author:   "David Perlmutter",
+    Tag:      "David Perlmutter, MD"
+  }
+- { Category: "D",
+    Title:    "Why We Get Sick",
+    Amazon:   "https://a.co/d/5hPLMLe",
+    Author:   "Ben Bickman PhD",
+    Tag:      "Ben Bickman PhD"
+  }
+- { Category: "F",
+    Title:    "Blind Spots",
+    Amazon:   "https://a.co/d/8Ylpp8l",
+    Author:   "Marty Makary",
+    Tag:      "Marty Makary, MD"
+  }
+- { Category: "F",
+    Title:    "Dark Calories",
+    Amazon:   "https://a.co/d/cCf2ila",
+    Author:   "Catherine Shanahan",
+    Tag:      "Dr Cate Shanahan, MD ★"
+  }
+- { Category: "F",
+    Title:    "Good Energy ★, Casy Means, MD",
+    Amazon:   "https://www.caseymeans.com/",
+  }
+- { Category: "F",
+    Title:    "Lies I Taught in Medical School",
+    Amazon:   "https://a.co/d/49qwZ14",
+    Author:   "Robert Lufkin",
+    Tag:      "Robert Lufkin, MD"
+  }
+- { Category: "F",
+    Title:    "Lies My Doctor Told Me",
+    Amazon:   "https://a.co/d/11d6oIa",
+    Author:   "Ken D Berry",
+    Tag:      "Dr Ken D Berry, MD"
+  }
+- { Category: "F",
+    Title:    "The Big Fat Surprise",
+    Amazon:   "https://a.co/d/1yEc1YM",
+    Author:   "Nina Teicholz",
+    Tag:      "Nina Teicholz PhD"
+  }
+- { Category: "K",
+    Title:    "Autophagy in Health and Disease",
+    Amazon:   "https://a.co/d/cVe9sw7",
+    Author:   "Beverly A Rothermel"
+  }
+- { Category: "K",
+    Title:    "Fast This Way: Burn Fat, Heal Inflammation, and Eat like the High-Performing Human You Were Meant to Be",
+    Amazon:   "https://amzn.to/4jm82Q2",
+    Author:   "{:TODO:}"
+  }
+- { Category: "K",
+    Title:    "Keto Flex",
+    Amazon:   "https://a.co/d/hRHIipT",
+    Author:   "Ben Azadi"
+  }
+- { Category: "K",
+    Title:    "KetoCONTINUUM: Consistently Keto For Life",
+    Amazon:   "https://a.co/d/7vQ9tcY",
+    Author:   "Annette Bosworth",
+    Tag:      "Annette Bosworth, MD"
+  }
+- { Category: "K",
+    Title:    "Ketogenic: The Science of Therapeutic Carbohydrate Restriction in Human Health",
+    Amazon:   "https://a.co/d/eBNj20q",
+    Author:   "Nutrition Network"
+  }
+- { Category: "R",
+    Title:    "Keto Diet Cookbook: 125+ Delicious Recipes to Lose Weight, Balance Hormones, Boost Brain Health, and Reverse Disease",
+    Amazon:   "https://www.amazon.com/Keto-Diet-Cookbook-Delicious-Hormones/dp/0316427187/",
+    Author:   "Little",
+    Year: "December 2019"
+  }
+- { Category: "T",
+    Title:    "Common Sense Labs (Blood Labs Demystified)",
+    Amazon:   "https://a.co/d/30O8QQd",
+    Author:   "Ken Berry"
+  }
+- { Category: "W",
+    Title:    "Nature Wants Us To Be Fat",
+    Amazon:   "https://a.co/d/2lvccrh",
+    Author:   "Richard Johnson"
+  }
+- { Category: "W",
+    Title:    "The Bulletproof Diet: Lose Up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+    Amazon:   "https://amzn.to/3R0QQmQ",
+    Author:   "Dave Asprey"
+  }

@@ -9,7 +9,7 @@ contacts: dcblack@mac.com
 ---
 # [Fabulous Fasters](https://dcblack.github.io/FabulousFasters/index.html) Resources [pdf](https://dcblack.github.io/FabulousFasters/Resources.pdf)
 
-[Updated 2025-April-10]
+<iframe src="../updated.md" width="100%" height="300px"></iframe>
 
 1. [Caffeine](https://dcblack.github.io/FabulousFasters/Resources/Caffeine.html) [[pdf]](https://dcblack.github.io/FabulousFasters/Resources/Caffeine.pdf)
 2. [Determining your circadian rhythm](https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.html) [[pdf](https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.pdf)]
