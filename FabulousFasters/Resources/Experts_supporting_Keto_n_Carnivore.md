@@ -25,9 +25,9 @@ tags: [ allulose, Alzheimers, apoptosis, arthritis, autism, autophagy, cancer,
   obesity, ozempic, Parkinson's, pituitary, REHIT, thyroid, vegan, weight-loss ]
 ---
 
-# Experts on Keto & Carnivore [v2.4]
+# Experts on Keto & Carnivore [v2.6]
 
-[Updated 2025-June-12 07:00 PM]
+[Updated 2025-June-17 01:52 PM]
 
 <h2>Contents</h2><a name="toc"></a>
 
@@ -102,11 +102,11 @@ Category labels (may be combined):
 - **(A)**uto-immne diseases (Muliple Sclerosis, Neuropathy, Parkinsons)
 - **(B)**rain issues, Alzheimers, Dementia, Stress & Sleep, Epilepsy 
 - **(C)**ancer
-- **(D)**iabetes, Prediabetes, Insulinemia & Metabolism
+- **(D)**iabetes, Prediabetes, Insulinemia & Metabolism (chemistry)
 - **(E)**strogen & Women's issues
 - **(F)**alsehoods, lies & myths - Drugs, Food & Medical
 - **(G)**eneral biomes (mouth & intestinal), glucose, insulin, chloresterol, serotonin & biochemistry
-- **(H)**eart & Cardiovascular Disease (incl. blood pressure)
+- **(H)**eart & Cardiovascular Disease (incl. blood pressure), Kidney disease 
 - **(I)**nstrumentation & devices - CGM, Blood pressure device, Breath meter, Scale
 - **(K)**etosis, Autophagy & Fasting - see also (D) & (M)
 - **(L)**ifestyle - Carnivore, Ketogenic, Ketovore: Recipes, Cost, Concerns - see also (F)alsehoods
@@ -252,6 +252,7 @@ Sorted by category and then length.
 | (B)  | Video  | 0:11:24 |  1   | Nick Norwitz    | [Why is sleep important](https://youtu.be/KNzTbr0B8aQ?si=zsqoOMYq1SE4Ofzg) |
 | (B)  | video  | 0:11:28 |  1   | Nick Norwitz    | [How a Common Kitchen Spice Could Boost Brain Function and Mental Health](https://youtu.be/rF0c31ssn7g?si=g9-gUBI1yu-YXcJB) |
 | (B)  | Video  | 0:16:46 |  1   | Holly           | [After a Year of 3 AM Wakeups, I Finally. Fixed My Sleep](https://youtu.be/7ulKd1_sp5Y?si=2vvRLGezKt4FO5oe)] |
+| (B)  | Video  | 0:25:02 |  1   | Dr Bikman       | [26: Sleep and Insulin Resistance](https://youtu.be/TbsbFk17mQ0?si=AdJ5o-mpB0CwHBDu) |
 | (B)  | Video  | 1:00:53 |  3   | Dr Boz          | [Sleep Lecture + BDNF + Training](https://youtu.be/E020nmykCHw?si=-nPrIvwVQrX9aSR8) |
 | (B)  | Video  | 1:13:29 |  2   | Dr Brewer       | [How I Fixed My Terrible Sleep Scores](https://www.youtube.com/live/DEBD1lfL33g?si=T7CbZ4FK_Smle_fE) |
 | (B)  | video  | 1:29:51 |  1   | Primal Podcast  | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
@@ -273,6 +274,7 @@ Sorted by category and then length.
 | (D)  | Video  | 0:07:23 |  2   | Dr Boz          | [How to Reverse Insulin Resistance](https://youtu.be/0Hp99Zrjgrg?si=5fwQcNA0eGBwtG4p) |
 | (D)  | Video  | 0:29:22 |  2   | Dr Bikman       | [“Fast” vs. “Slow” Insulin Resistance: The Two Paths Explained](https://www.youtube.com/watch?v=bzN6cDyLR64) |
 | (D)  | Video  | 0:33:57 |  1   | Bikman PhD      | [Uric Acid](https://www.youtube.com/watch?v=Eh6pg3jBPEk)     |
+| (D)  | Video  | 0:36:38 |  1   | Dr Bikman       | [63: The Randle Cycle - How Your Body Chooses Between Glucose and Fat](https://youtu.be/OlsjnLMANDQ?si=_g_mNJpnSk5Lvrb_) | 
 | (D)  | Video  | 0:38:55 |  1   | Metabolic Mind  | [How This Doctor Put Over 150 Patients into Diabetes Remission](https://youtu.be/PJQ5e5jwSxY?si=wl5ppTOy4Wd9-3qk) |
 | (D)  | Video  | 0:52:57 |  1   | Dr Westman      | [Type 2 Diabetes - part 2](https://vimeo.com/1057213205/5daa79b816?ts=0&share=copy&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%8C%7BREPLAY%7D%20-%20How%20to%20achieve%20normal%20blood%20sugars%20without%20diabetes%20medication%20-%2016632954) |
 | (D)  | Video  | 0:56:47 |  2   | Dr Boz          | [Two Magic Words to Know if You've Reversed Insulin Reistance](https://www.youtube.com/watch?v=OOa5iBdOW7w) |
@@ -292,6 +294,7 @@ Sorted by category and then length.
 | (F)  | Video  | 0:24:59 |  1   | Dr Brewer       | [Watch This Video Before Stopping Baby Aspirin](https://youtu.be/9VQtnHAakwQ?si=Hmk2EnCV6FoYpr_j) |
 | (F)  | Video  | 0:29:46 |  1   | Dr Ekberg       | [#1 Most DANGEROUS Cholesterol Lie You Must Know!](https://youtu.be/dQLkDijNE2A?si=UriUk4mG9nkkorYM) |
 | (F)  | Video  | 0:30:33 |  1   | Carn Squad      | [Massive Data Leaked...3 Stunning Carnivore Studies Retrieved](https://youtu.be/vjhX400AQG4?si=aA82XrI6H5vfCR00) |
+| (F)  | Video  | 0:32:23 |  1   | Carnivore squad | [Absolutely Chilling CARNIVORE Findings - Dusty Basement Discovery](https://youtu.be/d8izVfy2tN8?si=xs7CGRrJkT4f09MK) |
 | (F)  | Video  | 0:47:46 |  1   | Dr Brewer       | [Big Food's Dirty Secret Exposed! ft. Dr. Lustig](https://www.youtube.com/watch?v=0l3o-MZl4ts&t=0) |
 | (F)  | Video  | 0:56:51 |  1   | Dr Berry        | [Why Dieticians Give Bad Advice](https://www.youtube.com/live/5DMN5kAXQT4?si=fdNJoSfDLx1GwlnS) |
 | (F)  | Video  | 1:09:36 |  1   | Dr Westman      | ["Big Pharma Is Fooling You and You Don't Even Know It!" UNCUT - Doctor Reacts](https://www.youtube.com/watch?v=SyLVrHWZTEc) |
@@ -304,12 +307,16 @@ Sorted by category and then length.
 | (G)  | Video  | 0:19:49 |  1   | Dr Ekberg       | [No Carb Foods Can Still Spike Your Blood Sugar](https://youtu.be/jNpwxgfihiA?si=KTVeXrlPu7uvw5eX) |
 | (G)  | Video  | 0:35:10 |  1   | Dr Ekberg       | [Top 10 Foods That DESTROY Your Blood - Sugar!](https://youtu.be/i1QkD8neXgo?si=N_Hl6CiTNHUlBavi) |
 | (G)  | Video  | 1:19:46 |  1   | Dr Norwitz      | [Master The Microbiome: A Deep Dive into Nutrition and Gut Health](https://youtu.be/IyDW_LAUa04?si=apVH0ySFQwz_vHh-) |
+| (H)  | Video  | 0:02:03 |  1   | Dr Brewer       | [Do seed oils inflame arteries?](https://youtube.com/shorts/R16CdKqFfIw?si=omEwlAksgxl_tn0p) |
+| (H)  | Video  | 0:04:05 |  2   | Dr Boz          | [The #1 supplement to reverse fatty liver](https://youtu.be/d39z1XrGn18?si=wCCX7yv5HywF5Ofb) |
 | (H)  | Video  | 0:21:10 |  1   | Dr Brewer       | [#1 Best Way to Find Clogged Arteries](https://www.youtube.com/watch?v=fV7DqKCVrro) |
+| (H)  | Video  | 0:23:38 |  1   | Dr Ekberg       | [#1 Absolute First Sign of KIDNEY DISEASE Is...](https://youtu.be/8AP6eo9XaNY?si=c5bYfZTQVUA5D18Q) |
 | (H)  | Video  | 0:30:46 |  1   | Dr Brewer       | [#1 Worst Meal that Clogs Your Arteries](https://www.youtube.com/watch?v=xRwVxuPCzsc) |
 | (H)  | Video  | 0:32:19 |  2   | Dr Brewer       | [How I Cleaned Out My Arteries In 1 Year](https://www.youtube.com/watch?v=yYLym9PiJtA) |
 | (H)  | Video  | 0:33:27 |  1   | Dr Brewer       | [Top 7 Foods That Clean Out Arteries](https://www.youtube.com/watch?v=WYK-NOPbtfA) |
 | (H)  | Video  | 0:37:14 |  3   | Dr Ovadia       | [Heart Surgeon: The WORST Food Destroying Your Heart](https://www.youtube.com/watch?v=i4XUcNcO0dw&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=5&pp=gAQBiAQB) – interview |
 | (H)  | Video  | 0:57:45 |  1   | Dr Boz          | [He took the 'best' statins for 14 years and calcified his arteries](https://www.youtube.com/live/AwBCS-8_M8M?si=6WvuUL1NtPhp8gc-) |
+| (H)  | Video  | 0:MM:SS |  1   | Dr Brewer       | [You've Been Lied to About Cholesterol & Heart Disease](https://youtu.be/mWKmhn5jKiQ?si=UyElMelNuKuiU_HW) |
 | (H)  | Video  | 1:05:57 |  1   | Dr Brewer       | [How to Predict a Heart Attack AT HOME](https://www.youtube.com/watch?v=WJ5upZcXTSk) |
 | (H)  | Video  | 1:07:42 |  1   | Primal Podcast  | [Heart Surgeon: Fix Heart Disease & Cholesterol Naturally (EAT THIS) Dr Ova...](https://youtu.be/DpgqOBH0D2Q?si=ay__ZuXnwjga1lsY) |
 | (H)  | Video  | 1:13:03 |  1   | Dr Boz          | [The biggest risk for Heart Disease is NOT LDL or HbA1c](https://www.youtube.com/live/jq50sqWZW7E?si=EGnQZf2noNvWatfs) |
@@ -345,7 +352,7 @@ Sorted by category and then length.
 | (K)  | Video  | 1:04:35 |  1   | Primal Podcast  | [#1 Fasting Expert: Get EPIC Fasting Results (Do Butter Coffee)](https://www.youtube.com/watch?v=6KSyXuxTnRM) |
 | (K)  | Video  | 1:04:36 |  1   | Primal Podcast  | [Ultimate Fasting Guide: Lose Weight Faster & Age In Reverse (DO THIS) Dave Asprey](https://youtu.be/6KSyXuxTnRM?si=GtZdf9M5_EPDz3TI) |
 | (K)  | Video  | 1:28:34 |  1   | Dr Chappus      | [Our Bodies ARE NOT Designed to Run on Carbohydrates - Dr. Gary Fettke](https://youtu.be/5W5w0WSBwDI?si=DaQ2LkC3Xnlc2Q9q) |
-| (K)  | Video  | 2:31:01 |  1   | Ben Azadi       | [How to Follow the Ketogenic Diet | The COMPLETE GUIDE TO KETO](https://youtu.be/g-e5GZMR1qc?si=yJTUkS3RHE2rAK2q) |
+| (K)  | Video  | 2:31:01 |  1   | Ben Azadi       | [How to Follow the Ketogenic Diet                            |
 | (K)  | Video  | 2:41:09 |  1   | Dr Lustig       | [The Shocking Benefits of Quitting Sugar for 30 Days! (How To Live Longer)](https://youtu.be/IKDsZWbm_xM?si=wKFXykvgFExykEop) |
 | (L)  | Video  | 0:01:37 |  1   | Dr Hampton      | [Can you really AFFORD Carnivore?](https://youtube.com/shorts/aEAxV5nRyWg?si=7-ScLUnMlK1emYkQ) |
 | (L)  | Video  | 0:04:18 |  1   | Dr Boz          | [Carnivore Pitfalls](https://youtu.be/ylLCeEbjzco?si=_h2u18QL2LiJT1Cp) |
@@ -355,14 +362,21 @@ Sorted by category and then length.
 | (L)  | Video  | 1:04:05 |  1   | Primal Podcast  | [I Only Ate Meat For 200 DAYS: Here's What Happened To My HEART](https://youtu.be/PEtXLp2YEtk?si=xoGMb7Ng9QkwdTwk) |
 | (M)  | Video  | 0:01:15 |  1   | Dr Boz          | [You Need to Know This About Creatine](https://youtube.com/shorts/qBG0Dox-lNE?si=DbqkB8be9q3VaMZp) |
 | (M)  | Video  | 0:05:01 |  1   | Dr Berg         | [Fascinating Health Benefits of Methylene Blue](https://www.youtube.com/watch?v=dDUZ0ODBfJs&pp=ygUOTWV0aHlsZW5lIGJsdWXSBwkJhAkBhyohjO8%3D) |
+| (M)  | Video  | 0:05:19 |  1   | Dr Boz          | [The Major Reason I Changed My Mind About Curcumin](https://youtu.be/2pIuwJ3YXmE?si=E32DA-DRyTmiP0bL) | 
 | (M)  | Video  | 0:07:05 |  1   | Gary Brecka     | [Methylene Blue: Improved Focus, ATP Production & Anti-Aging with Gary Brecka](https://www.youtube.com/watch?v=KvASX2yp0zU&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
 | (M)  | Video  | 0:07:50 |  1   | Dr Anderson     | [Everything You NEED to KNOW About Methylene Blue](https://www.youtube.com/watch?v=bfPByasoJTw&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
 | (M)  | Video  | 0:19:32 |  1   | Dr Westman      | [Finally Ending The Debate! Do You Really Need Fiber? - Doctor Reacts](https://www.youtube.com/watch?v=L8nX-UyBHLo) |
+| (M)  | Video  | 0:25:17 |  1   | Dr Bikman       | [Can Nattokinase Improve Heart & Metabolic Health?](https://youtu.be/fujDgIdUQWc?si=hVZ4RGaZWGAanIbm) |
+| (M)  | Video  | 0:27:34 |  1   | Dr Bikman       | [Creatine Demystified: Brain, Muscle & Metabolic Benefits](https://youtu.be/Z7TRG6em3DA?si=ddSqy1yA9aLxi2eA) |
 | (M)  | Video  | 1:01:07 |  1   | Dr Boz          | [Why I'm using Methylene Blue for my metabolism](https://www.youtube.com/watch?v=WAuGLi4jsBQ&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
 | (M)  | Video  | 1:01:19 |  1   | Dr Boz          | [Creatin is Now NON-NEGOTIABLE](https://www.youtube.com/live/VSL7ARI24Oc?si=44hoZETEsJ5PUXiY) |
 | (O)  | Video  | 0:22:13 |  1   | Dr Ellie        | [How to Reverse a Cavity & Prevent Future Cavities](https://www.youtube.com/watch?v=hWrWKi7msrk) |
 | (O)  | Video  | 1:39:25 |  2   | Primal Podcast  | [Fix The Microbiome: #1 Oral Care Routine To Fix Your Mouth & Disease (Dr Burhenne)](https://youtu.be/jNrm-9sp-RQ?si=cl59_lTi6zYHxNs5) |
 | (P)  | Video  | 0:07:23 |  1   | James Tour      | [Biochemist, Messianic Jew](https://youtu.be/QNGLZvtRoiU?si=xR9lWh1tD8txOgw_) |
+| (R)  | Video  |   18:23 |  1   | Milkslinger     | [I Discovered A NEW WAY To Make Yogurt!](https://www.youtube.com/watch?v=QCQ3KC81QHI&t=932s) |
+| (R)  | Video  |   28:56 |  1   | Lillie          | [Farmer Warns: If You Knew What I Know, You’d Never Eat This Again](https://www.youtube.com/watch?v=D8OcNesbWuc) |
+| (R)  | Video  | 0:07:53 |  1   | Patricia        | [Only CHIA and WATER - REPLACE BREAD in 5 MINUTES - LOW CARB, High Fiber and Protein, Quick and Easy](https://www.youtube.com/watch?v=ZaCx62Kf2Hk) |
+| (R)  | Video  | 0:08:59 |  1   | Kochen          | [Strengthen your heart with this keto avocado bread! The perfect breakfast](https://www.youtube.com/watch?v=atm1KgZWWic) |
 | (S)  | Video  | 0:05:11 |  1   | Dave Mac        | [85-Year-Olds Stun Doctor with Carnivore Results: See His Reaction!](https://www.youtube.com/watch?v=iyenYTtCx6E) |
 | (S)  | Video  | 1:02:07 |  1   | Dave Mac        | [How My Carnivore Success Made My Doctor a Believer](https://youtu.be/OAIXWxq41SI?si=-sXS7XNkFmJ5WXQf) |
 | (T)  | Video  | 0:01:09 |  1   | Dr Brewer       | [How to Measure you Blood Pressure the Right Way (short)](https://www.youtube.com/watch?v=dP8oZ916pcE) |
@@ -394,8 +408,11 @@ Sorted by category and then length.
 | (X)  | Video  | 0:06:15 |  1   | Dr Brewer       | [High Intensity Interval Training for Older Adults!](https://youtu.be/Hj4nPnwIQ40?si=meX0pzKUdFnAfV77) |
 | (X)  | Video  | 0:09:15 |  1   | Dave Asprey     | [How I Work Out Only 20 Minutes A Week](https://youtu.be/dvaT6Fgy9ag?si=GMT0aOozjfH1-NQW) |
 | (X)  | Video  | 0:18:52 |  2   | Dr Brewer       | [WARNING! Legs Weaken First: 3 Exercises Every Senior Must Do](https://youtu.be/4qllKrMIvmQ?si=9zBiBlQ4Yrn4glxv) |
-| (X)  | Video  | 0:23:25 |  1   | Dr Stenberg     | [What is HIIT Training? Why HIlT Works? Fast Weight Loss With High Intensity Int...](https://youtu.be/EOlgg1Ud-UM?si=yPTJ4UmLGp_kAiMr) |
-| (X)  | Video  | 0:28:33 |  1   | Dr Stenberg     | [WARNING! Your Legs WEAKEN First! Eat These 10 Foods To Strengthen Them!](https://youtu.be/_6-IUD6QPyI?si=jHfddTDpk5W43eb1) |
+| (X)  | Video  | 0:23:25 |  1   | Dr Ekberg       | [What is HIIT Training? Why HIlT Works? Fast Weight Loss With High Intensity Int...](https://youtu.be/EOlgg1Ud-UM?si=yPTJ4UmLGp_kAiMr) |
+| (X)  | Video  | 0:28:33 |  1   | Dr Ekberg       | [WARNING! Your Legs WEAKEN First! Eat These 10 Foods To Strengthen Them!](https://youtu.be/_6-IUD6QPyI?si=jHfddTDpk5W43eb1) |
+| (X)  | Video  | 0:42:25 |  1   | Dr Brewer       | [3 TIMES More Likely to Die If You Fail This Test (No One Talks About It)](https://youtu.be/mbhqBdw4V_4?si=S6yhxFEgbEW3P6j9) |
+| (X)  | Video  | 1:24:39 |  1   | Dave Asprey     | [The Japanese Walking Hack That REPLACES 10,000 Steps a Day](https://youtu.be/90tlaYua-HU?si=UqdiUGy6eO6XkNfs) |
+|      |        |         |      |                 |                                                              |
 
 ◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
