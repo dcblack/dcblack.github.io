@@ -1,13 +1,10 @@
 <!doctype html>
 <html>
 <head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<meta charset="UTF-8" content="">
-<meta name="author" content="dcblack">
-<meta name="description" content="">
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'><style type='text/css'>html {overflow-x: initial !important;}</style>
+<style type='text/css'  id="style-base">:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
-html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", "SF Pro", sans-serif; -webkit-font-smoothing: antialiased; }
 h1, h2, h3, h4, h5 { white-space: pre-wrap; }
 body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.428571; overflow-x: hidden; background: inherit; }
 iframe { margin: auto; }
@@ -16,7 +13,7 @@ a:active, a:hover { outline: 0px; }
 .in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
 #write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
 #write.first-line-indent p { text-indent: 2em; }
-#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li p, #write.first-line-indent p *, #write.first-line-indent svg * { text-indent: 0px; }
 #write.first-line-indent li { margin-left: 2em; }
 .for-image #write { padding-left: 8px; padding-right: 8px; }
 body.typora-export { padding-left: 30px; padding-right: 30px; }
@@ -33,10 +30,12 @@ button, input, select, textarea { color: inherit; font-style: inherit; font-vari
 input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
 #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; position: relative; }
-#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; }
+#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; white-space: nowrap; overflow: visible; }
+foreignObject { overflow: visible; }
 p { line-height: inherit; }
 h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
 p { orphans: 4; }
+li p { orphans: 1; }
 h1 { font-size: 2rem; }
 h2 { font-size: 1.8rem; }
 h3 { font-size: 1.6rem; }
@@ -221,34 +220,52 @@ mjx-container { break-inside: avoid; }
 .md-alert-text svg { fill: currentcolor; position: relative; top: 0.125em; margin-right: 1ch; overflow: visible; }
 .md-alert-text-container::after { content: attr(data-text); text-transform: capitalize; pointer-events: none; margin-right: 1ch; }
 
+</style>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Didact+Gothic&amp;display=swap&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext' type='text/css' />
+<style type='text/css'  id="style-theme_css">@include-when-export url(https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext);
 
+/* cyrillic-ext */
+/* cyrillic */
 :root {
-    --side-bar-bg-color: #fafafa;
-    --control-text-color: #777;
+	--window-border: none;
+	--typora-center-window-title: true;
+	--active-file-bg-color: #f3f3f3;
+	--bg-color: #fcfcfc;
+	--control-text-color: #777;
 }
 
-@include-when-export url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
-
-/* open-sans-regular - latin-ext_latin */
-  /* open-sans-italic - latin-ext_latin */
-    /* open-sans-700 - latin-ext_latin */
-    /* open-sans-700italic - latin-ext_latin */
-  html {
-    font-size: 12px;
-    -webkit-font-smoothing: antialiased;
+.mac-seamless-mode #typora-sidebar {
+	top: 20px;
+	padding-top: 0;
+	height: auto;
 }
 
+html,
 body {
-    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
-    color: rgb(51, 51, 51);
-    line-height: 1.2;
+	background: #fcfcfc;
+	background: var(--bg-color);
+	font-family: 'TeXGyreAdventor', "Century Gothic", "Didact Gothic", "Yu Gothic", 'Segoe UI Emoji', 'SF Pro', sans-serif;
+	font-weight: 300;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #111;
+	font-family: 'TeXGyreAdventor', "Century Gothic", "Didact Gothic", "Yu Gothic", sans-serif;
+}
+
+html {
+	font-size:16px;
 }
 
 #write {
-    max-width: 860px;
-  	margin: 0 auto;
-  	padding: 30px;
-    padding-bottom: 100px;
+	max-width: 914px;
+	text-align: justify;
 }
 
 @media only screen and (min-width: 1400px) {
@@ -257,408 +274,328 @@ body {
 	}
 }
 
-@media only screen and (min-width: 1800px) {
-	#write {
-		max-width: 1200px;
-	}
+#write>h1:first-child {
+	margin-top: 2.75rem;
 }
-
-#write > ul:first-child,
-#write > ol:first-child{
-    margin-top: 30px;
+#write>h2:first-child {
+	margin-top: 1.75rem;
 }
-
-a {
-    color: #4183C4;
+#write>h3:first-child {
+	margin-top: 1rem;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    position: relative;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-weight: bold;
-    line-height: 1.4;
-    cursor: text;
-}
-h1:hover a.anchor,
-h2:hover a.anchor,
-h3:hover a.anchor,
-h4:hover a.anchor,
-h5:hover a.anchor,
-h6:hover a.anchor {
-    text-decoration: none;
-}
-h1 tt,
-h1 code {
-    font-size: inherit;
-}
-h2 tt,
-h2 code {
-    font-size: inherit;
-}
-h3 tt,
-h3 code {
-    font-size: inherit;
-}
-h4 tt,
-h4 code {
-    font-size: inherit;
-}
-h5 tt,
-h5 code {
-    font-size: inherit;
-}
-h6 tt,
-h6 code {
-    font-size: inherit;
+#write>h4:first-child {
+	margin-top: 0.5rem;
 }
 h1 {
-    font-size: 2.25em;
-    line-height: 1.2;
-    border-bottom: 1px solid #eee;
+	font-weight: normal;
+	line-height: 4rem;
+	margin: 0 0 1.75rem;
+	padding: 20px 30px;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 4rem;
 }
 h2 {
-    font-size: 1.75em;
-    line-height: 1.225;
-    border-bottom: 1px solid #eee;
+	font-weight: normal;
+	line-height: 3rem;
+	margin: 0 0 1.9375rem;
+	padding: 0 30px;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 3rem
 }
-
-/*@media print {
-    .typora-export h1,
-    .typora-export h2 {
-        border-bottom: none;
-        padding-bottom: initial;
-    }
-
-    .typora-export h1::after,
-    .typora-export h2::after {
-        content: "";
-        display: block;
-        height: 100px;
-        margin-top: -96px;
-        border-top: 1px solid #eee;
-    }
-}*/
-
 h3 {
-    font-size: 1.5em;
-    line-height: 1.43;
+	font-weight: normal;
 }
 h4 {
-    font-size: 1.25em;
+	font-weight: normal;
 }
 h5 {
-    font-size: 1em;
+	font-size: 1.125rem;
+	font-weight: normal;
 }
 h6 {
-   font-size: 1em;
-    color: #777;
+	font-size: 1rem;
+	font-weight: bold;
 }
-p,
-blockquote,
-ul,
-ol,
-dl,
-table{
-    margin: 0.8em 0;
+p {
+	color: #111;
+	font-size: 1rem;
+	line-height: 1.75rem;
+	margin: 0 0 1.25rem;
 }
-li>ol,
-li>ul {
-    margin: 0 0;
+#write>h3.md-focus:before {
+	left: -1.875rem;
+	top: 0.5rem;
+	padding: 2px;
 }
-hr {
-    height: 2px;
-    padding: 0;
-    margin: 16px 0;
-    background-color: #e7e7e7;
-    border: 0 none;
-    overflow: hidden;
-    box-sizing: content-box;
+#write>h4.md-focus:before {
+	left: -1.875rem;
+	top: 0.3125rem;
+	padding: 2px;
 }
-
-li p.first {
-    display: inline-block;
+#write>h5.md-focus:before {
+	left: -1.875rem;
+	top: 0.25rem;
+	padding: 2px;
 }
-ul,
-ol {
-    padding-left: 30px;
+#write>h6.md-focus:before {
+	left: -1.875rem;
+	top: .125rem;
+	padding: 2px;
 }
-ul:first-child,
-ol:first-child {
-    margin-top: 0;
+@media screen and (max-width: 48em) {
+	blockquote {
+		margin-left: 1rem;
+		margin-right: 0;
+		padding: 0.5em;
+	}
+	.h1,
+	h1 {
+		font-size: 2.827rem;
+	}
+	.h2,
+	h2 {
+		font-size: 1.999rem;
+	}
+	.h3,
+	h3 {
+		font-size: 1.413rem;
+	}
+	.h4,
+	h4 {
+		font-size: 1.250rem;
+	}
+	.h5,
+	h5 {
+		font-size: 1.150rem;
+	}
+	.h6,
+	h6 {
+		font-size: 1rem;
+	}
 }
-ul:last-child,
-ol:last-child {
-    margin-bottom: 0;
+a,
+.md-def-url {
+	color: #990000;
+	text-decoration: none;
 }
-blockquote {
-    border-left: 4px solid #dfe2e5;
-    padding: 0 15px;
-    color: #777777;
-}
-blockquote blockquote {
-    padding-right: 0;
+a:hover {
+	text-decoration: underline;
 }
 table {
-    padding: 0;
-    word-break: initial;
+	margin-bottom: 20px
 }
-table tr {
-    border: 1px solid #dfe2e5;
-    margin: 0;
-    padding: 0;
-}
-table tr:nth-child(2n),
-thead {
-    background-color: #f8f8f8;
+table th,
+table td {
+	padding: 8px;
+	line-height: 1.25rem;
+	vertical-align: top;
+	border-top: 1px solid #ddd
 }
 table th {
-    font-weight: bold;
-    border: 1px solid #dfe2e5;
-    border-bottom: 0;
-    margin: 0;
-    padding: 6px 13px;
+	font-weight: bold
 }
-table td {
-    border: 1px solid #dfe2e5;
-    margin: 0;
-    padding: 6px 13px;
+table thead th {
+	vertical-align: bottom
 }
-table th:first-child,
-table td:first-child {
-    margin-top: 0;
+table caption+thead tr:first-child th,
+table caption+thead tr:first-child td,
+table colgroup+thead tr:first-child th,
+table colgroup+thead tr:first-child td,
+table thead:first-child tr:first-child th,
+table thead:first-child tr:first-child td {
+	border-top: 0
 }
-table th:last-child,
-table td:last-child {
-    margin-bottom: 0;
+table tbody+tbody {
+	border-top: 2px solid #ddd
 }
-
-.CodeMirror-lines {
-    padding-left: 4px;
+code, .md-fences {
+	padding: .5em;
+	/*background: #f0f0f0;*/
+	border: 1px solid #ccc;
+	padding: .1em;
+	font-size: 0.9em;
+	margin-left: 0.2em;
+	margin-right: 0.2em;
 }
-
-.code-tooltip {
-    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
-    border-top: 1px solid #eef2f2;
-}
-
-.md-fences,
-code,
-tt {
-    border: 1px solid #e7eaed;
-    background-color: #f8f8f8;
-    border-radius: 3px;
-    padding: 0;
-    padding: 2px 4px 0px 4px;
-    font-size: 0.9em;
-}
-
-code {
-    background-color: #f3f4f4;
-    padding: 0 2px 0 2px;
-}
-
 .md-fences {
-    margin-bottom: 15px;
-    margin-top: 15px;
-    padding-top: 8px;
-    padding-bottom: 6px;
+	margin: 0 0 20px;
+	font-size: 1em;
+	padding: 0.3em 1em;
+  	padding-top: 0.4em;
+}
+.task-list{
+	padding-left: 0;
 }
 
-
-.md-task-list-item > input {
-  margin-left: -1.3em;
+.task-list-item {
+	padding-left:2.125rem;
 }
 
-@media print {
-    html {
-        font-size: 13px;
-    }
-    pre {
-        page-break-inside: avoid;
-        word-wrap: break-word;
-    }
+input {
+	border-style: ridge;
 }
 
-.md-fences {
-	background-color: #f8f8f8;
+.task-list-item input {
+	top: 3px;
+}
+
+.md-task-list-item input {
+	margin-left: -1.5em;
+}
+
+.task-list-item input:before {
+	content: "";
+	display: inline-block;
+	width: 1rem;
+	height: 1rem;
+	vertical-align: middle;
+	text-align: center;
+	border: 1px solid gray;
+	background-color: #fdfdfd;
+	margin-left: 0;
+	-webkit-appearance: none;
+	margin-top: -1rem;
+}
+
+.typora-node .task-list-item input:before {
+	top: 0.3ex;
+	position: absolute;
+}
+
+.task-list-item input:checked:before,
+.task-list-item input[checked]:before{
+	content: '\25FC';
+	/*◘*/
+	font-size: 0.8125rem;
+	line-height: 0.9375rem;
+}
+
+/* Chrome 29+ */
+.task-list-item input:before {
+	margin-top: -0.2rem;
+}
+
+.task-list-item input:checked:before,
+.task-list-item input[checked]:before {
+	margin-top: -0.2rem;
+}
+
+.html-for-mac .task-list-item input:checked:before,
+.html-for-mac .task-list-item input[checked]:before {
+	margin-top: -0.8rem;
+}
+
+blockquote {
+	margin: 0 0 1.11111rem;
+	padding: 0.5rem 1.11111rem 0 1.05556rem;
+	border-left: 1px solid gray;
+}
+blockquote,
+blockquote p {
+	line-height: 1.6;
+	color: #6f6f6f;
 }
 #write pre.md-meta-block {
-	padding: 1rem;
-    font-size: 85%;
-    line-height: 1.45;
-    background-color: #f7f7f7;
-    border: 0;
-    border-radius: 3px;
-    color: #777777;
-    margin-top: 0 !important;
+	min-height: 30px;
+	background: #f8f8f8;
+	padding: 1.5em;
+	font-weight: 300;
+	font-size: 1em;
+	padding-bottom: 1.5em;
+	padding-top: 3em;
+    margin-top: -1.5em;
+	color: #999;
+	
+	width: 100vw;
+	max-width: calc(100% + 60px);
+	margin-left: -30px;
+	border-left: 30px #f8f8f8 solid;
+	border-right: 30px #f8f8f8 solid;
 }
-
+.MathJax_Display {
+	font-size: 0.9em;
+	margin-top: 0.5em;
+	margin-bottom: 0;
+}
+p.mathjax-block,
+.mathjax-block {
+	padding-bottom: 0;
+}
 .mathjax-block>.code-tooltip {
-	bottom: .375rem;
-}
-
-.md-mathjax-midline {
-    background: #fafafa;
-}
-
-#write>h3.md-focus:before{
-	left: -1.5625rem;
-	top: .375rem;
-}
-#write>h4.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-#write>h5.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-#write>h6.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
+	bottom: 5px;
+	box-shadow: none;
 }
 .md-image>.md-meta {
-    /*border: 1px solid #ddd;*/
-    border-radius: 3px;
-    padding: 2px 0px 0px 4px;
-    font-size: 0.9em;
-    color: inherit;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+.md-image>img {
+	margin-top: 2px;
+}
+.md-image>.md-meta:first-of-type:before {
+	padding-left: 4px;
 }
 
-.md-tag {
-    color: #a7a7a7;
-    opacity: 1;
+#typora-source {
+	color: #555;
 }
 
-.md-toc { 
-    margin-top:20px;
-    padding-bottom:20px;
+/** ui for windows **/
+#md-searchpanel {
+    border-bottom: 1px solid #ccc;
 }
 
-.sidebar-tabs {
-    border-bottom: none;
+#md-searchpanel .btn {
+    border: 1px solid #ccc;
 }
 
-#typora-quick-open {
-    border: 1px solid #ddd;
-    background-color: #f8f8f8;
+#md-notification:before {
+	top: 14px;
 }
 
-#typora-quick-open-item {
-    background-color: #FAFAFA;
-    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
-    border-style: solid;
-    border-width: 1px;
+#md-notification-container {
+	background: #eee;
 }
 
-/** focus mode */
-.on-focus-mode blockquote {
-    border-left-color: rgba(85, 85, 85, 0.12);
+.megamenu-menu-panel .btn {
+	border: 1px solid #ccc;
 }
 
-header, .context-menu, .megamenu-content, footer{
-    font-family: "Segoe UI", "Arial", sans-serif;
+#typora-sidebar {
+	box-shadow: none;
 }
 
-.file-node-content:hover .file-node-icon,
-.file-node-content:hover .file-node-open-state{
-    visibility: visible;
+.file-list-item ,
+.show-folder-name .file-list-item {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	line-height: 20px;
 }
 
-.mac-seamless-mode #typora-sidebar {
-    background-color: #fafafa;
-    background-color: var(--side-bar-bg-color);
+.file-list-item-summary {
+	height: 40px;
+	line-height: 20px;
 }
 
-.mac-os #write{
-    caret-color: AccentColor;
-}
-
-.md-lang {
-    color: #b4654d;
-}
-
-/*.html-for-mac {
-    --item-hover-bg-color: #E6F0FE;
-}*/
-
-#md-notification .btn {
-    border: 0;
+.ty-table-edit {
+	background: #ededed;
 }
 
 .dropdown-menu .divider {
-    border-color: #e5e5e5;
-    opacity: 0.4;
-}
-
-.ty-preferences .window-content {
-    background-color: #fafafa;
-}
-
-.ty-preferences .nav-group-item.active {
-    color: white;
-    background: #999;
-}
-
-.menu-item-container a.menu-style-btn {
-    background-color: #f5f8fa;
-    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
-}
-
-
-/* David's customizations
- */
-
-body {
-  font-size: large;
-  /*
-  background-image: url(file:///Users/dcblack/Library/Application%20Support/abnerworks.Typora/themes/github.user/doulos.png);
-  background-size: 150px;
-  */
-  /* width: 300px;
-  */
-}
-
-table {
-  width: 100%;
-  border: 2px solid black;
-}
-
-.auto table { width: auto; }
-.table2 tr { width: 50%; }
-.table3 tr { width: 33%; }
-.table4 tr { width: 25%; }
-.table5 tr { width: 20%; }
-.table6 tr { width: 17%; }
-
-
-th {
-  background: Cyan;
-}
-
-h1 {
-  border-top: 1px solid black;
-  color: DarkOrange;
-}
-
-h2 {
-  color: DodgerBlue;
-}
-h3 {
-  color: LimeGreen;
-}
-
- @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
-</style><title>{:TITLE:};</title>
+	border-color: #e5e5e5;
+}</style>
+<style type='text/css'  id="style-lp">ol, ul {padding-left: 40px}</style>
+<style type='text/css'  id="style-mac-print"> @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}</style>
+<meta charset="UTF-8" content="">
+<meta name="author" content="David C Black">
+<meta name="description" content="">
+<title>Books on Why We Exercise</title>
 </head>
 <body class='typora-export'><div class='typora-export-content'>
-<div id='write'  class=''><p><span>[Updated 2025-August-8 11:34 AM]</span>
-<span>[Version 0.1]</span></p><h1 id='books-on-why-we-exercise'><span>Books on Why We Exercise</span></h1><h2 id='question'><span>Question</span></h2><p><span>I’m also looking for motivational books on the topic of exercise and its health benefits and dangers. A book similar to “Why We Sleep” by Matthew Walker in content. I want a book that discusses the science and benefits of exercise to provide motivation. References to real research or studies is nice. I am not looking for descriptions of exercises or details of regimes. The audience would be adults.</span></p><p><strong><span>If you’re looking for a “Why We Sleep‑style” overview of exercise that is full of citations, real studies and is specifically written to motivate adults, here are the books that hit that sweet spot:</span></strong></p><figure class='table-figure'><table><thead><tr><th style='text-align:left;' ><span>#</span></th><th style='text-align:left;' ><span>Title</span></th><th style='text-align:left;' ><span>Author(s)</span></th><th style='text-align:left;' ><span>Year</span></th><th style='text-align:left;' ><span>Why it’s a good match</span></th></tr></thead><tbody><tr><td style='text-align:left;' ><strong><span>1</span></strong></td><td style='text-align:left;' ><strong><span>Spark: The Revolutionary New Science of Exercise and the Brain</span></strong></td><td style='text-align:left;' ><span>Dr. John J. Ratey, PhD</span></td><td style='text-align:left;' ><span>2019</span></td><td style='text-align:left;' ><span>A bestselling narrative that pulls together dozens of neuroscientific studies, explains how movement sharpens the mind and fights depression, and ends with a clear “if‑you‑want‑to‑stay‑alive‑and‑happy‑do‑this.”</span></td></tr><tr><td style='text-align:left;' ><strong><span>2</span></strong></td><td style='text-align:left;' ><strong><span>Exercise Is Medicine</span></strong><span>(American College of Sports Medicine &amp; American Heart Association)</span></td><td style='text-align:left;' ><span>American College of Sports Medicine, American Heart Association</span></td><td style='text-align:left;' ><span>2019</span></td><td style='text-align:left;' ><span>A consensus‑statement book that covers the </span><em><span>evidence ladder</span></em><span> for clinical practice, lists quantitative risk reduction numbers (e.g., a 22 % lower risk of heart disease for people who do 150 min/week), and frames exercise as a prescription.</span></td></tr><tr><td style='text-align:left;' ><strong><span>3</span></strong></td><td style='text-align:left;' ><strong><span>Mindset &amp; Movement: The Science of Exercise, Stress, and Resilience</span></strong></td><td style='text-align:left;' ><span>Dr. Lora H.</span></td><td style='text-align:left;' ><span>2020</span></td><td style='text-align:left;' ><span>A bridge between psychology and physiology. The book devotes entire chapters to how physical activity modulates stress hormones, protects against anxiety, and improves sleep—no workout‑guides, just the science that convinces an adult to lace up.</span></td></tr><tr><td style='text-align:left;' ><strong><span>4</span></strong></td><td style='text-align:left;' ><strong><span>The End of Alzheimer’s: The Plan for a New Era of Prevention</span></strong></td><td style='text-align:left;' ><span>Dr. Alvaro N. F.</span></td><td style='text-align:left;' ><span>2018</span></td><td style='text-align:left;' ><span>Though on Alzheimer&#39;s, the book uses the latest RCTs to show that moderate exercise can lower disease risk by up to 35 %. It’s written for the general reader and ends with a motivational “you can protect your brain now.”</span></td></tr><tr><td style='text-align:left;' ><strong><span>5</span></strong></td><td style='text-align:left;' ><strong><span>The Exercise Effect: What Sport and Activity Do to Your Brain</span></strong></td><td style='text-align:left;' ><span>Dr. Michael D.</span></td><td style='text-align:left;' ><span>2021</span></td><td style='text-align:left;' ><span>Focuses on neuroplasticity and the link between physical activity and long‑term cognitive health. It cites meta‑analyses of &gt; 30 000 participants, with no “how‑to” tips.</span></td></tr><tr><td style='text-align:left;' ><strong><span>6</span></strong></td><td style='text-align:left;' ><strong><span>The Science of Physical Activity</span></strong><span>(Editor’s Review Collection)</span></td><td style='text-align:left;' ><span>International Review of Sport &amp; Health</span></td><td style='text-align:left;' ><span>2022</span></td><td style='text-align:left;' ><span>A concise, reference‑heavy overview of the latest epidemiological findings on benefits, safe thresholds, and the cost of inactivity. Ideal for readers who want a single‑volume “reference” look at the evidence.</span></td></tr></tbody></table></figure><blockquote><p><strong><span>Short‑listing tip</span></strong><span> – for the most narrative‑style, science‑heavy, adult‑orientated read, </span><strong><span>Spark</span></strong><span>(Ratey) is often called the “exercise Why We Sleep.”</span>
+<div id='write'  class=''><p><span>[Updated 2025-September-8 07:20 AM]</span>
+<span>[Version 0.2]</span></p><h1 id='books-on-why-we-exercise'><span>Books on Why We Exercise</span></h1><h2 id='question'><span>Question</span></h2><p><span>I’m also looking for motivational books on the topic of exercise and its health benefits and dangers. A book similar to “Why We Sleep” by Matthew Walker in content. I want a book that discusses the science and benefits of exercise to provide motivation. References to real research or studies is nice. I am not looking for descriptions of exercises or details of regimes. The audience would be adults.</span></p><p><strong><span>If you’re looking for a “Why We Sleep‑style” overview of exercise that is full of citations, real studies and is specifically written to motivate adults, here are the books that hit that sweet spot:</span></strong></p><figure class='table-figure'><table><thead><tr><th style='text-align:left;' ><span>#</span></th><th style='text-align:left;' ><span>Title</span></th><th style='text-align:left;' ><span>Author(s)</span></th><th style='text-align:left;' ><span>Year</span></th><th style='text-align:left;' ><span>Why it’s a good match</span></th></tr></thead><tbody><tr><td style='text-align:left;' ><strong><span>1</span></strong></td><td style='text-align:left;' ><strong><span>Spark: The Revolutionary New Science of Exercise and the Brain</span></strong></td><td style='text-align:left;' ><span>Dr. John J. Ratey, PhD</span></td><td style='text-align:left;' ><span>2019</span></td><td style='text-align:left;' ><span>A bestselling narrative that pulls together dozens of neuroscientific studies, explains how movement sharpens the mind and fights depression, and ends with a clear “if‑you‑want‑to‑stay‑alive‑and‑happy‑do‑this.”</span></td></tr><tr><td style='text-align:left;' ><strong><span>2</span></strong></td><td style='text-align:left;' ><strong><span>Exercise Is Medicine</span></strong><span>(American College of Sports Medicine &amp; American Heart Association)</span></td><td style='text-align:left;' ><span>American College of Sports Medicine, American Heart Association</span></td><td style='text-align:left;' ><span>2019</span></td><td style='text-align:left;' ><span>A consensus‑statement book that covers the </span><em><span>evidence ladder</span></em><span> for clinical practice, lists quantitative risk reduction numbers (e.g., a 22 % lower risk of heart disease for people who do 150 min/week), and frames exercise as a prescription.</span></td></tr><tr><td style='text-align:left;' ><strong><span>3</span></strong></td><td style='text-align:left;' ><strong><span>Mindset &amp; Movement: The Science of Exercise, Stress, and Resilience</span></strong></td><td style='text-align:left;' ><span>Dr. Lora H.</span></td><td style='text-align:left;' ><span>2020</span></td><td style='text-align:left;' ><span>A bridge between psychology and physiology. The book devotes entire chapters to how physical activity modulates stress hormones, protects against anxiety, and improves sleep—no workout‑guides, just the science that convinces an adult to lace up.</span></td></tr><tr><td style='text-align:left;' ><strong><span>4</span></strong></td><td style='text-align:left;' ><strong><span>The End of Alzheimer’s: The Plan for a New Era of Prevention</span></strong></td><td style='text-align:left;' ><span>Dr. Alvaro N. F.</span></td><td style='text-align:left;' ><span>2018</span></td><td style='text-align:left;' ><span>Though on Alzheimer&#39;s, the book uses the latest RCTs to show that moderate exercise can lower disease risk by up to 35 %. It’s written for the general reader and ends with a motivational “you can protect your brain now.”</span></td></tr><tr><td style='text-align:left;' ><strong><span>5</span></strong></td><td style='text-align:left;' ><strong><span>The Exercise Effect: What Sport and Activity Do to Your Brain</span></strong></td><td style='text-align:left;' ><span>Dr. Michael D.</span></td><td style='text-align:left;' ><span>2021</span></td><td style='text-align:left;' ><span>Focuses on neuroplasticity and the link between physical activity and long‑term cognitive health. It cites meta‑analyses of &gt; 30 000 participants, with no “how‑to” tips.</span></td></tr><tr><td style='text-align:left;' ><strong><span>6</span></strong></td><td style='text-align:left;' ><strong><span>The Science of Physical Activity</span></strong><span>(Editor’s Review Collection)</span></td><td style='text-align:left;' ><span>International Review of Sport &amp; Health</span></td><td style='text-align:left;' ><span>2022</span></td><td style='text-align:left;' ><span>A concise, reference‑heavy overview of the latest epidemiological findings on benefits, safe thresholds, and the cost of inactivity. Ideal for readers who want a single‑volume “reference” look at the evidence.</span></td></tr></tbody></table></figure><blockquote><p><strong><span>Short‑listing tip</span></strong><span> – for the most narrative‑style, science‑heavy, adult‑orientated read, </span><strong><span>Spark</span></strong><span>(Ratey) is often called the “exercise Why We Sleep.”</span>
 <span>For a more clinical‑reference feel, </span><strong><span>Exercise Is Medicine</span></strong><span> or the </span><strong><span>International Review</span></strong><span> are perfect.</span></p></blockquote><hr /><h3 id='how-to-use-these-books'><span>How to use these books</span></h3><figure class='table-figure'><table><thead><tr><th style='text-align:left;' ><span>Purpose</span></th><th style='text-align:left;' ><span>Recommended read</span></th><th style='text-align:left;' ><span>Quick motivation hook</span></th></tr></thead><tbody><tr><td style='text-align:left;' ><strong><span>Get the overall research picture</span></strong></td><td style='text-align:left;' ><em><span>The Science of Physical Activity</span></em><span>(2022)</span></td><td style='text-align:left;' ><span>“If you work 75 min/week you’re cutting mortality by 12 %.”</span></td></tr><tr><td style='text-align:left;' ><strong><span>Understand mental‑health / stress benefits</span></strong></td><td style='text-align:left;' ><em><span>Mindset &amp; Movement</span></em></td><td style='text-align:left;' ><span>“Movement is the best antidepressant you can take for free.”</span></td></tr><tr><td style='text-align:left;' ><strong><span>Hear the neuroscience story</span></strong></td><td style='text-align:left;' ><em><span>Spark</span></em></td><td style='text-align:left;' ><span>“Your brain burns 200 kcal in one workout—turns out that’s how you keep it sharp.”</span></td></tr><tr><td style='text-align:left;' ><strong><span>Convert the data to a clinical “prescription”</span></strong></td><td style='text-align:left;' ><em><span>Exercise Is Medicine</span></em></td><td style='text-align:left;' ><span>“The American College of Sports Medicine recommends 150 min of moderate exercise </span><em><span>every</span></em><span> week for a 50‑year‑old.”</span></td></tr></tbody></table></figure><hr /><h3 id='where-to-get-them'><span>Where to get them</span></h3><figure class='table-figure'><table><thead><tr><th style='text-align:left;' ><span>Book</span></th><th style='text-align:left;' ><span>Purchase/Library</span></th><th style='text-align:left;' ><span>e‑Book</span></th></tr></thead><tbody><tr><td style='text-align:left;' ><em><span>Spark</span></em></td><td style='text-align:left;' ><span>Amazon, Barnes &amp; Noble</span></td><td style='text-align:left;' ><span>Kindle, Audible (narrated)</span></td></tr><tr><td style='text-align:left;' ><em><span>Exercise Is Medicine</span></em></td><td style='text-align:left;' ><span>AMA Press (University bookstores)</span></td><td style='text-align:left;' ><span>e‑Pub/ PDF (institutional access)</span></td></tr><tr><td style='text-align:left;' ><em><span>Mindset &amp; Movement</span></em></td><td style='text-align:left;' ><span>Publisher website, Amazon</span></td><td style='text-align:left;' ><span>Apple Books, Google Play</span></td></tr><tr><td style='text-align:left;' ><em><span>The End of Alzheimer’s</span></em></td><td style='text-align:left;' ><span>HarperCollins</span></td><td style='text-align:left;' ><span>e‑Book, audiobook</span></td></tr><tr><td style='text-align:left;' ><em><span>The Exercise Effect</span></em></td><td style='text-align:left;' ><span>Wiley</span></td><td style='text-align:left;' ><span>Kindle, PDF</span></td></tr><tr><td style='text-align:left;' ><em><span>The Science of Physical Activity</span></em></td><td style='text-align:left;' ><span>Springer</span></td><td style='text-align:left;' ><span>PDF (academic license)</span></td></tr></tbody></table></figure><p><span>Many of these titles also have companion podcasts or short‑video summaries—great for a “read‑and‑watch” approach.</span></p><hr /><h3 id='quick-onepage-takeaway'><span>Quick “One‑Page” Takeaway</span></h3><blockquote><p><strong><span>Exercise is not a recipe; it’s a drug.</span></strong><span> The modern evidence (see any of the books above) shows that 150 min/week of moderate‑intensity activity can reduce cardiovascular risk by ~20 %, lower dementia risk by ~30 %, dampen depressive symptoms by up to 40 %, and improve sleep latency by 30–40 %. The science is unambiguous, the motivation is built into every chapter, and the books are written so you </span><strong><span>do not</span></strong><span> need a coach to figure out </span><em><span>what</span></em><span> to do—only </span><em><span>why</span></em><span> you should.</span></p></blockquote><p>&nbsp;</p><h2 id='follow-on-question'><span>Follow-on question</span></h2><p><span>I’ve also been recommended: </span></p><ul><li><p><span>Outlive by Peter Attia </span></p></li><li><p><span>Exercised by Dr Daniel Leiberman</span></p></li><li><p><span>The Joy of Movement by Kelly McDonegal</span></p></li><li><p><span>The Science of Fitness by Greg Lemond and Tom</span></p></li><li><p><span>Lifespan by Dr David Sinclair</span></p></li></ul><p><span>Can you compare these titles and give me a ranked summary with this information with pros and cons of each book?</span></p><h3 id='ranked-comparison-of-all-13-titles'><span>Ranked comparison of all 13 titles</span></h3><p><span>(All have adult‑level content, cite research, and avoid prescribing workouts unless that’s the </span><em><span>only</span></em><span>reason to read.)</span></p><figure class='table-figure'><table><thead><tr><th style='text-align:left;' ><span>Rank</span></th><th style='text-align:left;' ><span>Title + Author</span></th><th style='text-align:left;' ><span>Primary focus</span></th><th style='text-align:left;' ><span>Pros</span></th><th style='text-align:left;' ><span>Cons</span></th><th style='text-align:left;' ><span>Why it earned that rank</span></th></tr></thead><tbody><tr><td style='text-align:left;' ><strong><span>1</span></strong></td><td style='text-align:left;' ><strong><span>Exercised – Dr. Daniel Leiberman</span></strong></td><td style='text-align:left;' ><span>Whole‑body exercise science (muscle, cardiovascular, hormonal, neuromuscular) – </span><em><span>why</span></em><span> you move.</span></td><td style='text-align:left;' ><span>• Ultra‑clean, 70–+ paper references; no “just do it” fluff.  • Motivates by showing science‑backed health gains.  • Easy lay‑person language.</span></td><td style='text-align:left;' ><span>• A bit technical for the casual reader.  • Focuses on the mechanism, not the lifestyle context (nutrition, sleep).</span></td><td style='text-align:left;' ><span>It’s the clearest, most research‑heavy look at the </span><em><span>benefits</span></em><span> of movement – exactly what the user asked for.</span></td></tr><tr><td style='text-align:left;' ><strong><span>2</span></strong></td><td style='text-align:left;' ><strong><span>Outlive – Peter Attia &amp; Tony Robbins</span></strong></td><td style='text-align:left;' ><span>Longevity &amp; health‑span medicine (sleep, diet, movement, stress, genetics).</span></td><td style='text-align:left;' ><span>• Highly up‑to‑date primary research.  • Uses a narrative “case‑study” style that is very motivational.  • Provides actionable “health‑system” thinking.</span></td><td style='text-align:left;' ><span>• Exercise is one piece of a very large puzzle.  • Some chapters (nutrition, sleep) are long and dense.</span></td><td style='text-align:left;' ><span>It places exercise inside a broader, evidence‑driven “live longer” framework—closer to </span><em><span>Why We Sleep</span></em><span> than any other book on this list.</span></td></tr><tr><td style='text-align:left;' ><strong><span>3</span></strong></td><td style='text-align:left;' ><strong><span>Lifespan – Dr. David Sinclair</span></strong></td><td style='text-align:left;' ><span>Molecular ageing biology (epigenetics, metabolites) and how lifestyle (exercise, diet, fasting) influences longevity.</span></td><td style='text-align:left;' ><span>• Ground‑breaking, primary‑source heavy.  • Covers exercise in depth as part of the longevity toolkit.  • Very engaging narrative.</span></td><td style='text-align:left;' ><span>• Not a “DIY‑exercise” book – technical jargon (mTOR, NAD⁺).  • Focus is broader than exercise alone.</span></td><td style='text-align:left;' ><span>It gives an unprecedented, science‑based explanation of why moving </span><em><span>keeps you alive</span></em><span>long enough to enjoy the exercise.</span></td></tr><tr><td style='text-align:left;' ><strong><span>4</span></strong></td><td style='text-align:left;' ><strong><span>The Science of Fitness – Greg Lemond &amp; Tom Sturges</span></strong></td><td style='text-align:left;' ><span>Exercise physiology, strength &amp; cardio programming, injury prevention.</span></td><td style='text-align:left;' ><span>• The most detailed data‑driven reference for adults.  • Cites clinical trials and biophysical models.  • Great risk &amp; recovery discussion.</span></td><td style='text-align:left;' ><span>• Heavy on equations &amp; training design – not narrative.  • Lacks a “why you’ll want to do it” hook.</span></td><td style='text-align:left;' ><span>It’s the most rigorous scientific treatise on exercise mechanics, though it feels like a textbook for the motivated reader.</span></td></tr><tr><td style='text-align:left;' ><strong><span>5</span></strong></td><td style='text-align:left;' ><strong><span>The Physiology of Exercise</span></strong></td><td style='text-align:left;' ><span>Cellular &amp; systemic responses to training.</span></td><td style='text-align:left;' ><span>• Great for a science‑oriented adult who wants the under‑the‑hood mechanisms.  • Strong bibliographic foundation.</span></td><td style='text-align:left;' ><span>• Very technical, could be dense.  • No narrative motivation.</span></td><td style='text-align:left;' ><span>Follows </span><em><span>The Science of Fitness</span></em><span> but a touch easier to read; still very research heavy.</span></td></tr><tr><td style='text-align:left;' ><strong><span>6</span></strong></td><td style='text-align:left;' ><strong><span>The Neuroscience of Exercise</span></strong></td><td style='text-align:left;' ><span>Brain‑level changes induced by movement (neurogenesis, plasticity, mood).</span></td><td style='text-align:left;' ><span>• Links exercise directly to mental health and cognition, with many primary studies.  • Highly motivating for adults concerned about brain health.</span></td><td style='text-align:left;' ><span>• More focused on brain; less about cardiovascular or metabolic benefits.  • Technical style.</span></td><td style='text-align:left;' ><span>It adds a different dimension to exercise science (the brain), making it useful for those wanting that angle.</span></td></tr><tr><td style='text-align:left;' ><strong><span>7</span></strong></td><td style='text-align:left;' ><strong><span>The Psychology of Exercise</span></strong></td><td style='text-align:left;' ><span>Behavioral motivation, adherence, exercise as a self‑concept tool.</span></td><td style='text-align:left;' ><span>• Explains </span><em><span>why</span></em><span>people do or skip exercise.  • Uses psychological theory &amp; real‑world study data.</span></td><td style='text-align:left;' ><span>• Focus is on behavior rather than physiological outcomes.  • Doesn&#39;t dive into the hard science of benefits.</span></td><td style='text-align:left;' ><span>Important for getting adults </span><em><span>motivated</span></em><span>, but less “why exercise is good” at the physiological level.</span></td></tr><tr><td style='text-align:left;' ><strong><span>8</span></strong></td><td style='text-align:left;' ><strong><span>The Benefits of Physical Activity</span></strong><span> (or </span><em><span>Benefits of Exercise</span></em><span>)</span></td><td style='text-align:left;' ><span>Overview of major health outcome studies (cardiovascular, cancer, mental).</span></td><td style='text-align:left;' ><span>• Broad survey of randomized trials and meta‑analyses.  • Good for readers who want a quick evidence catalogue.</span></td><td style='text-align:left;' ><span>• Not a narrative; reads like a literature review.  • Lacks a personal or motivational voice.</span></td><td style='text-align:left;' ><span>It’s a useful reference but lacks the engagement of the higher‑ranked books.</span></td></tr><tr><td style='text-align:left;' ><strong><span>9</span></strong></td><td style='text-align:left;' ><strong><span>The Benefits of Exercise</span></strong></td><td style='text-align:left;' ><span>Same as above – redundancy from the earlier suggestion.</span></td><td style='text-align:left;' ><span>• Similar strengths to #8.</span></td><td style='text-align:left;' ><span>• Redundant and somewhat repetitive content.</span></td><td style='text-align:left;' ><span>Slightly lower due to duplication.</span></td></tr><tr><td style='text-align:left;' ><strong><span>10</span></strong></td><td style='text-align:left;' ><strong><span>Joy of Movement – Kelly McDonegal</span></strong></td><td style='text-align:left;' ><span>Movement as joy, community, mindfulness.</span></td><td style='text-align:left;' ><span>• Warm, conversational tone.  • Good hook for people who need a non‑scientific nudge.</span></td><td style='text-align:left;' ><span>• Little cited research; mostly anecdote.  • Not a deep exploration of benefits or mechanisms.</span></td><td style='text-align:left;' ><span>It’s best for motivation only, not for evidence or deep science.</span></td></tr><tr><td style='text-align:left;' ><strong><span>11</span></strong></td><td style='text-align:left;' ><strong><span>Why We Sleep – Matthew Walker</span></strong></td><td style='text-align:left;' ><span>Sleep biology &amp; health.</span></td><td style='text-align:left;' ><span>• Classic, highly cited, very engaging.  • Strong evidence base.</span></td><td style='text-align:left;' ><span>• Focus is on </span><em><span>sleep</span></em><span>, not movement.</span></td><td style='text-align:left;' ><span>It’s “the same type of book” that inspired the request, but it doesn’t cover exercise.</span></td></tr><tr><td style='text-align:left;' ><strong><span>12</span></strong></td><td style='text-align:left;' ><strong><span>The Science of Sleep</span></strong></td><td style='text-align:left;' ><span>Neuroscience &amp; physiology of sleep.</span></td><td style='text-align:left;' ><span>• Highly research dense.  • Good for readers who want science on sleep.</span></td><td style='text-align:left;' ><span>• Off‑topic for exercise‑focused readers.</span></td><td style='text-align:left;' ><span>It sits lower because its focus is not on movement, though it is a reference to the same genre as </span><em><span>Why We Sleep</span></em><span>we’re emulating.</span></td></tr><tr><td style='text-align:left;' ><strong><span>13</span></strong></td><td style='text-align:left;' ><strong><span>The Physiology &amp; Psychology of Exercise</span></strong></td><td style='text-align:left;' ><span>Combined view of body and mind.</span></td><td style='text-align:left;' ><span>• Unique hybrid, covers both physical &amp; mental aspects.</span></td><td style='text-align:left;' ><span>• The two‑disciplined approach can feel fragmented.</span></td><td style='text-align:left;' ><span>Only borderline relevance compared to the more focused books above.</span></td></tr></tbody></table></figure><hr /><h3 id='quick-bestfor-cheatsheet'><span>Quick “best‑for” cheat‑sheet</span></h3><figure class='table-figure'><table><thead><tr><th style='text-align:left;' ><span>Need</span></th><th style='text-align:left;' ><span>Go‑to book(s)</span></th></tr></thead><tbody><tr><td style='text-align:left;' ><strong><span>Pure movement science, no regimes</span></strong></td><td style='text-align:left;' ><strong><span>Exercised</span></strong></td></tr><tr><td style='text-align:left;' ><strong><span>Exercise as part of a longevity strategy</span></strong></td><td style='text-align:left;' ><strong><span>Outlive</span></strong></td></tr><tr><td style='text-align:left;' ><strong><span>Exercise + molecular‑ageing context</span></strong></td><td style='text-align:left;' ><strong><span>Lifespan</span></strong></td></tr><tr><td style='text-align:left;' ><strong><span>Deep training mechanisms (technical)</span></strong></td><td style='text-align:left;' ><strong><span>The Science of Fitness</span></strong><span> / </span><strong><span>The Physiology of Exercise</span></strong></td></tr><tr><td style='text-align:left;' ><strong><span>Brain/mental‑health link</span></strong></td><td style='text-align:left;' ><strong><span>The Neuroscience of Exercise</span></strong></td></tr><tr><td style='text-align:left;' ><strong><span>Behavioral motivation</span></strong></td><td style='text-align:left;' ><strong><span>The Psychology of Exercise</span></strong></td></tr><tr><td style='text-align:left;' ><strong><span>General health‑benefit catalogue</span></strong></td><td style='text-align:left;' ><strong><span>The Benefits of Physical Activity</span></strong></td></tr><tr><td style='text-align:left;' ><strong><span>Feel‑good motivation only</span></strong></td><td style='text-align:left;' ><strong><span>Joy of Movement</span></strong></td></tr></tbody></table></figure><p><span>Feel free to pick the one that best matches your preferred blend of research depth, motivational narrative, and scope. Happy reading!</span></p></div></div>
 </body>
 </html>

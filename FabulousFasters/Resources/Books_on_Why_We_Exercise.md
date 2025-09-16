@@ -1,11 +1,11 @@
 ---
-title: {:TITLE:};
-subject: {:SUBJECT:}
-author: dcblack
-contacts: {:EMAIL:}
+title: Books on Why We Exercise
+subject: Exercise
+author: David C Black
+contacts: dcblack@mac.com
 ---
-[Updated 2025-August-8 11:34 AM]
-[Version 0.1]
+[Updated 2025-September-8 07:20 AM]
+[Version 0.2]
 
 # Books on Why We Exercise
 
