@@ -6,22 +6,6 @@ author: David C Black
 email: dcblack@mac.com
 description: A compiled a list of books, videos, doctors and researchers expressing views on the impact of keto and carnivore lifestyles on metabolic health.
 url: "https://dcblack.github.io" # the base hostname & protocol for your site
-vim: # Special shortcuts
-  dqya: '0f[f"lvf"h"ay'
-  sqya: "0f[f'lvf'h'ay"
-  addCategory: [ "1G/^  addCategory:
-0f-;v0f[%by/^# Categories$
-}}}}Pok0f?" "- **(?)**TOPICS" ]
-  addVideo: [ "1G/^  addVideo:
-f|;v0f[%by/^# Videos$
-}}}Pok0f?" "| (?) | Video  | 0:MM:SS |  2  | SOURCE          | [TITLE](LINK) |" ]
-  addArticle: [ "1G/^  addArticle:
-0f-;v0f[%by/^# Articles$
-}}}Pok0f?" "- (?) [TITLE](LINK)" ]
-  addBook: [ "1G/^  addBook:
-0f-;v0f[%by/^# Books$
-}}}Pok0f?" "- (?) [TITLE](LINK)" ]
-  new: 🆕
 theme: jekyll-theme-primer
 plugins:
   - jekyll-github-metadata
@@ -34,9 +18,9 @@ tags: [ allulose, Alzheimers, apoptosis, arthritis, autism, autophagy, cancer,
   obesity, ozempic, Parkinson's, pituitary, REHIT, thyroid, vegan, weight-loss ]
 ---
 
-# Experts on Keto & Carnivore [v2.28]
+# Experts on Keto & Carnivore [v2.30]
 
-[Updated 2025-September-16 06:53 AM]
+[Updated 2025-September-16 07:08 AM]
 
 <h2>Contents</h2><a name="toc"></a>
 
@@ -721,16 +705,16 @@ A world-renowned brain expert and best-selling author, who knows the cause of Al
 
 Dr. Ford Brewer is a prominent figure in preventive medicine, known for his extensive work in preventing chronic diseases such as heart attacks, strokes, and type 2 diabetes. He is a board-certified preventive and occupational medicine physician, an internationally recognized speaker, and an educator. Dr. Brewer has dedicated his career to spreading knowledge about how to prevent common chronic and debilitating diseases and improving patient care by educating healthcare providers.
 
-#### Background and Education
+<h4>Background and Education</h4>
 Dr. Ford Brewer earned his Doctor of Medicine (MD) degree from the Medical University of South Carolina from 1978 to 1981, with a focus on Medicine. He then pursued a Master of Public Health (MPH) at the Johns Hopkins Bloomberg School of Public Health from 1982 to 1983, specializing in Public Health. In 2015 to 2017, he earned a Professional Certificate in Biomedical Genetics from Stanford Continuing Studies, concentrating on Human/Medical Genetics.
 
-#### Career and Contributions
+<h4>Career and Contributions</h4>
 
-##### Early Career and Realization
+<h5>Early Career and Realization</h5>
 
 Dr. Brewer began his career in full-time emergency medicine and as full-time faculty at Johns Hopkins. It was during this time that he realized many disabilities and diseases brought to the emergency room are preventable. This realization led him to return to Johns Hopkins, where he studied and served as the chair of the postgraduate studies on prevention.
 
-##### Leadership Roles
+<h5>Leadership Roles</h5>
 
 - **Chief Medical Officer (CMO) at The Little Clinic**: Dr. Brewer served as the CMO and oversaw a rapid expansion of its retail clinic footprint and the development and implementation of its clinical quality programs.
 - **Medical Director for Toyota North America**: He developed an on-site medical and pharmacy delivery system for employees and their dependents.
@@ -738,27 +722,27 @@ Dr. Brewer began his career in full-time emergency medicine and as full-time fac
 - **Co-Founder of PrevMed Heart Attack and Stroke Prevention Center**: This precision medicine practice focuses on eradicating heart attack, stroke, and dementia risk.
 - **Chief Medical Officer at Papa**: Dr. Brewer joined Papa as the CMO in 2020, continuing his work in preventive medicine and telemedicine.
 
-##### Research and Publications
+<h5>Research and Publications</h5>
 
 Dr. Brewer has over 25 publications in peer-reviewed medical journals. His research has focused on various aspects of preventive medicine, including the prevention of heart attacks, strokes, and type 2 diabetes. He has also conducted studies on the health of prison populations, HIV transmission, and occupational health.
 
-#### Public Engagement and Media
+<h4>Public Engagement and Media</h4>
 
 Dr. Brewer is a respected thought leader in preventive healthcare and regularly produces content on his popular YouTube channel. His videos focus on the prevention of heart attacks, strokes, dementia, and other chronic diseases. He is known for his clear and accessible explanations of complex medical concepts, making preventive medicine understandable and actionable for a wide audience.
 
-#### Patient Testimonials and Reviews
+<h4>Patient Testimonials and Reviews</h4>
 
 Dr. Brewer has received high praise from patients and colleagues alike. Patients have noted his compassionate approach and his ability to provide comprehensive care. Colleagues have described him as passionate and dedicated to helping people, with a genuine concern for their well-being.
 
-#### Current Projects and Initiatives
+<h4>Current Projects and Initiatives</h4>
 
 Dr. Brewer continues to be active in various initiatives aimed at improving public health. He is the founder of PrevMed Health and PrevMed Network, which focus on preventive medicine, telemedicine, and Medicare Advantage. He also serves as a consultant for several organizations, including K Health and imaware™.
 
-#### Summary
+<h4>Summary</h4>
 
 Dr. Ford Brewer is a highly respected and influential figure in the field of preventive medicine. His extensive education, diverse leadership roles, and commitment to public health have made him a leading voice in the prevention of chronic diseases. Through his research, public engagement, and clinical practice, Dr. Brewer continues to make significant contributions to the field of preventive medicine.
 
-#### Key Information Summary
+<h4>Key Information Summary</h4>
 
 | **Category**          | **Details**                                                  |
 | --------------------- | ------------------------------------------------------------ |
