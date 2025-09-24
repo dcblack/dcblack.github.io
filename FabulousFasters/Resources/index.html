@@ -1,13 +1,10 @@
 <!doctype html>
 <html>
 <head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<meta charset="UTF-8" content="">
-<meta name="author" content="David C Black">
-<meta name="description" content="">
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'><style type='text/css'>html {overflow-x: initial !important;}</style>
+<style type='text/css'  id="style-base">:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
-html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", "SF Pro", sans-serif; -webkit-font-smoothing: antialiased; }
 h1, h2, h3, h4, h5 { white-space: pre-wrap; }
 body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.428571; overflow-x: hidden; background: inherit; }
 iframe { margin: auto; }
@@ -16,7 +13,7 @@ a:active, a:hover { outline: 0px; }
 .in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
 #write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
 #write.first-line-indent p { text-indent: 2em; }
-#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li p, #write.first-line-indent p *, #write.first-line-indent svg * { text-indent: 0px; }
 #write.first-line-indent li { margin-left: 2em; }
 .for-image #write { padding-left: 8px; padding-right: 8px; }
 body.typora-export { padding-left: 30px; padding-right: 30px; }
@@ -33,10 +30,12 @@ button, input, select, textarea { color: inherit; font-style: inherit; font-vari
 input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
 #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; position: relative; }
-#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; }
+#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; white-space: nowrap; overflow: visible; }
+foreignObject { overflow: visible; }
 p { line-height: inherit; }
 h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
 p { orphans: 4; }
+li p { orphans: 1; }
 h1 { font-size: 2rem; }
 h2 { font-size: 1.8rem; }
 h3 { font-size: 1.6rem; }
@@ -221,440 +220,485 @@ mjx-container { break-inside: avoid; }
 .md-alert-text svg { fill: currentcolor; position: relative; top: 0.125em; margin-right: 1ch; overflow: visible; }
 .md-alert-text-container::after { content: attr(data-text); text-transform: capitalize; pointer-events: none; margin-right: 1ch; }
 
+</style>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&amp;subset=latin-ext' type='text/css' />
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:900,300&amp;subset=latin-ext' type='text/css' />
+<style type='text/css'  id="style-theme_css">@include-when-export url(https://fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&subset=latin-ext);
+@include-when-export url(https://fonts.googleapis.com/css?family=Lato:900,300&subset=latin-ext);
 
 :root {
-    --side-bar-bg-color: #fafafa;
-    --control-text-color: #777;
+	--control-text-color: #777;
 }
 
-@include-when-export url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+/**
+ * forked from pixyll.com
+ * MIT license
+ */
 
-/* open-sans-regular - latin-ext_latin */
-  /* open-sans-italic - latin-ext_latin */
-    /* open-sans-700 - latin-ext_latin */
-    /* open-sans-700italic - latin-ext_latin */
-  html {
-    font-size: 12px;
-    -webkit-font-smoothing: antialiased;
+h1,
+.h1,
+.f1 {
+	font-size: 2rem;
+	line-height: 2.5rem;
 }
+h2,
+.h2,
+.f2 {
+	font-size: 1.5rem;
+	line-height: 2rem;
+}
+h3,
+.h3,
+.f3 {
+	font-size: 1.25rem;
+	line-height: 1.5rem;
+}
+p,
+.p,
+.f4,
+h4,
+h5,
+h6,
+dl,
+ol,
+ul,
+pre[cid],
+div[cid],
+#typora-source {
+	font-size: 1.125rem;
+	line-height: 1.5rem;
+}
+
+h4 {
+	font-size: 1.13rem;
+}
+/*
+ Pixyll
+ A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
+ Best served with BASSCSS (http://jxnblk.github.io/basscss)
+ Crafted with <3 by John Otander (@4lpine) - ©2015 John Otander MIT License http://opensource.org/licenses/MIT
+
+*/
 
 body {
-    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
-    color: rgb(51, 51, 51);
-    line-height: 1.2;
+	font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", "STSong", 'Segoe UI Emoji','SF Pro', Serif;
+	line-height: 1.5rem;
+	font-weight: 400;
 }
 
 #write {
-    max-width: 860px;
-  	margin: 0 auto;
-  	padding: 30px;
-    padding-bottom: 100px;
+	max-width: 914px;
+	color: #333;
 }
 
 @media only screen and (min-width: 1400px) {
 	#write {
-		max-width: 1024px;
+		max-width: 1100px;
 	}
 }
 
-@media only screen and (min-width: 1800px) {
+@media only screen and (min-width: 1700px) {
 	#write {
 		max-width: 1200px;
 	}
 }
 
-#write > ul:first-child,
-#write > ol:first-child{
-    margin-top: 30px;
+img {
+	width: auto;
+	max-width: 100%;
+}
+body {
+	font-size: 1.5rem;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
 }
 
-a {
-    color: #4183C4;
+.ty-table-edit {
+	background: #ededed;
+}
+
+table {
+	width: 100%;
+	font-size: 1.125rem;
+}
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td,
+table > tfoot > tr > th,
+table > tfoot > tr > td {
+	padding: 12px;
+	line-height: 1.2;
+	vertical-align: top;
+	border-top: 1px solid #333;
+}
+table > thead > tr > th {
+	vertical-align: bottom;
+	border-bottom: 2px solid #333;
+}
+table > caption + thead > tr:first-child > th,
+table > caption + thead > tr:first-child > td,
+table > colgroup + thead > tr:first-child > th,
+table > colgroup + thead > tr:first-child > td,
+table > thead:first-child > tr:first-child > th,
+table > thead:first-child > tr:first-child > td {
+	border-top: 0;
+}
+table > tbody + tbody {
+	border-top: 2px solid #333;
+}
+p {
+	font-weight: 300;
+	line-height: 1.5;
+}
+abbr {
+	border-bottom: 1px black dotted;
+	cursor: help;
+}
+pre,
+code {
+	font-family: Menlo, Monaco, "Courier New", monospace;
+}
+
+code,
+.md-fences  {
+	color: #7a7a7a;
+}
+
+.md-fences {
+	padding: 1.125em;
+	margin-bottom: 0.88em;
+	font-size: 1rem;
+	border: 1px solid #7a7a7a;
+	padding-bottom: 0.5rem;
+	padding-top: 0.5rem;
+}
+
+blockquote {
+	padding: 1.33em;
+	font-style: italic;
+	border-left: 5px solid #7a7a7a;
+	color: #555;
+}
+blockquote em {
+	color: #000;
+}
+blockquote footer {
+	font-size: .85rem;
+	font-style: normal;
+	background-color: #fff;
+	color: #7a7a7a;
+	border-color: transparent;
 }
 h1,
+.h1,
 h2,
+.h2,
 h3,
+.h3,
 h4,
+.h4,
 h5,
-h6 {
-    position: relative;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-weight: bold;
-    line-height: 1.4;
-    cursor: text;
+.h5,
+h6,
+.h6 {
+	font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+	font-weight: bold;
+	line-height: 1.2;
+	margin: 1em 0 0.5em;
 }
-h1:hover a.anchor,
-h2:hover a.anchor,
-h3:hover a.anchor,
-h4:hover a.anchor,
-h5:hover a.anchor,
-h6:hover a.anchor {
-    text-decoration: none;
+@media screen and (min-width: 48em) {
+	.h1,
+	h1 {
+		font-size: 3.250rem;
+	}
+	.h2,
+	h2 {
+		font-size: 2.298rem;
+	}
+	.h3,
+	h3 {
+		font-size: 1.625rem;
+	}
+	.h4,
+	h4 {
+		font-size: 1.3rem;
+	}
+	#write>h4.md-focus:before,
+	#write>h5.md-focus:before,
+	#write>h6.md-focus:before{
+		top: 1px;
+	}
+	.p,
+	p,
+	li {
+		font-size: 1.25rem;
+		line-height: 1.8;
+	}
+	table {
+		font-size: 1.25rem;
+	}
 }
-h1 tt,
-h1 code {
-    font-size: inherit;
+@media (max-width: 48em) {
+	blockquote {
+		margin-left: 1rem;
+		margin-right: 0;
+		padding: 0.5em;
+	}
+	.h1,
+	h1 {
+		font-size: 2.827rem;
+	}
+	.h2,
+	h2 {
+		font-size: 1.999rem;
+	}
+	.h3,
+	h3 {
+		font-size: 1.413rem;
+	}
+	.h4,
+	h4 {
+		font-size: 1.3rem;
+	}
 }
-h2 tt,
-h2 code {
-    font-size: inherit;
+@media screen and (min-width: 64em) {
+	.h1,
+	h1 {
+		font-size: 4.498rem;
+	}
+	.h2,
+	h2 {
+		font-size: 2.29rem;
+	}
+	.h3,
+	h3 {
+		font-size: 1.9rem;
+	}
+	.h4,
+	h4 {
+		font-size: 1.591rem;
+	}
+	#write>h4.md-focus:before{
+		top:4px;
+	}
 }
-h3 tt,
-h3 code {
-    font-size: inherit;
-}
-h4 tt,
-h4 code {
-    font-size: inherit;
-}
-h5 tt,
-h5 code {
-    font-size: inherit;
-}
-h6 tt,
-h6 code {
-    font-size: inherit;
-}
-h1 {
-    font-size: 2.25em;
-    line-height: 1.2;
-    border-bottom: 1px solid #eee;
-}
-h2 {
-    font-size: 1.75em;
-    line-height: 1.225;
-    border-bottom: 1px solid #eee;
-}
-
-/*@media print {
-    .typora-export h1,
-    .typora-export h2 {
-        border-bottom: none;
-        padding-bottom: initial;
-    }
-
-    .typora-export h1::after,
-    .typora-export h2::after {
-        content: "";
-        display: block;
-        height: 100px;
-        margin-top: -96px;
-        border-top: 1px solid #eee;
-    }
-}*/
-
-h3 {
-    font-size: 1.5em;
-    line-height: 1.43;
-}
-h4 {
-    font-size: 1.25em;
-}
-h5 {
-    font-size: 1em;
-}
-h6 {
-   font-size: 1em;
-    color: #777;
-}
-p,
-blockquote,
-ul,
-ol,
-dl,
-table{
-    margin: 0.8em 0;
-}
-li>ol,
-li>ul {
-    margin: 0 0;
-}
-hr {
-    height: 2px;
-    padding: 0;
-    margin: 16px 0;
-    background-color: #e7e7e7;
-    border: 0 none;
-    overflow: hidden;
-    box-sizing: content-box;
+a {
+	color: #463F5C;
+	text-decoration: underline;
 }
 
-li p.first {
-    display: inline-block;
-}
-ul,
-ol {
-    padding-left: 30px;
-}
-ul:first-child,
-ol:first-child {
-    margin-top: 0;
-}
-ul:last-child,
-ol:last-child {
-    margin-bottom: 0;
-}
-blockquote {
-    border-left: 4px solid #dfe2e5;
-    padding: 0 15px;
-    color: #777777;
-}
-blockquote blockquote {
-    padding-right: 0;
-}
-table {
-    padding: 0;
-    word-break: initial;
-}
-table tr {
-    border: 1px solid #dfe2e5;
-    margin: 0;
-    padding: 0;
-}
-table tr:nth-child(2n),
-thead {
-    background-color: #f8f8f8;
-}
-table th {
-    font-weight: bold;
-    border: 1px solid #dfe2e5;
-    border-bottom: 0;
-    margin: 0;
-    padding: 6px 13px;
-}
-table td {
-    border: 1px solid #dfe2e5;
-    margin: 0;
-    padding: 6px 13px;
-}
-table th:first-child,
-table td:first-child {
-    margin-top: 0;
-}
-table th:last-child,
-table td:last-child {
-    margin-bottom: 0;
+#write {
+	padding-top: 2rem;
 }
 
-.CodeMirror-lines {
-    padding-left: 4px;
-}
-
-.code-tooltip {
-    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
-    border-top: 1px solid #eef2f2;
-}
-
-.md-fences,
-code,
-tt {
-    border: 1px solid #e7eaed;
-    background-color: #f8f8f8;
-    border-radius: 3px;
-    padding: 0;
-    padding: 2px 4px 0px 4px;
-    font-size: 0.9em;
-}
-
-code {
-    background-color: #f3f4f4;
-    padding: 0 2px 0 2px;
-}
-
-.md-fences {
-    margin-bottom: 15px;
-    margin-top: 15px;
-    padding-top: 8px;
-    padding-bottom: 6px;
-}
-
-
-.md-task-list-item > input {
-  margin-left: -1.3em;
-}
-
-@media print {
-    html {
-        font-size: 13px;
-    }
-    pre {
-        page-break-inside: avoid;
-        word-wrap: break-word;
-    }
-}
-
-.md-fences {
-	background-color: #f8f8f8;
-}
 #write pre.md-meta-block {
-	padding: 1rem;
-    font-size: 85%;
-    line-height: 1.45;
-    background-color: #f7f7f7;
-    border: 0;
-    border-radius: 3px;
-    color: #777777;
-    margin-top: 0 !important;
-}
+	min-height: 35px;
+	padding: 0.5em 1em;
+	white-space: pre;
+	border: 0px;
 
-.mathjax-block>.code-tooltip {
-	bottom: .375rem;
-}
+	border-left: 30px #f8f8f8 solid;
+	border-right: 30px #f8f8f8 solid;
+	width: 100vw;
+	max-width: calc(100% + 60px);
 
-.md-mathjax-midline {
-    background: #fafafa;
-}
-
-#write>h3.md-focus:before{
-	left: -1.5625rem;
-	top: .375rem;
-}
-#write>h4.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-#write>h5.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
-}
-#write>h6.md-focus:before{
-	left: -1.5625rem;
-	top: .285714286rem;
+	margin-left: -30px;
+	margin-bottom: 2em;
+	margin-top: -2010px;
+	padding-top: 2000px;
+	padding-bottom: 10px;
+	line-height: 1.5em;
+	color: #7a7a7a;
+	background-color: #fafafa;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+	font-weight: 300;
+	clear: both;
+	padding-left: 0;
+	font-size:1.125rem;
 }
 .md-image>.md-meta {
-    /*border: 1px solid #ddd;*/
-    border-radius: 3px;
-    padding: 2px 0px 0px 4px;
-    font-size: 0.9em;
-    color: inherit;
+	color: #463F5C
+}
+.footnotes {
+	font-size:1.1rem;
+}
+.md-tag {
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.code-tooltip {
+	background: white;
+}
+.code-tooltip-content {
+	font-size: 1.1rem;
+}
+
+.task-list{
+	padding-left: 0;
+}
+
+.md-task-list-item {
+	padding-left:34px;
+}
+
+.md-task-list-item > input{
+	width: 1.25rem;
+	height: 1.25rem;
+	display: block;
+	-webkit-appearance: initial;
+	top: -0.2rem;
+	margin-left: -1.6em;
+	margin-top: calc(1rem - 7px);
+	border: none;
+}
+
+.md-task-list-item > input:focus{
+	outline: none;
+	box-shadow: none;
+}
+
+.md-task-list-item > input:before{
+	border: 1px solid #555;
+	border-radius: 1.5rem;
+	width: 1.5rem;
+	height: 1.5rem;
+	background: #fff;
+	content: ' ';
+	transition: background-color 200ms ease-in-out;
+	display: block;
+}
+
+.md-task-list-item > input:checked:before,
+.md-task-list-item > input[checked]:before{
+	background: #333;
+	border-width: 2px;
+	display:inline-block;
+	transition: background-color 200ms ease-in-out;
+}
+
+.md-task-list-item > input:checked:after,
+.md-task-list-item > input[checked]:after {
+	opacity: 1;
+}
+
+.md-task-list-item > input:after {
+	opacity: 1;
+	-webkit-transition: opacity 0.05s ease-in-out;
+	-moz-transition: opacity 0.05s ease-in-out;
+	transition: opacity 0.05s ease-in-out;
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+	position: absolute;
+	top: 0.4375rem;
+	left: 0.28125rem;
+	width: 0.9375rem;
+	height: 0.5rem;
+	border: 3px solid #fff;
+	border-top: 0;
+	border-right: 0;
+	content: ' ';
+	opacity: 0;
 }
 
 .md-tag {
-    color: #a7a7a7;
-    opacity: 1;
+	color:inherit;
 }
 
-.md-toc { 
-    margin-top:20px;
-    padding-bottom:20px;
+.md-toc:focus .md-toc-content{
+	margin-top: 19px;
 }
 
-.sidebar-tabs {
-    border-bottom: none;
+#typora-sidebar {
+	font-size:1rem !important;
 }
 
-#typora-quick-open {
-    border: 1px solid #ddd;
-    background-color: #f8f8f8;
+.html-for-mac #typora-sidebar {
+	background-color:white;
 }
 
-#typora-quick-open-item {
-    background-color: #FAFAFA;
-    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
-    border-style: solid;
-    border-width: 1px;
+.outline-content li, .outline-content ul {
+	font-size:1rem !important;
 }
 
-/** focus mode */
-.on-focus-mode blockquote {
-    border-left-color: rgba(85, 85, 85, 0.12);
+.outline-title {
+	line-height: inherit;
+	margin-top: 10px;
 }
 
-header, .context-menu, .megamenu-content, footer{
-    font-family: "Segoe UI", "Arial", sans-serif;
+.outline-expander {
+	width: 18px;
 }
 
-.file-node-content:hover .file-node-icon,
-.file-node-content:hover .file-node-open-state{
-    visibility: visible;
+.outline-expander:before {
+ 	content: "+";
+	font-family: inherit;
+	color: rgb(108, 108, 108); 
+  font-size: 1.5rem;
+ 	top: -0.1rem;
 }
 
-.mac-seamless-mode #typora-sidebar {
-    background-color: #fafafa;
-    background-color: var(--side-bar-bg-color);
+.outline-expander:hover:before {
+	content: "+";
 }
 
-.mac-os #write{
-    caret-color: AccentColor;
+.outline-item-open>.outline-item>.outline-expander:before{
+	content: "-";
 }
 
-.md-lang {
-    color: #b4654d;
+/** source code mode */
+#typora-source {
+	font-family: Courier, monospace;
+    color: #6A6A6A;
 }
 
-/*.html-for-mac {
-    --item-hover-bg-color: #E6F0FE;
-}*/
+.os-windows #typora-source {
+	font-family: inherit;
+}
 
-#md-notification .btn {
-    border: 0;
+.cm-s-typora-default .cm-header, 
+.cm-s-typora-default .cm-property,
+.CodeMirror.cm-s-typora-default div.CodeMirror-cursor {
+	color: #428bca;
+}
+
+.cm-s-typora-default .cm-atom, .cm-s-typora-default .cm-number {
+	color: #777777;
+}
+
+.md-diagram-panel {
+	margin-top: 24px;
+	margin-left: -1.2em;
+}
+
+.md-mathjax-midline {
+	background: #fafafa;
+}
+
+.enable-diagrams pre.md-fences[lang="sequence"] .code-tooltip,
+.enable-diagrams pre.md-fences[lang="flow"] .code-tooltip,
+.enable-diagrams pre.md-fences[lang="mermaid"] .code-tooltip {
+    bottom: -3.4em;
 }
 
 .dropdown-menu .divider {
-    border-color: #e5e5e5;
-    opacity: 0.4;
+	border-color: #e5e5e5;
 }
 
-.ty-preferences .window-content {
-    background-color: #fafafa;
+li {
+	margin: 0.5rem 0;
 }
 
-.ty-preferences .nav-group-item.active {
-    color: white;
-    background: #999;
-}
-
-.menu-item-container a.menu-style-btn {
-    background-color: #f5f8fa;
-    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
-}
-
-
-/* David's customizations
- */
-
-body {
-  font-size: large;
-  /*
-  background-image: url(file:///Users/dcblack/Library/Application%20Support/abnerworks.Typora/themes/github.user/doulos.png);
-  background-size: 150px;
-  */
-  /* width: 300px;
-  */
-}
-
-table {
-  width: 100%;
-  border: 2px solid black;
-}
-
-.auto table { width: auto; }
-.table2 tr { width: 50%; }
-.table3 tr { width: 33%; }
-.table4 tr { width: 25%; }
-.table5 tr { width: 20%; }
-.table6 tr { width: 17%; }
-
-
-th {
-  background: Cyan;
-}
-
-h1 {
-  border-top: 1px solid black;
-  color: DarkOrange;
-}
-
-h2 {
-  color: DodgerBlue;
-}
-h3 {
-  color: LimeGreen;
-}
-
- @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
-</style><title>index</title>
+li > *:last-child {
+	margin-bottom: 0;
+}</style>
+<style type='text/css'  id="style-lp">ol, ul {padding-left: 40px}</style>
+<style type='text/css'  id="style-mac-print"> @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}</style>
+<meta charset="UTF-8" content="">
+<meta name="author" content="David C Black">
+<meta name="description" content="">
+<title>index</title>
 </head>
 <body class='typora-export'><div class='typora-export-content'>
 <div id='write'  class=''><style>
@@ -667,6 +711,6 @@ h3 {
 <span>      color: #f1f1f1;</span>
 <span>    }</span>
 <span>  }</span>
-</style></p><h1 id='fabulous-fasters-resources-pdf'><a href='https://dcblack.github.io/FabulousFasters/index.html'><span>Fabulous Fasters</span></a><span> Resources </span><a href='https://dcblack.github.io/FabulousFasters/Resources.pdf'><span>pdf</span></a></h1><iframe src="../updated.md" width="30%" height="40px"></iframe><ol start='' ><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Books_on_Why_We_Exercise.html'><span>Books on Why We Exercise</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Books_on_Why_We_Exercise.pdf'><span>[pdf]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Caffeine.html'><span>Caffeine</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Caffeine.pdf'><span>[pdf]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.html'><span>Determining your circadian rhythm</span></a><span> [</span><a href='https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.pdf'><span>pdf</span></a><span>]</span></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.html'><span>Experts Supporting Keto n Carnivore</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.pdf'><span>[pdf]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Holiday_treats.zip'><span>Holiday Treat Recipes [zip]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/How_to_make_LMNT_drink_electrolyte_mix_at_home.html'><span>How to make LMNT drink electrolyte mix at home</span></a><span> [</span><a href='https://dcblack.github.io/FabulousFasters/Resources/How_to_make_LMNT_drink_electrolyte_mix_at_home.pdf'><span>pdf</span></a><span>]</span></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/LMNT.xlsx'><span>LMNT formula [Excel]</span></a><span> [</span><a href='https://dcblack.github.io/FabulousFasters/Resources/LMNT.pdf'><span>pdf</span></a><span>]</span></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Long_Term_Tattoo_Health.html'><span>Long Term Tattoo Health</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Long_Term_Tattoo_Health.pdf'><span>[pdf]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Magnesium.html'><span>Magnesium information</span></a><span> [</span><a href='https://dcblack.github.io/FabulousFasters/Resources/Magnesium.pdf'><span>pdf</span></a><span>]</span></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Sleep_Books_for_Children.html'><span>Sleep Books for Children</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Sleep_Books_for_Children.pdf'><span>[pdf]</span></a></p></li></ol><p><span>Contribute by sending an email to me with information on health you would like to post here. As needed we may discuss in the group.</span></p><p>&nbsp;</p></div></div>
+</style></p><h1 id='fabulous-fasters-resources-pdf'><a href='https://dcblack.github.io/FabulousFasters/index.html'><span>Fabulous Fasters</span></a><span> Resources </span><a href='https://dcblack.github.io/FabulousFasters/Resources.pdf'><span>pdf</span></a></h1><iframe src="../updated.md" width="30%" height="40px"></iframe><ol start='' ><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Books_on_Why_We_Exercise.html'><span>Books on Why We Exercise</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Books_on_Why_We_Exercise.pdf'><span>[pdf]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Caffeine.html'><span>Caffeine</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Caffeine.pdf'><span>[pdf]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.html'><span>Determining your circadian rhythm</span></a><span> [</span><a href='https://dcblack.github.io/FabulousFasters/Resources/Determining-your-circadian-rhythm.pdf'><span>pdf</span></a><span>]</span></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.html'><span>Experts Supporting Keto n Carnivore</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Experts_supporting_Keto_n_Carnivore.pdf'><span>[pdf]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Holiday_treats.zip'><span>Holiday Treat Recipes [zip]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/How_to_make_LMNT_drink_electrolyte_mix_at_home.html'><span>How to make LMNT drink electrolyte mix at home</span></a><span> [</span><a href='https://dcblack.github.io/FabulousFasters/Resources/How_to_make_LMNT_drink_electrolyte_mix_at_home.pdf'><span>pdf</span></a><span>]</span></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/LMNT.xlsx'><span>LMNT formula [Excel]</span></a><span> [</span><a href='https://dcblack.github.io/FabulousFasters/Resources/LMNT.pdf'><span>pdf</span></a><span>]</span></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Long_Term_Tattoo_Health.html'><span>Long Term Tattoo Health</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Long_Term_Tattoo_Health.pdf'><span>[pdf]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Magnesium.html'><span>Magnesium information</span></a><span> [</span><a href='https://dcblack.github.io/FabulousFasters/Resources/Magnesium.pdf'><span>pdf</span></a><span>]</span></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Sleep_Books_for_Children.html'><span>Sleep Books for Children</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Sleep_Books_for_Children.pdf'><span>[pdf]</span></a></p></li><li><p><a href='https://dcblack.github.io/FabulousFasters/Resources/Appendix_Twelve_Tips_for_Healthy_sleep.html'><span>Twelve Tips for Healthy Sleep</span></a><span> </span><a href='https://dcblack.github.io/FabulousFasters/Resources/Appendix_Twelve_Tips_for_Healthy_sleep.pdf'><span>[pdf]</span></a></p></li></ol><p><span>Contribute by sending an email to me with information on health you would like to post here. As needed we may discuss in the group.</span></p><p>&nbsp;</p></div></div>
 </body>
 </html>

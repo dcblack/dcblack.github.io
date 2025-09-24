@@ -34,6 +34,7 @@ contacts: dcblack@mac.com
 1. [Long Term Tattoo Health](https://dcblack.github.io/FabulousFasters/Resources/Long_Term_Tattoo_Health.html) [[pdf]](https://dcblack.github.io/FabulousFasters/Resources/Long_Term_Tattoo_Health.pdf)
 1. [Magnesium information](https://dcblack.github.io/FabulousFasters/Resources/Magnesium.html) [[pdf](https://dcblack.github.io/FabulousFasters/Resources/Magnesium.pdf)]
 1. [Sleep Books for Children](https://dcblack.github.io/FabulousFasters/Resources/Sleep_Books_for_Children.html) [[pdf]](https://dcblack.github.io/FabulousFasters/Resources/Sleep_Books_for_Children.pdf)
+1. [Twelve Tips for Healthy Sleep](https://dcblack.github.io/FabulousFasters/Resources/Appendix_Twelve_Tips_for_Healthy_sleep.html) [[pdf]](https://dcblack.github.io/FabulousFasters/Resources/Appendix_Twelve_Tips_for_Healthy_sleep.pdf)
 
 Contribute by sending an email to me with information on health you would like to post here. As needed we may discuss in the group.
 
