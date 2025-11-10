@@ -13,14 +13,15 @@ plugins:
   - jekyll-coffeescript
 tags: [ allulose, Alzheimers, apoptosis, arthritis, autism, autophagy, cancer,
   carnivore (lion), cholesterol, coronary disease, cortisol, diabetes, diet,
-  dementia, epilepsy, fatty liver disease, GLP1, gut-biome, HIIT, hormones, insulin, insulinemia,
-  keto, ketogenic, ketosis, kidney disease, lifestyle, metabolism, neuropathy,
-  obesity, ozempic, Parkinson's, pituitary, REHIT, thyroid, vegan, weight-loss ]
+  dementia, epilepsy, fatty liver disease, GLP1, gut-biome, health, HIIT, hormones,
+  insulin, insulinemia, keto, ketogenic, ketosis, kidney disease, lifestyle,
+  metabolism, neuropathy, obesity, ozempic, Parkinson's, pituitary, REHIT, thyroid,
+  vegan, weight-loss ]
 ---
 
-# Experts on Keto & Carnivore [v2.39]
+# Experts on Keto & Carnivore [v2.44]
 
-[Updated 2025-October-5 07:00 PM]
+[Updated 2025-November-10 09:26 AM]
 
 <h2>Contents</h2><a name="toc"></a>
 
@@ -90,34 +91,34 @@ The experts in this document address cures for the following diseases (alphabeti
 
 I've labeled a lot of material herein as part of a category. Most items are not isolated to a particular category, and indeed, many could be assigned to multiple categories. Some could even span all categories; however, I've labeled them according to what I consider their primary focus. Here is the list of the categories:
 
-- **(A)**uto-immne diseases (Muliple Sclerosis, Neuropathy, Parkinsons)
-- **(B)**rain issues, Alzheimers, Dementia, Stress & Sleep, Epilepsy
-- **(C)**ancer
-- **(D)**iabetes, Prediabetes, Insulinemia & Metabolism (chemistry)
-- **(E)**strogen & Women's issues
-- **(F)**alsehoods, lies & myths - Drugs, Food & Medical
-- **(G)**eneral biomes (mouth & intestinal), glucose, insulin, chloresterol, serotonin & biochemistry
-- **(H)**eart & Cardiovascular Disease (incl. blood pressure), Kidney disease
-- **(I)**nstrumentation & devices - CGM, Blood pressure device, Breath meter, Scale
-- (**J**)
-- **(K)**etosis, Autophagy, Mitochondria, Fasting - see also (D) & (M)
-- **(L)**ifestyle - Carnivore, Ketogenic, Ketovore: Recipes, Cost, Concerns - see also (F)alsehoods
-- **(M)**edicines (e.g., statins), Supplements and Foods, Carbs, Protein, Fat, Fiber, Keto food products, Gluten
-- (**N**)
-- **(O)**ral hygiene, Mouth, Teeth, Dentistry
-- **(P)**eople, Authors, and Sources
-- **(Q)**&A sessions
-- **(R)**ecipes & food tips
-- **(S)**tories of success
-- **(T)**esting, Bloodwork, Blood pressure
-- **(U)**rinary, Prostate
-- (**V**)ision
-- **(W)**eight-loss & Obesity - see also (D), (K) & (M)
-- **(X)**ercising, Weight lifting, HIIT, REHIIT, Aerobic, Equipment
+- (**A**)uto-immne diseases (Muliple Sclerosis, Neuropathy, Parkinsons)
+- (**B**)rain issues, Alzheimers, Dementia, Stress & Sleep, Epilepsy
+- (**C**)ancer
+- (**D**)iabetes, Prediabetes, Insulinemia & Metabolism (chemistry)
+- (**E**)strogen & Women's issues
+- (**F**)alsehoods, lies & myths - Drugs, Food & Medical
+- (**G**)eneral biomes (mouth & intestinal), glucose, insulin, chloresterol, serotonin & biochemistry
+- (**H**)eart & Cardiovascular Disease (incl. blood pressure), Kidney disease
+- (**I**)nstrumentation & devices - CGM, Blood pressure device, Breath meter, Scale, HBOT
+- (**J**)unk food
+- (**K**)etosis, Autophagy, Mitochondria, Fasting - see also (D) & (M)
+- (**L**)ifestyle - Carnivore, Ketogenic, Ketovore: Recipes, Cost, Concerns - see also (F)alsehoods
+- (**M**)edicines (e.g., statins), Supplements and Foods, Carbs, Protein, Fat, Fiber, Keto food products, Gluten, Iodine, Statins
+- (**N**)oise & confusion between experts
+- (**O**)ral hygiene, Mouth, Teeth, Dentistry
+- (**P**)eople, Authors, and Sources
+- (**Q**)&A sessions
+- (**R**)ecipes & food tips
+- (**S**)tories of success
+- (**T**)esting, Bloodwork, Blood pressure, CIMT, CACT
+- (**U**)rinary, Prostate
+- (**V**)ision, Glaucoma
+- (**W**)eight-loss & Obesity - see also (D), (K) & (M)
+- (**X**)ercising, Weight lifting, HIIT, REHIIT, Aerobic, Equipment, cramps
 - (**Y**)
 - (**Z**)
-- **(+)** when several categories apply equally
-- **(?)** unsure, possibly orthogonal to all of the above
+- (**+**) when several categories apply equally
+- (**?**) unsure, possibly orthogonal to all of the above
 
 ◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
@@ -237,335 +238,391 @@ The following books are all from my personal library. I own either Audible, Kind
 
 Sorted by category and then length (time). All of these are found through Youtube as a rule.
 
-| Cat  | Type   |  Length | Fav  | Source               | Description/Link  |
-| ---- | ------ | ------: | :--: | :------------------- | ----------------- |
-| (+)  | Video  | 0:21:36 |  1   | Nick Norwitz PhD     | [Mind-Blowing Metabolism! Breakthroughs from the 2024](https://youtu.be/wY0GTs_t48s?si=oxQ7fD0G2elsDp-p) |
-| (A)  | Video  | 0:16:03 |  1   | Nick Norwitz PhD     | [Metabolic Mayhem!](https://youtu.be/65q5NG7uba0?si=gNUVg38i-kB54rg8) |
-| (B)  | Course | 0:01:00 |  1   | myCME                | [Managing Major Mental Illness with Dietary Change: The New Science of Hope](https://www.mycme.com/courses/managing-major-mental-illness-with-dietary-change-9616) |
-| (B)  | Video  | 0:00:50 |  1   | Dr Annette Bosworth  | [I'm on Team Reversible (Alzheimer’s](https://youtube.com/shorts/XOSlUiHHRrw?si=MO9rwKEvvvxnYTlL) |
-| (B)  | Video  | 0:01:04 |  1   | Nick Norwitz PhD     | [Why Sleep is the Ultimate Brain Hack](https://youtube.com/shorts/r-FYy_eEV4w?si=g0ekTCETZNyIL8Ma) |
-| (B)  | Video  | 0:01:06 |  1   | Dave Asprey          | [Optimal Stress](https://youtube.com/shorts/PiWG5uJ6xuE?si=HYvK-yqJpkvQsrKa) |
-| (B)  | Video  | 0:01:36 |  1   | Metabolic Mind       | ["I stumbled upon this life quite by accident."](https://youtube.com/shorts/7r3rgdG0-54?si=vfEqZctBxaVEDhtu) |
-| (B)  | Video  | 0:06:15 |  1   | Dr Annette Bosworth  | [Don't tell your doctor you are depressed. Here's why](https://youtu.be/mqyk4om776Q?si=AS3K-Tgu3sOKXcUU) |
-| (B)  | Video  | 0:07:05 |  1   | Metabolic Mind       | [The Connection Between Metabolic and Mental Health](https://youtu.be/3O7DHiMRfmU?si=1UL_Hajvhk0dkK1e) |
-| (B)  | Video  | 0:08:37 |  1   | Thomas DeLauer       | [3g Makes You Sleep 8 Hours Straight WITHOUT Getting Up to PeeTITLE](https://youtu.be/8NbwzbO60Xo?si=fkwtKdkcXx3Ulx97) |
-| (B)  | Video  | 0:09:03 |  1   | Nick Norwitz PhD     | [Inflammation Causes Anxiety: Root Cause and Cure](https://youtu.be/9azjuXdSYSg?si=sUeM83qO1q6uUH1k) |
-| (B)  | Video  | 0:11:24 |  1   | Nick Norwitz PhD     | [Why is sleep important](https://youtu.be/KNzTbr0B8aQ?si=zsqoOMYq1SE4Ofzg) |
-| (B)  | Video  | 0:11:27 |  1   | Nick Norwitz PhD     | [A Deep Dive into Sleep, Light and Mitochondria (with a Surprise)](https://youtu.be/A8lH6bASGRg?si=GPywCgB20eGfjb97) |
-| (B)  | video  | 0:11:28 |  1   | Nick Norwitz PhD     | [How a Common Kitchen Spice Could Boost Brain Function and Mental Health](https://youtu.be/rF0c31ssn7g?si=g9-gUBI1yu-YXcJB) |
-| (B)  | Video  | 0:13:25 |  1   | Nick Norwitz PhD     | [Keto Diet Dramatically Improves Depression Symptoms! New Study...](https://youtu.be/RWvCaf6ueDo?si=JF6ojBjV7JeiK-ro) |
-| (B)  | Video  | 0:15:55 |  1   | Nick Norwitz PhD     | [5 Quick and Easy Biohacks for 2025](https://youtu.be/MjABB8wvitM?si=0-6TJkmP7yb-dVqt) |
-| (B)  | Video  | 0:16:46 |  1   | Holly                | [After a Year of 3 AM Wakeups, I Finally. Fixed My Sleep](https://youtu.be/7ulKd1_sp5Y?si=2vvRLGezKt4FO5oe)] |
-| (B)  | Video  | 0:25:02 |  1   | Ben Bikman PhD       | [26: Sleep and Insulin Resistance](https://youtu.be/TbsbFk17mQ0?si=AdJ5o-mpB0CwHBDu) |
-| (B)  | Video  | 0:31:30 |  1   | Metabolic Mind       | [Keto for Depression: ~70% Improvement for College Students in New Study](https://youtu.be/kN0kHPVM3lw?si=tJhRRf6tfSChfWyT) |
-| (B)  | Video  | 0:35:59 |  1   | metabolic mind       | [Visceral Fat and the Chronic Health Epidemic](https://youtu.be/cHGmkg30470?si=Rhnlk2Ww7P4CxCZg) |
-| (B)  | Video  | 1:00:53 |  3   | Dr Annette Bosworth  | [Sleep Lecture + BDNF + Training](https://youtu.be/E020nmykCHw?si=-nPrIvwVQrX9aSR8) |
-| (B)  | Video  | 1:07:30 |  1   | Primal Podcast       | [Neuroscientist: If You EAT THIS, You Are Protected From Dementia](https://youtu.be/vnxcZJmAm34?si=C4ZlYQ-yvzQuJ6d0) |
-| (B)  | Video  | 1:13:29 |  2   | Dr Ford Brewer       | [How I Fixed My Terrible Sleep Scores](https://www.youtube.com/live/DEBD1lfL33g?si=T7CbZ4FK_Smle_fE) |
-| (B)  | Video  | 1:14:49 |  1   | Primal Podcast       | [#1 Brain Doctor: Prevent Dementia & Alzheimer's](https://youtu.be/6UgM-zrrpZA?si=v-jCOGUt4otIze96) |
-| (B)  | Video  | 1:17:26 |  1   | Primal Podcast       | [The Brain Doctor: #1 Dementia Treatment](https://youtu.be/5oXvYAmZVyU?si=KJroMXAMmkySwSwW) |
-| (B)  | video  | 1:29:51 |  1   | Primal Podcast       | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
-| (C)  | Movie  | 1:00:00 |  3   | CanceREvolution      | [Cancer Evolution film](https://www.youtube.com/@CANCEREVOLUTIONdoc) |
-| (C)  | Video  | 0:00:56 |  1   | Dr Thomas Seyfried   | [Cancer is very preventable](https://youtube.com/shorts/PyPqJsKoe7M?si=x4uRz5LslnU7qd3x) |
-| (C)  | Video  | 0:01:00 |  1   | Dr Anthony Chaffee   | [Steak won't give you cancer](https://youtube.com/shorts/sTMW7zPhFEc?si=azgW4vHXJ7h3HQrg) |
-| (C)  | Video  | 0:01:02 |  1   | Dave Asprey          | [What would you do](https://youtube.com/shorts/ZDcSK0PFEEM?si=1RuN3hynZxgnBCHt) |
-| (C)  | Video  | 0:09:42 |  1   | Nick Norwitz PhD     | [Keto vs Colon Cancer: The Microbiome Missing Link](https://youtu.be/GGbQDstmty4?si=qG5KH86iZbfVu5XK) |
-| (C)  | Video  | 0:18:11 |  1   | Dr Ben Miles         | [Scientists Just Discovered How to Starve Cancer](https://youtu.be/ze2rmsLiTfA?si=eAXmHIZvOAT2I6SB) |
-| (C)  | Video  | 0:42:07 |  1   | AI & Health          | [Can a keto diet eliminate cancer growth? Dr Seyfried says yes](https://www.youtube.com/watch?v=qa3j40c8iAo&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=2) |
-| (C)  | Video  | 0:50:30 |  1   | Dr Annette Bosworth  | [My honest advice to someone with cancer](https://www.youtube.com/watch?v=BrZ-0Fqu5kk) |
-| (C)  | Video  | 0:51:58 |  1   | Dr Annette Bosworth  | [My husband might have cancer. He should've listened](https://www.youtube.com/watch?v=fZnydK9KskU) |
-| (C)  | Video  | 0:57:40 |  1   | Dr Shawn Baker       | [Cancer Doctor Flips the Script on Treatment - Dr. Katie Deming](https://youtu.be/hhheuYc6Gxo?si=KGJ2zwJIzQ1nUfDL) |
-| (C)  | Video  | 0:57:40 |  1   | Shawn Baker          | [Cancer Doctor Flips the Script on Treatment - Dr. Shawn Baker & Dr. Katie Deming](https://youtu.be/hhheuYc6Gxo?si=FBuwf38Mdxfwm-lT) |
-| (C)  | Video  | 0:59:01 |  1   | Dr Perlmutter        | [The Fasting Mimicking Diet - A Powerful Tool for Treating Cancera - Valter Longo](https://youtu.be/o7uSZ8ZVIKE?si=9ke6qZ_5iK4wwmA6) |
-| (C)  | Video  | 1:02:48 |  1   | Dr Thomas Seyfried   | [The Cancer Expert: "These Common Foods Are Feeding Cancer Cells!"](https://www.youtube.com/watch?v=NB45-iLYDTg) |
-| (C)  | Video  | 1:04:22 |  3   | Dr Thomas Seyfried   | [Here’s How To Poison Tumors (FOR GOOD)](https://youtu.be/0sMXs_hp4Ww?si=FkM3MthM1ZKajRKf) |
-| (C)  | Video  | 1:06:50 |  1   | Dr Deming            | [Cancer Doc Promotes Keto Prevention](https://www.youtube.com/watch?v=V0_vVe1NxU4&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=1&pp=gAQBiAQB) |
-| (C)  | Video  | 1:12:57 |  1   | Primal Podcast       | [Eat HIGH FAT: The Fastest Way To Kill Cancer Cells (Thomas Seyfried)](https://youtu.be/D0L0uG2l6Zc?si=8sm_tih2NjHVQsIM) |
-| (C)  | Video  | 1:12:57 |  3   | Primal Podcast       | [Eat HIGH FAT: The Fastest Way To Kill Cancer Cells (Thomas Seyfried)](https://youtu.be/D0L0uG2l6Zc?si=7FVg0EgSXMIBmJtS) |
-| (C)  | Video  | 1:14:41 |  1   | Primal Podcast       | [The Cancer Doctor: Starve Cancer Cells With A HIGH FAT Diet (EAT THIS)](https://youtu.be/eYs4wt5dg9Y?si=icB6_rNBixiF8Fd3) |
-| (C)  | Video  | 1:21:29 |  1   | 5 minute body        | [Dr. Thomas Seyfried, the #1 Cancer Expert: This is what REALLY feeds C...](https://youtu.be/tZE7Mj-xfSg?si=H0N2Fn65-OvWPdnS) |
-| (C)  | Video  | 1:26:56 |  1   | Tucker               | [Dr. Patrick Soon-Shiong: You're Being Lied to About Cancer, Cause & Cure](https://youtu.be/mgZaT-OriO8?si=KIYSXanZbaW9fu6n) |
-| (C)  | Video  | 2:06:07 |  1   | Diary of a CEO       | [Chronic Disease Doctor: We Can Now Reverse Some Stage 4 Cancer?](https://youtu.be/LgsJ3V9pIG0?si=Q2pgsENzpP8pRKp7) |
-| (D)  | Video  | 0:01:00 |  1   | Dr Eric Berg         | [What Nomal Blood sugar looks like](https://youtube.com/shorts/uyzfpCpRL0g?si=kkzyseGebXUM1i6J) |
-| (D)  | Video  | 0:02:02 |  1   | Dr Annette Bosworth  | [5 Surprising Foods that Spike Insulin](https://www.youtube.com/watch?v=OkrTAnO2uJg) |
-| (D)  | Video  | 0:07:23 |  2   | Dr Annette Bosworth  | [How to Reverse Insulin Resistance](https://youtu.be/0Hp99Zrjgrg?si=5fwQcNA0eGBwtG4p) |
-| (D)  | Video  | 0:11:57 |  1   | Dr Jason Fung        | [How to Lower Blood Sugar Without Cutting Carbs - The Diabetes Code Clinic part 6/6](https://youtu.be/V2KKGM-_GA0?si=7dpmYmvPO-_Gxh-I) |
-| (D)  | Video  | 0:29:22 |  2   | Ben Bikman PhD       | [“Fast” vs. “Slow” Insulin Resistance: The Two Paths Explained](https://www.youtube.com/watch?v=bzN6cDyLR64) |
-| (D)  | Video  | 0:32:40 |  1   | Dr Ford Brewer       | [These 5 Everyday Foods SPIKE Your Blood Sugar DANGEROUSLY](https://youtu.be/mBiMJ7QhGm8?si=OAbBWFEUEXYQw6eW) |
-| (D)  | Video  | 0:33:57 |  1   | Ben Bikman PhD       | [Uric Acid](https://www.youtube.com/watch?v=Eh6pg3jBPEk) |
-| (D)  | Video  | 0:36:38 |  1   | Ben Bikman PhD       | [63: The Randle Cycle - How Your Body Chooses Between Glucose and Fat](https://youtu.be/OlsjnLMANDQ?si=_g_mNJpnSk5Lvrb_) |
-| (D)  | Video  | 0:38:55 |  1   | Metabolic Mind       | [How This Doctor Put Over 150 Patients into Diabetes Remission](https://youtu.be/PJQ5e5jwSxY?si=wl5ppTOy4Wd9-3qk) |
-| (D)  | Video  | 0:43:21 |  1   | Nick Norwitz PhD      | [Stanford's Top Researcher (Michael Snyder) Reveals What Really Causes Diabetes](https://youtu.be/mCrc4gfbK2o?si=EenFhwejsi9_v79r) |
-| (D)  | Video  | 0:52:44 |  1   | Nick Norwitz PhD      | [Diabetes Scientist Reveals What They Don't Teach in Medical School...](https://youtu.be/-vdol1TSxoc?si=VnwQMF-h4yqKGuvx) |
-| (D)  | Video  | 0:52:57 |  1   | Dr Eric Westman      | [Type 2 Diabetes - part 2](https://vimeo.com/1057213205/5daa79b816?ts=0&share=copy&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%8C%7BREPLAY%7D%20-%20How%20to%20achieve%20normal%20blood%20sugars%20without%20diabetes%20medication%20-%2016632954) |
-| (D)  | Video  | 0:56:47 |  2   | Dr Annette Bosworth  | [Two Magic Words to Know if You've Reversed Insulin Reistance](https://www.youtube.com/watch?v=OOa5iBdOW7w) |
-| (D)  | Video  | 0:59:54 |  2   | Dr Annette Bosworth  | [Why You Are NOT Reversing Your Insulin Resistance](https://www.youtube.com/watch?v=UvZpfxdm5hk) |
-| (D)  | Video  | 1:02:46 |  1   | Dr Ken Berry         | [Reversing T2D & The American Diabetes Society](https://www.youtube.com/live/W_xWso4WYjs?si=Ip5FeyAmGTc6lMu_) |
-| (D)  | Video  | 1:03:59 |  1   | Dr Eric Westman      | [Why the Science Around Carbs, Seed Oils & Diabetes Is Broken With Prof. Bart Kay](https://youtu.be/mvmHpC-FCX4?si=uTmpDcQ97QW8h7H0) |
-| (D)  | Video  | 1:15:49 |  1   | Ben Bikman PhD       | [4 Steps to Reverse Insulin Resistance](https://youtu.be/IrbhAk3lWcI?si=PgipBUVzOCGmx5Aw) |
-| (D)  | Video  | 1:20:31 |  1   | Dr Means             | [93% of Adults Have Metabolic Issues (10 COMMON Signs)](https://youtu.be/K8DSx1pM_3Q) |
-| (D)  | Video  | 1:26:34 |  1   | Primal Podcast       | [The Longest HIGH FAT Study Ever Conducted is Finally Finished (Surprising Results)](https://youtu.be/0m-HjyqDKNQ) |
-| (D)  | Video  | 1:53:17 |  1   | Dr Shanahan          | [The REAL Cause of Insulin Resistance (Stop Eating This!)](https://youtu.be/tN9o1oBDX-M?si=vZvpr-VORTZKn3yu) |
-| (E)  | Video  | 1:06:35 |  1   | Dr Annette Bosworth  | [The BIGGEST LIE about Hormone Replacement Therapy (HRT)](https://www.youtube.com/live/72eSVVO9bpY?si=1sX1w0Pi6ezLmJSQ) |
-| (F)  | Movie  | 1:00:16 |  1   | SOURCE               | [The Truth About (Adult) Stem Cells](https://youtu.be/gXIHxsaBi34?si=7UyAvo8YIvW9l_T9) |
-| (F)  | Movie  | 1:42:22 |  1   | Youtube              | [Fat Fiction](https://youtu.be/j3fYf38AU6w?si=i6IgxlNO8P5YFze2) |
-| (F)  | Video  | 0:01:06 |  3   | Dr Lufkin            | [Why Your Doctor LIES To You](https://www.youtube.com/live/ZkkbwA7We2U?si=v9tZFAQJoxf_a65R) |
-| (F)  | Video  | 0:01:29 |  1   | Dr Saladino          | [Serena Williams, we need to talk](https://youtube.com/shorts/t1N4PAnFkgU?si=6hy7a0TjFDQ3C4S_) |
-| (F)  | Video  | 0:03:49 |  1   | Dr Annette Bosworth  | [What Doctors Weren't Allowed to Say about HRT](https://youtu.be/VylHOCl8ZuM?si=UX1rQGN2J73bvHIJ) |
-| (F)  | Video  | 0:04:22 |  1   | ?                    | [The Great Cholesterol Scam](https://youtu.be/btUNkUlUIeQ?si=naDI7S0LZgdH6lxJ) |
-| (F)  | Video  | 0:06:18 |  1   | no carb life         | [The Shocking Way Big Pharma ALWAYS Wins](https://youtu.be/rIgOo_MA47Y?si=ZKH7xSGEMGqG1ypd) |
-| (F)  | Video  | 0:09:29 |  1   | Dr Baker             | [No Science Behind Carnivore - Doctor Reacts](https://youtu.be/pJKJrvtwB4w?si=g15mjRk83wz4niX_) |
-| (F)  | Video  | 0:15:03 |  1   | Nick Norwitz PhD      | [Ignorance Is Bliss: The Dark Truth About Chocolate & Diabetes](https://www.youtube.com/watch?v=i9IgjxtTDEM) |
-| (F)  | Video  | 0:16:19 |  1   | Lillie Kane          | [3 Red Flags of Health Influencers: Who l Actually Watch vs. Avoid](https://youtu.be/DrCMj_4IXpc?si=8RweS9Weam4NC2z2) |
-| (F)  | Video  | 0:16:19 |  1   | Lillie Kane          | [3 Red Flags of Health Influencers: Who l Actually Watch vs. Avoid](https://youtu.be/DrCMj_4IXpc?si=EygOoQpwn7K3nPJU) |
-| (F)  | Video  | 0:20:25 |  1   | Steak&Butter Gal     | [McDonald's EXPOSED: Why I'm NEVER Eating Here Again!](https://www.youtube.com/watch?v=MlFOL0th0ec) |
-| (F)  | Video  | 0:20:53 |  1   | Lillie Kane          | [Doctors Are Saying ‘No’ More Than Ever Before](https://youtu.be/Zvj0cKz-KAA?si=p5Ve0Odo_FCJvR0R) |
-| (F)  | Video  | 0:22:06 |  1   | Ben Bikman PhD       | [The China Study Revisited - Science vs. Storytelling](https://youtu.be/tSkD7y-Zspo?si=h_iMufPmS36-__wM) |
-| (F)  | Video  | 0:24:59 |  1   | Dr Ford Brewer       | [Watch This Video Before Stopping Baby Aspirin](https://youtu.be/9VQtnHAakwQ?si=Hmk2EnCV6FoYpr_j) |
-| (F)  | Video  | 0:29:46 |  1   | Dr Sten Ekberg       | [#1 Most DANGEROUS Cholesterol Lie You Must Know!](https://youtu.be/dQLkDijNE2A?si=UriUk4mG9nkkorYM) |
-| (F)  | Video  | 0:30:33 |  1   | Carn Squad           | [Massive Data Leaked...3 Stunning Carnivore Studies Retrieved](https://youtu.be/vjhX400AQG4?si=aA82XrI6H5vfCR00) |
-| (F)  | Video  | 0:32:23 |  1   | Carnivore squad      | [Absolutely Chilling CARNIVORE Findings - Dusty Basement Discovery](https://youtu.be/d8izVfy2tN8?si=xs7CGRrJkT4f09MK) |
-| (F)  | Video  | 0:47:46 |  1   | Dr Ford Brewer       | [Big Food's Dirty Secret Exposed! ft. Dr. Lustig](https://www.youtube.com/watch?v=0l3o-MZl4ts&t=0) |
-| (F)  | Video  | 0:47:58 |  1   | Dr Ford Brewer       | [Nutrition Expert Exposes the LIES of Big Food & Big Pharma (The Real Ca...](https://youtu.be/plpOJiBkwyM?si=JcUfJoh_AlumNefE) |
-| (F)  | Video  | 0:54:22 |  1   | No Carb Life         | [The Truth That Destroyed My Faith in the System](https://youtu.be/z0hg_JmY9LU?si=p1EaMisAALvSgSBU) |
-| (F)  | Video  | 0:56:51 |  1   | Dr Ken Berry         | [Why Dieticians Give Bad Advice](https://www.youtube.com/live/5DMN5kAXQT4?si=fdNJoSfDLx1GwlnS) |
-| (F)  | Video  | 1:09:36 |  1   | Dr Eric Westman      | ["Big Pharma Is Fooling You and You Don't Even Know It!" UNCUT - Doctor Reacts](https://www.youtube.com/watch?v=SyLVrHWZTEc) |
-| (F)  | Video  | 1:10:09 |  3   | Boz & Berry          | [About being a Doctor on Youtube and Keto!](https://www.youtube.com/watch?v=_sHgwxDHGYE) |
-| (F)  | Video  | 1:10:28 |  1   | Dr Kilz              | [Why Your Doctor Might Be Wrong About Nutrition @KenDBerryMD](https://youtu.be/6GPCG93Aro0?si=MV5kCDCeInc-ok90) |
-| (F)  | Video  | 1:10:45 |  1   | Dr Ken Berry         | [Carnivore Diet Dangers? 2 Doctors Answer Questions - Dr Chaffee](https://www.youtube.com/watch?v=bVj_kYUM0Sk) |
-| (F)  | Video  | 1:12:26 |  1   | Dr Eric Westman      | [Big Pharma Lies: What They Don't Want You to Know About Statins with Dave Feldman](https://www.youtube.com/watch?v=tKWaS9-8zLQ) |
-| (F)  | Video  | 1:12:42 |  1   | Primal Podcast       | [Fix Oxalate Dumping: 30 'Healthy' Foods Making You Sick (Sally Norton)](https://youtu.be/XKq9t1nOlng?si=Lb4LcBhjvnrpmZQC) |
-| (F)  | Video  | 1:15:59 |  3   | Dr Annette Bosworth  | [**SHOW DOCTORS** What Physicians Need to Know About the Ketogenic Diet](https://youtu.be/WtcK8lZV1AM?si=cadfge58QArkvEkK) |
-| (F)  | Video  | 1:24:10 |  1   | Dr Ford Brewer       | [I Used to Fully Trust Research - Until I Read This Paper](https://www.youtube.com/live/DUg0sneldhs?si=ymIHT8JTE6unIpAC) |
-| (F)  | Video  | 1:58:03 |  1   | Heritage Foundation  | [What’s on Your Plate? Rethinking Nutrition Guidelines and Chronic Disease](https://www.youtube.com/live/wJdtMwZ8NqA?si=zkdiCWCdYTQ8pXhy) |
-| (G)  | Video  | 0:03:21 |  1   | Dr Annette Bosworth  | [Three Myths About Cholesterol People Still Believe](https://youtu.be/3GP2CbUNHPs?si=vtVOrT0vTQxa8R9f) |
-| (G)  | Video  | 0:13:16 |  1   | Nick Norwitz PhD      | [The Power of CAC = 0: When Does LDL Matter?](https://youtu.be/_t-6qirB5-I?si=U7ZIk5rhs-1ftftR) |
-| (G)  | Video  | 0:19:49 |  1   | Dr Sten Ekberg       | [No Carb Foods Can Still Spike Your Blood Sugar](https://youtu.be/jNpwxgfihiA?si=KTVeXrlPu7uvw5eX) |
-| (G)  | Video  | 0:26:55 |  1   | Dr Ford Brewer       | [The Shocking TRUTH About Eggs & Heart Disease (NEW Evidence)](https://youtu.be/Ti6Wl6aKl-I?si=V3VYQA2qoEksdYhn) |
-| (G)  | Video  | 0:35:10 |  1   | Dr Sten Ekberg       | [Top 10 Foods That DESTROY Your Blood - Sugar!](https://youtu.be/i1QkD8neXgo?si=N_Hl6CiTNHUlBavi) |
-| (G)  | Video  | 1:19:46 |  1   | Nick Norwitz PhD     | [Master The Microbiome: A Deep Dive into Nutrition and Gut Health](https://youtu.be/IyDW_LAUa04?si=apVH0ySFQwz_vHh-) |
-| (G)  | Video  | 1:22:41 |  1   | Dr Ken Berry         | [BREAKING THE BLOOD GLUCOSE MYTH WITH DR. ROBERT CYWES](https://www.youtube.com/live/5VyFdIU6IGs?si=9u9BbMMH9R3U_JpH) |
-| (H)  | Video  | 0:02:03 |  1   | Dr Ford Brewer       | [Do seed oils inflame arteries?](https://youtube.com/shorts/R16CdKqFfIw?si=omEwlAksgxl_tn0p) |
-| (H)  | Video  | 0:04:05 |  2   | Dr Annette Bosworth  | [The #1 supplement to reverse fatty liver](https://youtu.be/d39z1XrGn18?si=wCCX7yv5HywF5Ofb) |
-| (H)  | Video  | 0:06:50 |  1   | Dr Paul Mason        | [Saturated Fats Don't Increase Heart Disease - Here's the Proof! - ...](https://youtu.be/LrtN7DddE6I?si=ycWOgF_E0XKsCKty) |
-| (H)  | Video  | 0:09:14 |  1   | Dr Ford Brewer       | [Citrulline: Does it work? Uses for NO, ED, Athletics](https://youtu.be/w-qpJtrIcd0?si=KG2pxKHX4HsWqccW) |
-| (H)  | Video  | 0:13:18 |  1   | Jesse Chappus        | [You CAN'T Have a Heart Attack Without THIS... (Not High LDL Cholesterol) - Dr. Sea...](https://youtu.be/mVV-v_roZMI?si=t_4R13X0eppumRCl) |
-| (H)  | Video  | 0:13:59 |  1   | Adam Story           | [11 MISTAKES IN MEASURING YOUR OWN BLOOD PRESSURE](https://youtu.be/n01wAPHDeGA?si=sK2gFqa7UP9OzIBa) |
-| (H)  | Video  | 0:21:10 |  1   | Dr Ford Brewer       | [#1 Best Way to Find Clogged Arteries](https://www.youtube.com/watch?v=fV7DqKCVrro) |
-| (H)  | Video  | 0:22:10 |  1   | Dr Ford Brewer       | [These 10 Mistakes Make Your Blood Pressure Look Too High](https://youtu.be/oygDkbEDKRw?si=KJDbLVxSoD_cCOnt) |
-| (H)  | Video  | 0:22:45 |  1   | Jesse Chappus        | [Cardiologist EXPOSES Why Doctors Are Wrong About LDL Cholesterol - Dr. Pradip J...](https://youtu.be/qHS2yGKdGs8?si=EHxMRXTU1VZV8pUr) |
-| (H)  | Video  | 0:23:38 |  1   | Dr Sten Ekberg       | [#1 Absolute First Sign of KIDNEY DISEASE Is...](https://youtu.be/8AP6eo9XaNY?si=c5bYfZTQVUA5D18Q) |
-| (H)  | Video  | 0:25:13 |  1   | Dr Ford Brewer       | [The SHOCKING Truth about Aspirin - What Your Doctor Isn't Telling You](https://youtu.be/k6elt8uoWy4?si=u5kNpejIWcBQ_ILR) |
-| (H)  | Video  | 0:30:03 |  1   | Metabolic mind       | [Do We Have Kidney Health All Wrong?](https://youtu.be/zsSY_2f4xGI?si=Fj2WwtA3OrVwH0z) |
-| (H)  | Video  | 0:30:46 |  1   | Dr Ford Brewer       | [#1 Worst Meal that Clogs Your Arteries](https://www.youtube.com/watch?v=xRwVxuPCzsc) |
-| (H)  | Video  | 0:32:19 |  2   | Dr Ford Brewer       | [How I Cleaned Out My Arteries In 1 Year](https://www.youtube.com/watch?v=yYLym9PiJtA) |
-| (H)  | Video  | 0:32:20 |  1   | Dr Ford Brewer       | [How I Cleaned Out My Arteries In 1 Year](https://youtu.be/yYLym9PiJtA?si=WhEWC7zdBKv4OMc5) |
-| (H)  | Video  | 0:33:24 |  1   | Dr Ford Brewer       | [The TRUTH About Statins - What Your Doctor Isn't Telling You](https://youtu.be/gvC9PG-2yhM) |
-| (H)  | Video  | 0:33:27 |  1   | Dr Ford Brewer       | [Top 7 Foods That Clean Out Arteries](https://www.youtube.com/watch?v=WYK-NOPbtfA) |
-| (H)  | Video  | 0:33:28 |  1   | Dr Elberg            | [The Shocking Truth About Eggs & Heart Disease](https://youtu.be/soB7oOY-kJI?si=1-y3itqbFgxzEd3p) |
-| (H)  | Video  | 0:36:29 |  1   | Dr Ford Brewer       | [How I Use Statins to Unclog Arteries](https://youtu.be/sJmTCNg9wDI?si=yQa8r7shuls4Nxok) |
-| (H)  | Video  | 0:37:14 |  3   | Dr Ovadia            | [Heart Surgeon: The WORST Food Destroying Your Heart – interview](https://www.youtube.com/watch?v=i4XUcNcO0dw&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=5&pp=gAQBiAQB) |
-| (H)  | Video  | 0:37:55 |  1   | SOURCE               | [I Diagnosed 1000 Cases of Diabetes Using THIS Test (Do you Have it?)](https://youtu.be/DT9whLgzviw?si=PNIHnUAKPt36mYD3) |
-| (H)  | Video  | 0:42:02 |  1   | Dr Ford Brewer       | [5 Silent Signs of Clogged Arteries You Should Never Ignore (Even if You Feel Fine)](https://youtu.be/CR_jDgBg-20?si=vzs7_-R2oiMs3sfZ) |
-| (H)  | Video  | 0:44:03 |  1   | Dr Annette Bosworth  | [If you see this ... GO TO THE DOCTOR NOW](https://www.youtube.com/live/1jPvRlKmanA?si=N6KtB_G2TWc0Of1m) |
-| (H)  | Video  | 0:45:34 |  1   | Dr Ford Brewer       | [How to Lower Blood Pressure Without Pills - 10 Easy Ways](https://youtu.be/6A-gSYpZy60?si=TSXiizEe2aJG52uO) |
-| (H)  | Video  | 0:50:44 |  1   | Dr DeLauer           | [Visceral Fat Doctor Discovers the Only Thing Worse than Insulin Resistance (and viscera...](https://youtu.be/sa90KtdO2po?si=_WY3aAjAbrcttHe0) |
-| (H)  | Video  | 0:59:50 |  1   | Laura Hughes         | [heart disease (carnivore vs. vegan doctors)](https://youtu.be/c9uIl4p_MZ8?si=Q_UYPPKyOgNccrCi) |
-| (H)  | Video  | 0:MM:SS |  1   | Dr Ford Brewer       | [You've Been Lied to About Cholesterol & Heart Disease](https://youtu.be/mWKmhn5jKiQ?si=UyElMelNuKuiU_HW) |
-| (H)  | Video  | 1:02:49 |  1   | Dr Ford Brewer       | [The Disturbing Truth About Stress Tests and Heart Attacks](https://www.youtube.com/live/YbLr9oCSm2A?si=BkkXpehgv1LwrAJS) |
-| (H)  | Video  | 1:04:29 |  1   | Dr Ford Brewer       | [What is Citrulline? Does It Work?](https://www.youtube.com/live/4WDO7xcKh68?si=flumRJNonrB_ma-d) |
-| (H)  | Video  | 1:05:57 |  1   | Dr Ford Brewer       | [How to Predict a Heart Attack AT HOME](https://www.youtube.com/watch?v=WJ5upZcXTSk) |
-| (H)  | Video  | 1:07:42 |  1   | Primal Podcast       | [Heart Surgeon: Fix Heart Disease & Cholesterol Naturally (EAT THIS) Dr Ova...](https://youtu.be/DpgqOBH0D2Q?si=ay__ZuXnwjga1lsY) |
-| (H)  | Video  | 1:12:05 |  1   | Primal Podcast       | [I Ate 720 Eggs In 1 Month, Here's What Happened To My CHOLESTEROL](https://youtu.be/uuGXQfqq7D8?si=2CVuRtie0htZc0d_) |
-| (H)  | Video  | 1:13:03 |  1   | Dr Annette Bosworth  | [The biggest risk for Heart Disease is NOT LDL or HbA1c  with Dr Kevin Foray](https://www.youtube.com/watch?v=jq50sqWZW7E&t=0s) |
-| (H)  | Video  | 1:13:03 |  1   | Dr Annette Bosworth  | [The biggest risk for Heart Disease is NOT LDL or HbA1c](https://www.youtube.com/live/jq50sqWZW7E?si=EGnQZf2noNvWatfs) |
-| (H)  | Video  | 1:21:52 |  1   | Dr Ford Brewer       | [How To Do Keto To Burn Fat, Reverse Fatty Liver & Unclog Arteries](https://www.youtube.com/live/s7yK6h37DdE?si=9IZp77N6wAcBOs_K) |
-| (H)  | Video  | 1:22:05 |  1   | Dr Ford Brewer       | [How Quitting Sugar Reversed My Arterial Plaque](https://www.youtube.com/watch?v=ODcqzqirZAk&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=7) |
-| (H)  | Video  | 1:25:03 |  1   | Dr Ken Berry         | [Reverse Visceral Fat & Chronic Inflammation](https://www.youtube.com/live/EvKiRewyYJg?si=UAmY8V1R1FmD-Lvp) |
-| (H)  | Video  | 6:44:49 |  1   | Dr Ford Brewer       | [The Ultimate Guide for Plaque Reversal](https://youtu.be/evAkd-6ytUQ?si=Xv51oKXim9dd6u2p) |
-| (I)  | Video  | 0:01:29 |  1   | Dave Asprey          | [Top HBOT Q&A](https://youtube.com/shorts/L68Q6iWUvYU?si=He3J2hX7Wr0NtyE-) |
-| (I)  | Video  | 0:07:49 |  1   | Dr Anderson          | [Red Light vs Infrared](https://youtu.be/P496sSBO-Vw?si=Bz0RZe7zVJR5lA-n) |
-| (I)  | Video  | 0:08:30 |  1   | Diabetes Strong      | [My Favorite CGM Sites](https://www.youtube.com/watch?v=oifd5lyMWaQ) |
-| (I)  | Video  | 0:09:22 |  1   | HBOT                 | [When to Increase HBOT Pressure (And When to Slow Down](https://youtu.be/wQIBikdYSPM?si=h0_NNum5aCrnDxQj) |
-| (I)  | Video  | 0:10:03 |  1   | HBOT                 | [HBOT Could Change Your Sleep: Here's The Good (And The Bad)](https://youtu.be/DnOdqrONlQg?si=iYAHLh6YrUCzkptH) |
-| (I)  | Video  | 0:10:17 |  1   | HBOT                 | [This Popular Biohacking Protocol Is EVEN BETTER With HBOT](https://youtu.be/SFmlQj9k1QI?si=3cwUJPoL2FmszozS) |
-| (I)  | Video  | 0:10:38 |  1   | HBOT                 | [Do Soft Hyperbaric Chambers Work?](https://youtu.be/aP6FIxMub7Y?si=fCdpGxpTnlx3EdRD) |
-| (I)  | Video  | 0:10:57 |  1   | HBOT                 | [Increase Cognitive Performance As You Age With HBOT](https://youtu.be/GyepvD2geu8?si=wDV6Agzc-VN_jIkc) |
-| (I)  | Video  | 0:11:38 |  1   | HBOT                 | [HBOT Improves Immune Function and Reduces Inflammation](https://youtu.be/8nPRMQQgCtw?si=8lf4Xdu17UeC-5Bv) |
-| (I)  | Video  | 0:12:32 |  1   | HBOT                 | [Best Therapies To Pair With HBOT To Boost Your Immune System](https://youtu.be/dKmKez6Sqns?si=zL6oMwNXhxWU639P) |
-| (I)  | Video  | 0:13:13 |  1   | HBOT                 | [Can You Do TOO MUCH HBOT?](https://youtu.be/rpneVuE7zA8?si=4fO48yi8453hCcV-) |
-| (I)  | Video  | 0:15:56 |  1   | Dr Anderson          | [Reduce Inflammation With Red Light Therapy](https://youtu.be/1RuiCvhwN48?si=GGdvtTiferAF3fQV) |
-| (I)  | Video  | 0:16:19 |  1   | Dr Anderson          | [Red Light Therapy Shocking Benefits](https://youtu.be/T8Z1hmRosyE?si=OA584Gb5EoI-OEtZ) |
-| (I)  | Video  | 0:17:47 |  1   | HBOT                 | [HBOT Research: Low vs High Pressure - Surprising Results](https://youtu.be/iOx5mDbxVdk?si=yVLgT2jqSPqYr1dx) |
-| (I)  | Video  | 0:18:12 |  1   | HBOT                 | [HBOT Effects On Aging - Low vs High Pressure](https://youtu.be/qmV9bFVWGp8?si=wEgtbYH0mU9Ey6Dw) |
-| (I)  | Video  | 0:18:57 |  1   | HBOT                 | [HBOT 101: An Introduction To Hyperbaric Oxygen Therapy](https://youtu.be/E-RNRF7V_Z8?si=8vpC7_nc66kScXUW) |
-| (I)  | Video  | 1:07:43 |  1   | Dr Glen Jeffry       | [Power Up Your Mitochondria With Red Light Therapy](https://youtu.be/2MzKjYjEE1g?si=hWeAYPEpRHt6mYNE) |
-| (K)  | Movie  | 1:26:55 |  1   | Youtube              | [Fasting: The Healer Within](https://youtu.be/XL-_4_oLkBE?si=Q3bJkNyHUNmSepIH) |
-| (K)  | Series |      20 |  3   | Dr Annette Bosworth  | [Kickstart Metabolism In 3 Days With Sardines](https://youtu.be/Bhipbos4eUU?si=JvOccHK9jLLFAn_z) |
-| (K)  | Video  | 0:03:26 |  1   | Dr Annette Bosworth  | [Tutorial Cronometer App - Count your carbs](https://www.loom.com/share/9b4467fb5ff843e78acc5eb42e085fbc) |
-| (K)  | Video  | 0:06:09 |  1   | Dr Annette Bosworth  | [The keto mistake I wish I could undo](https://www.youtube.com/watch?v=GoYWOwnKJ3A) |
-| (K)  | Video  | 0:06:33 |  1   | Dr Annette Bosworth  | [you were eating protein wrong](https://youtu.be/i3PP-ijOtXA?si=EmL9WqdGsgG76Xqp) |
-| (K)  | Video  | 0:07:47 |  1   | Nick Norwitz PhD     | [Finally! How Ketosis Really Works.](https://www.youtube.com/watch?v=uyq5qAPKTKg) |
-| (K)  | Video  | 0:08:31 |  1   | Dr Annette Bosworth  | [Watch This Before You Shop](https://www.youtube.com/watch?v=UYxKm71MeII) |
-| (K)  | Video  | 0:08:53 |  1   | Dr Eric Westman      | [TOP 10 TIPS TO START KETO!](https://www.youtube.com/watch?v=M47nd9F7vPk) |
-| (K)  | Video  | 0:12:27 |  1   | Dr Ken Berry         | [The Truth About Food Noise](https://youtu.be/pgvnC65XWwU?si=1s0bl4BOfs-cyD-9) |
-| (K)  | Video  | 0:12:53 |  1   | Dr Annette Bosworth  | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
-| (K)  | Video  | 0:12:56 |  1   | Nick Norwitz PhD     | [How Ketones Take out the Trash: New Research on Diet and Brain Aging](https://www.youtube.com/watch?v=oRaNzfHF_do) |
-| (K)  | Video  | 0:12:57 |  1   | Dr Annette Bosworth  | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
-| (K)  | Video  | 0:14:43 |  1   | Dr Annette Bosworth  | [Human Growth Hormone: How to do HGH Right!](https://www.youtube.com/watch?v=UJOcc47pbwU) |
-| (K)  | Video  | 0:23:16 |  1   | Dr Eric Westman      | [Do You Actually Need CARBS To Live? - Doctor Reacts](https://youtu.be/pfI10N4M7QA?si=6EJ_yhpxG45J1Tp_) |
-| (K)  | Video  | 0:25:31 |  1   | Ben Azadi            | [What to do if you are not in Ketosis - 6 solitions](https://youtu.be/X7RQ7GNiOkM?si=w71HmZyaXZsERsaw) |
-| (K)  | Video  | 0:28:02 |  1   | Ben Bikman PhD       | [How Autophagy Protects Your Cells and Boosts Longevity](https://youtu.be/Er1MVXUOJh8?si=dMBe1GD-xXKdusGc) |
-| (K)  | Video  | 0:29:40 |  1   | Dr Sten Ekberg       | [I Ate NO FOOD For 100 Hours: Here's What Happened To My Blood](https://youtu.be/ucknbzRBiSQ?si=GZlNpUX9CwAwE5VL) |
-| (K)  | Video  | 0:45:48 |  1   | Dr Sten Ekberg       | [What Happens If You Don't Eat For 100 Hours?](https://youtu.be/DOevpP0fX28?si=IqBX4PZwNbgivwIa) |
-| (K)  | Video  | 0:46:45 |  1   | Dr Annette Bosworth  | [The Science on Lifestyle for REVERSING “Incurable” Diseases](https://www.youtube.com/watch?v=zDWJeIT_xbY) |
-| (K)  | Video  | 0:51:35 |  1   | Ben Bikman PhD       | [FASTING EASY? add butter & MCT oil: no effect on insulin, mTOR, autophagy](https://youtu.be/NOVHg0veeFY?si=68S8RAv_V759CFnh) |
-| (K)  | Video  | 0:59:22 |  1   | Modern Healthspan    | [The Mitochondria Scientist: This Light Is Silently Aging You Faster](https://youtu.be/ak5gHOOYdLg?si=J4aKVpN7IN-EWmCJ) |
-| (K)  | Video  | 1:00:20 |  1   | Dr Annette Bosworth  | [What Labs do I order?](https://www.youtube.com/live/rbjEh2e_dko?si=HFL9zhI82mN1em2-) |
-| (K)  | Video  | 1:01:18 |  1   | Dr Annette Bosworth  | [How Long to Fast for 3 Stages of Autophagy - Keto and Intermittent Fasting](https://www.youtube.com/live/SerNSubQJos?si=CKs5PNvd19AnellR) |
-| (K)  | Video  | 1:01:40 |  1   | Primal Podcast       | [The FASTEST Way To Fix Fatty Liver Naturally (10 COMMON Symptoms)](https://youtu.be/zxdm-Dd6J8o?si=lx9DNPXVBeopqSpL) |
-| (K)  | Video  | 1:02:40 |  3   | Dr Annette Bosworth  | [Fix Insulin Resistance Once & For All (10 COMMON Symptoms)](https://youtu.be/PS2cP2SGKtg?si=jJw2YCw1vSGwefBa) |
-| (K)  | Video  | 1:04:35 |  1   | Primal Podcast       | [#1 Fasting Expert: Get EPIC Fasting Results (Do Butter Coffee)](https://www.youtube.com/watch?v=6KSyXuxTnRM) |
-| (K)  | Video  | 1:04:36 |  1   | Primal Podcast       | [#1 Fasting Guide: Get EPIC Fasting Results (32 Tips & Questions Answe...](https://youtu.be/6KSyXuxTnRM?si=23babiRlR3Yz0KHI) |
-| (K)  | Video  | 1:04:36 |  1   | Primal Podcast       | [#1 Fasting Guide: Get EPIC Fasting Results (32 Tips & Questions Answered)](https://youtu.be/6KSyXuxTnRM?si=0VXOla9otScvgCMb) |
-| (K)  | Video  | 1:04:36 |  1   | Primal Podcast       | [Ultimate Fasting Guide: Lose Weight Faster & Age In Reverse (DO THIS) Dave Asprey](https://youtu.be/6KSyXuxTnRM?si=GtZdf9M5_EPDz3TI) |
-| (K)  | Video  | 1:11:04 |  1   | Dr Annette Bosworth  | [Why it's almost impossible to reverse Insulin Resistance](https://www.youtube.com/live/UTjm4OdgXRA?si=XqBhpJFgMOfc_SCJ) |
-| (K)  | Video  | 1:28:34 |  1   | Dr Chappus           | [Our Bodies ARE NOT Designed to Run on Carbohydrates - Dr. Gary Fettke](https://youtu.be/5W5w0WSBwDI?si=DaQ2LkC3Xnlc2Q9q) |
-| (K)  | Video  | 2:38:00 |  1   | Ben Azadi            | [How to Follow the Ketogenic Diet](https://www.youtube.com/watch?v=g-e5GZMR1qc) |
-| (K)  | Video  | 2:41:09 |  1   | Dr Lustig            | [The Shocking Benefits of Quitting Sugar for 30 Days! (How To Live Longer)](https://youtu.be/IKDsZWbm_xM?si=wKFXykvgFExykEop) |
-| (L)  | Video  | 0:01:00 |  1   | Nick Norwitz PhD     | [Metabolism vs Medical Science](https://youtube.com/shorts/4h3RgoILd4A?si=ajZJbtlPEO5h84B3) |
-| (L)  | Video  | 0:01:37 |  1   | Dr Hampton           | [Can you really AFFORD Carnivore?](https://youtube.com/shorts/aEAxV5nRyWg?si=7-ScLUnMlK1emYkQ) |
-| (L)  | Video  | 0:04:18 |  1   | Dr Annette Bosworth  | [Carnivore Pitfalls](https://youtu.be/ylLCeEbjzco?si=_h2u18QL2LiJT1Cp) |
-| (L)  | Video  | 0:09:00 |  1   | Paul Saladin         | [4 Ways to Reduce Microplastics in Your Body](https://youtu.be/MyZekF0Xgck?si=Eu0Uc0WLGoB5a-sJ) |
-| (L)  | Video  | 0:12:05 |  1   | Dr Ken Berry         | [Controversial Carnivore Questions](https://youtu.be/3tE15C0B1fM?si=7fmdGin4tghNsI5d) |
-| (L)  | Video  | 0:12:18 |  1   | Dr Eric Westman      | [Is Supermarket Meat Safe? - Doctor Reacts](https://youtu.be/dc64bToF2yY?si=vXJ1Glp5nxHyX-oZ) |
-| (L)  | Video  | 0:16:37 |  1   | Nick Norwitz PhD     | [Dogs as Medicine: How Your Pet Boosts Heart Health and Longevity](https://youtu.be/AOnwo1Z4DL8?si=NNVQnA8eE7MMlQ6w) |
-| (L)  | Video  | 0:20:28 |  1   | Nick Norwitz PhD     | [Let's End This Beef! 8 Nuanced Truths About the Carnivore Diet](https://youtu.be/nQHouOB_V20?si=pLerA0eioGdyxhpQ) |
-| (L)  | Video  | 0:20:57 |  1   | Dr Ken Berry         | [Why Your Doctor Hates Carnivore [and what to do about it] 2025](https://youtu.be/DG0_8jn_Hs4?si=wYUK1ZVDmMo2ZOUd) |
-| (L)  | Video  | 0:23:00 |  1   | myzerocarblife       | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
-| (L)  | Video  | 0:23:00 |  1   | MyZeroCarbLife       | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
-| (L)  | Video  | 0:23:52 |  1   | Physicians Committee | [Best Ways to Remove Microplastics From Your System](https://youtu.be/yx8svg89fqk?si=m71asBi93Y-W3qhm) |
-| (L)  | Video  | 0:50:01 |  1   | Nick Norwitz PhD     | [This Will Change Your Mind on Ultra-Processed Foods (Harvard MD PhDs Discuss)](https://youtu.be/JAPgzCiSk9Y?si=NKjf1aWZ8xWB6Cax) |
-| (L)  | Video  | 0:51:47 |  1   | Dr Eric Westman      | [Why Carnivore Beat Medicine: Steak & Butter Gal's Exclusive Interview](https://youtu.be/UvonfqIbHwY?si=c2DiZpvvk-YiH9m4) |
-| (L)  | Video  | 0:52:14 |  1   | Dr Ken Berry         | [I Got Passionate Being Filmed for Healing Humanity: Trailer World Premiere](https://www.youtube.com/live/eqMJRw-6ZVk?si=zXc8ZeZkZSg8SKKB) |
-| (L)  | Video  | 1:01:23 |  1   | Tour PhD             | [Tour on The Origin of Life](https://youtu.be/qeuW2UPa1Lw?si=bB_tEGP9fFmKCJ8o) |
-| (L)  | Video  | 1:04:05 |  1   | Primal Podcast       | [I Only Ate Meat For 200 DAYS: Here's What Happened To My HEART](https://youtu.be/PEtXLp2YEtk?si=xoGMb7Ng9QkwdTwk) |
-| (L)  | Video  | 1:10:41 |  1   | Dr Ken Berry         | [Carnivore Diet for Children and Toddlers [Why the Controversy?]](https://www.youtube.com/live/I8oYe6OLNnw?si=qhH_MRQ2lpBp84uk) |
-| (L)  | Video  | 1:12:22 |  1   | Dr Josh Axe          | [What the Bible Says About Red Meat, Pork, Dairy, and Bread - Jordan Rubin x Dr. Axe](https://youtu.be/2Ayj5eqWQXE?si=JfoGNuPj8GBJUzB2) |
-| (L)  | Video  | 1:41:07 |  1   | Jesse Chappus        | [The FASTEST Way to Regain Your Energy (Without Caffeine) - Dr. Sarah Myhill](https://youtu.be/ITDoKoXkKD4?si=uaWul93eAHhpsH7L) |
-| (M)  | Video  | 0:00:45 |  1   | Dave Asprey          | [History of creatine](https://youtube.com/shorts/h0jhdJ8PTs4?si=vbX1zYf1pWVxtgn-) |
-| (M)  | Video  | 0:01:15 |  1   | Dr Annette Bosworth  | [You Need to Know This About Creatine](https://youtube.com/shorts/qBG0Dox-lNE?si=DbqkB8be9q3VaMZp) |
-| (M)  | Video  | 0:01:17 |  1   | Dave Asprey          | [How creatine supercharges brain & muscles](https://youtube.com/shorts/DUNEVKoNPLY?si=lcCtE3YhUeR_XS9O) |
-| (M)  | Video  | 0:05:01 |  1   | Dr Eric Berg         | [Fascinating Health Benefits of Methylene Blue](https://www.youtube.com/watch?v=dDUZ0ODBfJs&pp=ygUOTWV0aHlsZW5lIGJsdWXSBwkJhAkBhyohjO8%3D) |
-| (M)  | Video  | 0:05:19 |  1   | Dr Annette Bosworth  | [The Major Reason I Changed My Mind About Curcumin](https://youtu.be/2pIuwJ3YXmE?si=E32DA-DRyTmiP0bL) |
-| (M)  | Video  | 0:05:29 |  2   | Dr Annette Bosworth  | [Why I don't prescribe statins for high LDL cholesterol](https://youtu.be/9swwpRC3Dx8?si=zTaBIMj6ZKc9VqaU) |
-| (M)  | Video  | 0:06:29 |  1   | Dr Annette Bosworth  | [The king of supplements just got even better.](https://youtu.be/3hdlxNzLlQY?si=p0_WzG6wxLELp1iX) |
-| (M)  | Video  | 0:07:05 |  1   | Gary Brecka          | [Methylene Blue: Improved Focus, ATP Production & Anti-Aging with Gary Brecka](https://www.youtube.com/watch?v=KvASX2yp0zU&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
-| (M)  | Video  | 0:07:50 |  1   | Dr Anderson          | [Everything You NEED to KNOW About Methylene Blue](https://www.youtube.com/watch?v=bfPByasoJTw&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
-| (M)  | Video  | 0:16:13 |  1   | Nick Norwitz PhD     | [This Saturated Fat Can Burn Fat: A Milkshake Experiment](https://youtu.be/TUNmaIF1Ygc?si=oL3ee35KZLD-A69h) |
-| (M)  | Video  | 0:17:02 |  1   | Dr Ken Berry         | [The Problems with Ozempic [What the Research Shows...]](https://youtu.be/ZCFjIcF6SsI?si=Td085V5iScILO3eB) |
-| (M)  | Video  | 0:19:01 |  1   | Dr Saladino          | [Why I MEGADOSE Creatine it's not for my muscles](https://youtu.be/sHEoC839R4Q?si=2wExovchMnRCYf9U) |
-| (M)  | Video  | 0:19:32 |  1   | Dr Eric Westman      | [Finally Ending The Debate! Do You Really Need Fiber? - Doctor Reacts](https://www.youtube.com/watch?v=L8nX-UyBHLo) |
-| (M)  | Video  | 0:21:22 |  1   | Dr Eric Westman      | [The Truth About Tylenol & Autism - What Does The Science Say?](https://youtu.be/zeGhqMNI8jU?si=wLAQjeuYpBXztFXe) |
-| (M)  | Video  | 0:25:17 |  1   | Ben Bikman PhD       | [Can Nattokinase Improve Heart & Metabolic Health?](https://youtu.be/fujDgIdUQWc?si=hVZ4RGaZWGAanIbm) |
-| (M)  | Video  | 0:25:27 |  1   | Ben Bikman PhD       | [109: Are Nitrates and Nitrites Dangerous?](https://youtu.be/6gA0hmUD7ZI?si=TvJrNh_vaknpq6Cz) |
-| (M)  | Video  | 0:25:28 |  1   | Nick Norwitz PhD     | [Why Vitamin C is the Most Underrated Nutrient for Heart Health](https://youtu.be/3rbJnKnhg3s?si=sgQMz5kmxMX9fzDf) |
-| (M)  | Video  | 0:27:34 |  1   | Ben Bikman PhD       | [Creatine Demystified: Brain, Muscle & Metabolic Benefits](https://youtu.be/Z7TRG6em3DA?si=ddSqy1yA9aLxi2eA) |
-| (M)  | Video  | 0:27:51 |  1   | Dr Thomas DeLauer    | [My Blood Test Says I Have High Creatinine, Do I Have Kidney Diseas...](https://youtu.be/MB5No-V1dLU?si=S1zAwMpNXZU0nWuH) |
-| (M)  | Video  | 0:29:29 |  1   | Dr Ford Brewer       | [Seniors: This 1 SIMPLE Ingredient Rebuilds Muscle FAST](https://youtu.be/6DbT8KuQblA?si=ZFOwOv8Y4nEwJYEW) |
-| (M)  | Video  | 0:30:33 |  1   | Dave Asprey          | [Why I Add Creatine to My Coffee Every Morning (And You Should Too)](https://youtu.be/K78Y5TAEz_U?si=uc72XlBnXQa4RrfM) |
-| (M)  | Video  | 0:31:34 |  1   | Biblical Nutrition   | [Iodine And Cancer: A Surprising Link](https://youtu.be/EHT4nQ2wgkA?si=xEK5EGnXEwOEC371) |
-| (M)  | Video  | 0:31:36 |  1   | Dr Ken Berry         | [Iodine Deficiency Epidemic: You Need More of This Essential Trace Mineral - Dr. Ken Berry](https://youtu.be/6htmfoj4c_M?si=FdQcrjVeertGJMjx) |
-| (M)  | Video  | 0:32:08 |  1   | Biblical Nutrition   | [Which Salt is Best & Worst?](https://youtu.be/4IamF0G-i-w?si=m-9KyS8Dqbps3Rge)
-| (M)  | Video  | 0:37:07 |  1   | Jesse Chappus        | [Iodine 101: What You NEED to Know Before You Take it - Dr. David Brownstein](https://youtu.be/JglFYmcdAWY?si=Hn_ql9goyvMaXUYT) |
-| (M)  | Video  | 0:47:29 |  2   | Dr Ford Brewer       | [I Believed Statins Were Necessary—Until I Read This Research (ft. Dr. Bernie)](https://www.youtube.com/watch?v=SykjTkCtuRk) |
-| (M)  | Video  | 0:49:45 |  1   | Dr Ford Brewer       | [Seniors: 5 Popular Supplements that Are Actually Destroying Your Heart](https://youtu.be/XuU6rBlfYnU?si=TI9Ldq6B16jYZRaZ) |
-| (M)  | Video  | 0:53:06 |  1   | Dr Josh Axe          | [The FDA Suppressed This for YEARS - Mirac ulous Peptide Therapy ](https://youu.be/aJ6p4ER4RYY?si=4HuM31gsW6SXQycL) |
-| (M)  | Video  | 0:57:45 |  1   | Dr Annette Bosworth  | [He took the 'best' statins for 14 years and calcified his arteries](https://www.youtube.com/live/AwBCS-8_M8M?si=6WvuUL1NtPhp8gc-) |
-| (M)  | Video  | 0:MM:SS |  1   | SOURCE               | [New Study DESTROYS Creatine (is it really worthless?](https://youtu.be/Z-xh1TwHIXM?si=WEuSagB-ECiF5iAm) |
-| (M)  | Video  | 1:01:07 |  1   | Dr Annette Bosworth  | [Why I'm using Methylene Blue for my metabolism](https://www.youtube.com/watch?v=WAuGLi4jsBQ&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
-| (M)  | Video  | 1:01:19 |  1   | Dr Annette Bosworth  | [Creatin is Now NON-NEGOTIABLE](https://www.youtube.com/live/VSL7ARI24Oc?si=44hoZETEsJ5PUXiY) |
-| (M)  | Video  | 1:03:45 |  1   | Dr John Campbell     | [Iodine, a global deficiency](https://youtu.be/vRg67gUoXyM?si=lpCqmdTPIico7Jir) |
-| (M)  | Video  | 1:05:31 |  1   | Dr Ken Berry         | [You're iodine Deficient with Dr. David Brownstein Iodine Benefits](https://www.youtube.com/live/Oix26uuBfZg?si=gilFbmT-NvzRHp3h) |
-| (M)  | Video  | 1:13:10 |  1   | FoundMyFitness       | [The Optimal Creatine Protocol for Strength, Brain, and Longevity - Darren Candow, PhD](https://youtu.be/ICsO-EHI_vM?si=kotFSEeCL8H7s8lm) |
-| (N)  | Video  | 0:39:54 |  1   | Dr Gil Carvalho      | [Dr Robert Lustig gets Fact-checked by MD PhD Doctor](https://youtu.be/vdoDx9dIuNE?si=-DSkzYsc4lJtO27X) |
-| (O)  | Video  | 0:09:52 |  1   | Dr Jorgensen         | [What Causes Cavities? Why most dentsts get it wrong](https://www.youtube.com/watch?v=FIlcUnUyU5I) |
-| (O)  | Video  | 0:18:16 |  1   | Dr Sten Ekberg       | [#1 Absolute Best Way to Stop Tartar](https://youtu.be/2nM5DAy9HQ4?si=0_WBy3CRDPLsMkq-) |
-| (O)  | Video  | 0:22:13 |  1   | Dr Ellie             | [How to Reverse a Cavity & Prevent Future Cavities](https://www.youtube.com/watch?v=hWrWKi7msrk) |
-| (O)  | Video  | 0:26:40 |  1   | Dr Ellie             | [How to REGROW Receding Gums at Home](https://youtu.be/AunUeaKVKhc?si=Zfl4iQPTextke5FT) |
-| (O)  | Video  | 1:39:25 |  2   | Primal Podcast       | [Fix The Microbiome: #1 Oral Care Routine To Fix Your Mouth & Disease (Dr Burhenne)](https://youtu.be/jNrm-9sp-RQ?si=cl59_lTi6zYHxNs5) |
-| (P)  | Video  | 0:07:23 |  1   | James Tour           | [Biochemist, Messianic Jew](https://youtu.be/QNGLZvtRoiU?si=xR9lWh1tD8txOgw_) |
-| (Q)  | Video  | 0:19:12 |  1   | Dr Eric Westman      | [Doctor Answers The Internets Burning Questions! (Unfiltered!)](https://youtu.be/lbtn9FbwPfs?si=ZsB4n91j6YTFuVgQ) |
-| (R)  | Video  |   18:23 |  1   | Milkslinger          | [I Discovered A NEW WAY To Make Yogurt!](https://www.youtube.com/watch?v=QCQ3KC81QHI&t=932s) |
-| (R)  | Video  |   28:56 |  1   | Lillie Kane          | [Farmer Warns: If You Knew What I Know, You’d Never Eat This Again](https://www.youtube.com/watch?v=D8OcNesbWuc) |
-| (R)  | Video  | 0:05:09 |  1   | Dr Ford Brewer       | [What Nobody will tell you about Microwaving Eggs](https://www.youtube.com/watch?v=y8QmgxPAqLk) |
-| (R)  | Video  | 0:07:53 |  1   | Patricia             | [Only CHIA and WATER - REPLACE BREAD in 5 MINUTES - LOW CARB, High Fiber and Protein, Quick and Easy](https://www.youtube.com/watch?v=ZaCx62Kf2Hk) |
-| (R)  | Video  | 0:08:59 |  1   | Kochen               | [Strengthen your heart with this keto avocado bread! The perfect breakfast](https://www.youtube.com/watch?v=atm1KgZWWic) |
-| (S)  | Video  | 0:05:11 |  1   | No carb life         | [85-Year-Olds Stun Doctor with Carnivore Results: See His Reaction!](https://www.youtube.com/watch?v=iyenYTtCx6E) |
-| (S)  | Video  | 0:07:41 |  1   | Dr Baker             | [I Cheated on Carnivore and it Wrecked Me](https://youtu.be/l-54E_tvL1U?si=Y4wmfGBnNYk7MEpP) |
-| (S)  | Video  | 0:18:14 |  1   | old carnivore        | [Dying 78 Year Old Man Tries Carnivore Diet](https://youtu.be/gpY7rXaP9qc?si=98MOFxyW81zvMigP) |
-| (S)  | Video  | 0:30:22 |  1   | No Carb Life         | [The Truth After 1,206 Days on Meat](https://youtu.be/1Er_OfAX62E?si=eTjRjk34FzsSsRl8) |
-| (S)  | Video  | 0:35:41 |  1   | Dave Mac             | [We Upgraded to a Carnivore Doctor](https://youtu.be/kTeg9K8ElIM?si=_K359iWl9Bi1hpBJ) |
-| (S)  | Video  | 0:38:57 |  1   | HealingHumanity      | [16 Year Old Carnivore, Surprises his Doctor!](https://youtu.be/OHhj6s6tt2w?si=BGQUEy3tisxutL_g) |
-| (S)  | Video  | 0:51:05 |  1   | No carb life         | [I Chose to Spin the Wheel of Death. Here's What Happened... (My Cancer Journey)](https://youtu.be/RSdcyOsxEvg?si=uzI-UDTfaw2bHgcw) |
-| (S)  | Video  | 1:02:07 |  1   | No carb life         | [How My Carnivore Success Made My Doctor a Believer](https://youtu.be/OAIXWxq41SI?si=-sXS7XNkFmJ5WXQf) |
-| (S)  | Video  | 1:04:47 |  1   | Dr Eric Westman      | [Why Doctors Aren't Taught Nutrition: Dr. Nick Norwitz Exposes The Truth](https://youtu.be/iOwP2fx3QeU?si=s0upTtxFYgH6DWh2) |
-| (S)  | Video  | 1:09:17 |  1   | Dr Eric Westman      | [From Obese & Diabetic  Bodybuilder: Richard Smith's Keto Comeback](https://youtu.be/WUdGxEe6t2I?si=hdQa7CSOObFcp2i6) |
-| (S)  | Video  | 1:58:37 |  1   | Feldman Protocol     | [From Death's Door to "Fringe" Keto MD PhD (Ft Nick Norwitz)](https://youtu.be/ehnNGDP4elg?si=mrSn0vJu1o39N_Bm) | 
-| (T)  | Video  | 0:01:09 |  1   | Dr Ford Brewer       | [How to Measure you Blood Pressure the Right Way (short)](https://www.youtube.com/watch?v=dP8oZ916pcE) |
-| (T)  | Video  | 0:12:23 |  1   | Dr Ford Brewer       | [#1 Best AT HOME Test to Find Clogged Arteries](https://youtu.be/GNayrvFhiVE?si=o7v-UsVkA09zKkS1) (blood pressure) |
-| (T)  | Video  | 0:20:04 |  1   | Primal Podcast       | [Don't Let Your Doctor Do THIS To You! - Dr Bosworthps://youtu.be/hfn5SfAy3Bg?si=SvTD_2mj5loFS2Ue) |
-| (T)  | Video  | 0:22:35 |  1   | Dr Ford Brewer       | [You're Measuring your Blood Pressure WRONG: Top 10 MISTAKES](https://www.youtube.com/watch?v=oygDkbEDKRw) |
-| (T)  | Video  | 0:28:39 |  1   | Dr Ford Brewer       | [#1 Best AT HOME Test to Predict Longevity](https://youtu.be/ao1vYrYl0iw?si=_ycoZEJlDly3qiLy) |
-| (U)  | Video  | 0:11:16 |  1   | Dr Ken Berry         | [Shrink ENLARGED PROSTATE in 7 Easy Steps (2024 Update)](https://youtu.be/B50d9imVvuE?si=DJU5r36n0sOq9HDM) |
-| (V)  | Video  | 0:31:19 |  1   | CarnivoreDoctor      | [Best way to SAVE YOUR VISION Learn How](https://www.youtube.com/live/LjhlH9uutE8?si=_UIO7CBckdvyRiAr) |
-| (W)  | Movie  | 0:01:20 |  1   | Gravitas             | [Fat Movie part 2](https://youtu.be/3u8jzKkMA98?si=z1llsdvl7H-cRTDP) |
-| (W)  | Movie  | 0:01:36 |  1   | Gravitas             | [Fat Movie part 1](https://youtu.be/iVJM_0XEiBI?si=9f9FvG8BuFb2Aqt4) |
-| (W)  | Video  | 0:05:47 |  1   | Dr Annette Bosworth  | [Why you can't lose weight with intermittent fasting](https://www.youtube.com/watch?v=mDyYN4nW9Rk) |
-| (W)  | Video  | 0:12:23 |  1   | Dr Annette Bosworth  | [72 Hour Fast Benefits, How it Effects Norepinephrine](https://www.youtube.com/watch?v=PRcTrRrcupg) |
-| (W)  | Video  | 0:12:55 |  1   | Dr Ken Berry         | [BEWARE: Fasting is Dangerous?](https://www.youtube.com/watch?v=cnnCwOhJJic&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=4) |
-| (W)  | Video  | 0:13:20 |  1   | Nick Norwitz PhD     | [Weighted Vests Cause Weight Loss - But Not for the Reason You Think](https://youtu.be/d5bwEQtjfzk?si=jO2i3FGIvNKixh-e) |
-| (W)  | Video  | 0:16:34 |  1   | Steak&Butter Gal     | [Just 1 Tablespoon A Day Guarantees Weight LOSS](https://youtu.be/88nLbzLQ7tY?si=fX8KC3-6-H_Gx4T2) |
-| (W)  | Video  | 0:23:31 |  1   | Lillie Kane          | [3 Major Problems with the Carnivore Diet](https://www.youtube.com/watch?v=MWVLCrMfvCQ) |
-| (W)  | Video  | 0:24:37 |  1   | Dr Sten Ekberg       | [1 Absolute Best Meal Plan To Lose Weight Faster](https://www.youtube.com/watch?v=LHO_6kkQodY) |
-| (W)  | Video  | 0:32:26 |  1   | Dr Sten Ekberg       | [Top 10 Fat Burning Foods For FAST Weight LOSS](https://youtu.be/8NRtHJqwuGA?si=vaYbwidqbxW-POcS) |
-| (W)  | Video  | 0:34:31 |  1   | Dr Paul Mason        | [Evidence-based keto: How to lose weight and reverse diabetes](https://youtu.be/LRHir1k9jmE?si=RGdJg1Vfhw2BFC2Y) |
-| (W)  | Video  | 0:35:27 |  1   | Ben Bikman PhD       | [Fatty Liver Disease](https://youtu.be/6jy6LgKg5Hw?si=0goBjqUm0O4Q7_xE) |
-| (W)  | Video  | 0:36:58 |  1   | Dr Annette Bosworth  | [Leptin: The hidden hormone behind insulin resistance nobody talks about](https://www.youtube.com/watch?v=MgOrvLhjAfM) |
-| (W)  | Video  | 0:42:59 |  1   | No Carb Life         | [Doctor Reveals Shocking Evidence For Carnivore](https://youtu.be/jvwZE10xR2o?si=DoJkLykuFXOE58kp) |
-| (W)  | Video  | 0:44:27 |  1   | Ben Bikman PhD       | [Fat: Why it Matters and What to Do About It](https://www.youtube.com/watch?v=gfikT_O4v9A&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=6) |
-| (W)  | Video  | 0:54:48 |  1   | Dr Annette Bosworth  | [Why are you so fat?](https://www.youtube.com/live/rm0Br-mTNtw?si=q_XBVtyQ9eHiDkZ0) |
-| (W)  | Video  | 0:56:34 |  1   | Primal Podcast       | [Dr Ben Bikman: The SURPRISING Scientific Way To Burn Belly Fat FAST](https://youtu.be/WAIQCrKjhp0?si=2DjoXka8AEZRyYWU) |
-| (W)  | Video  | 0:56:50 |  1   | Dr Jason Fung        | [BURN BODY FAT?](https://youtu.be/D8nArHgImrk?si=5P1vp2Fuq8-35lsH) |
-| (W)  | Video  | 0:59:52 |  1   | Dr Annette Bosworth  | [Losing 2Olbs with fasting (the ugly truth)](https://www.youtube.com/live/yKMSlpQjWxc?si=V0KR59I8zJ-tq-K_) |
-| (W)  | Video  | 1:01:50 |  1   | Dr Annette Bosworth  | [80lbs lost with and withOUT Autophagy](https://www.youtube.com/watch?v=82CPlwz6Pmc) |
-| (W)  | Video  | 1:10:50 |  1   | Ben Bikman PhD       | [The Truth about GLP 1, Ozempic & Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
-| (W)  | Video  | 1:10:50 |  1   | Ben Bikman PhD       | [The Truth about GLP 1, Ozempic and Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
-| (W)  | Video  | 1:24:08 |  1   | Primal Podcast       | [Ultimate Protein Guide: Lose Weight Faster: How Much You REALLY Need)](https://youtu.be/hHkxBEQaZdY?si=AfMCtgd06BTfK2kD) |
-| (W)  | Video  | 1:26:54 |  1   | Primal Podcast       | [#1 Fasting Doctor: The FASTEST Way To Lose Weight (Calories Don't Work) Dr Jason Fung](https://youtu.be/bREYYm_8xiQ?si=cjrWOwkMQzAXKdJc) |
-| (W)  | Video  | 1:30:23 |  3   | Dr Anthony Chaffee   | [Revolutionizing Nutrition: What You've Been Doing Wrong](https://youtu.be/K66nar1_zX8?si=5yprKMuAknpzWWY5) |
-| (W)  | Video  | 1:32:17 |  1   | Levels               | [Uncovering the SHOCKING Realities of OBESITY and Skinny Fat - Dr. Robert Lustig](https://youtu.be/sxJvfqTFttY?si=Ow9vJQ-1o7HEMgbd) |
-| (W)  | Video  | 1:32:21 |  1   | Dr Anthony Chaffee   | [Why We Are Carnivores Slide Presentation](https://www.youtube.com/watch?v=C-WUb3mJEso) |
-| (X)  | Video  | 0:01:17 |  1   | Dave Asprey          | [The End of Cardio: Burn Fat in 8 Minutes](https://youtube.com/shorts/x1CK0pWc6-4?si=gtBk1bmro6di1_y3) |
-| (X)  | Video  | 0:02:56 |  1   | 50% Awesome          | [REHIT Training Demo](https://youtu.be/DA7-l3l6AUg?si=10z4URONpD3hXiTB) |
-| (X)  | Video  | 0:03:40 |  1   | Coach Horne          | [Exercise & Brain Rap](https://youtu.be/Dl5kuaU5kxQ?si=8Q_Q_0ypMs9XK-in) |
-| (X)  | Video  | 0:05:14 |  1   | Cancer Rehab PT      | [Do Vibration Plates Work for Lymphatic Drainage?](https://www.youtube.com/watch?v=34SjhPuVdg4) |
-| (X)  | Video  | 0:06:15 |  1   | Dr Ford Brewer       | [High Intensity Interval Training for Older Adults!](https://youtu.be/Hj4nPnwIQ40?si=meX0pzKUdFnAfV77) |
-| (X)  | Video  | 0:08:28 |  1   | Wellness Daddy       | [The Life Changing Power Of Rebounding - Why I'll Never Stop Bouncing](https://www.youtube.com/watch?v=n2Nj_oFaM6s) |
-| (X)  | Video  | 0:09:15 |  1   | Dave Asprey          | [How I Work Out Only 20 Minutes A Week](https://youtu.be/dvaT6Fgy9ag?si=GMT0aOozjfH1-NQW) |
-| (X)  | Video  | 0:09:40 |  1   | Nick Norwitz PhD     | [Betaine: The Molecule Behind Exercise's Anti-Aging Effects](https://youtu.be/n5Nmb5h8buM?si=vLh2OmL-OXmAnWBG) |
-| (X)  | Video  | 0:10:44 |  1   | Dr Ratey             | [Run, Jump, Learn! How Exercise can Transform our Schools: John J. Ratey, MD a...](https://youtu.be/hBSVZdTQmDs?si=hJKP6yTMKBbvy9w7) |
-| (X)  | Video  | 0:18:36 |  1   | Func Nurse Prac      | [The hidden benefits of Vibration Therapy](https://www.youtube.com/watch?v=tFX0bJUsDrM) |
-| (X)  | Video  | 0:18:52 |  2   | Dr Ford Brewer       | [WARNING! Legs Weaken First: 3 Exercises Every Senior Must Do](https://youtu.be/4qllKrMIvmQ?si=9zBiBlQ4Yrn4glxv) |
-| (X)  | Video  | 0:23:25 |  1   | Dr Sten Ekberg       | [What is HIIT Training? Why HIlT Works? Fast Weight Loss With High Intensity Int...](https://youtu.be/EOlgg1Ud-UM?si=yPTJ4UmLGp_kAiMr) |
-| (X)  | Video  | 0:28:33 |  1   | Dr Sten Ekberg       | [WARNING! Your Legs WEAKEN First! Eat These 10 Foods To Strengthen Them!](https://youtu.be/_6-IUD6QPyI?si=jHfddTDpk5W43eb1) |
-| (X)  | Video  | 0:30:32 |  1   | Dr Sten Ekberg       | [WARNING! Your Legs WEAKEN First! Do These 10 EXERCISES To Strengthen Them!](https://youtu.be/yoJwmqS_0-8?si=GQzNQ3mxE88kJpAB) |
-| (X)  | Video  | 0:39:38 |  1   | Dr Ford Brewer       | [#1 Best Way to Stop Leg Cramps At Night (for 50+ (ft. Dr. Vega)](https://www.youtube.com/live/BFmdSGRZf5E?si=Z-EYfVYIeFnpOjQr) |
-| (X)  | Video  | 0:42:25 |  1   | Dr Ford Brewer       | [3 TIMES More Likely to Die If You Fail This Test (No One Talks About It)](https://youtu.be/mbhqBdw4V_4?si=S6yhxFEgbEW3P6j9) |
-| (X)  | Video  | 0:59:26 |  1   | Dr Ford Brewer       | [Over 60? 5 Exercises Youll Regret Ignoring…](https://www.youtube.com/live/OQz7_DNtXHA?si=HfD8P3WVT8CBAPdo) |
-| (X)  | Video  | 1:05:13 |  1   | Dr Ford Brewer       | [OVER 60? Top 3 Exercises You Need to Stay Strong and Steady](https://www.youtube.com/watch?v=nWR_OdC1liY) |
-| (X)  | Video  | 1:24:39 |  1   | Dave Asprey          | [The Japanese Walking Hack That REPLACES 10,000 Steps a Day](https://youtu.be/90tlaYua-HU?si=UqdiUGy6eO6XkNfs) |
+| Cat  | Type   |  Length | Fav  | Source                    | Description/Link  |
+| ---- | ------ | ------: | :--: | :------------------------ | ----------------- |
+| (+)  | Video  | 0:21:36 |  1   | Nick Norwitz PhD          | [Mind-Blowing Metabolism! Breakthroughs from the 2024](https://youtu.be/wY0GTs_t48s?si=oxQ7fD0G2elsDp-p) |
+| (A)  | Series | 1:00:00 |  1   | The Nerve Doctors         | [Reversing Diabetic Neuropathy](https://youtube.com/playlist?list=PLx8sKK_MHk6HZiOig0FXcu06Zb_WlCH7k&si=b1fDdakD6N8f87qj) |
+| (A)  | Video  | 0:07:00 |  1   | Dr Eric Berg              | [Use Your Feet As Warning Signs](https://youtu.be/KGIX50eYaGU?si=pueHHQECDzHo_jRO) |
+| (A)  | Video  | 0:07:35 |  1   | The Nerve Doctors         | [What's the Right Nutrient Dose for Nerve Repair](https://youtu.be/dKMPMPJM4JY?si=U0bok7RUqmMo4PB3) |
+| (A)  | Video  | 0:16:03 |  1   | Nick Norwitz PhD          | [Metabolic Mayhem!](https://youtu.be/65q5NG7uba0?si=gNUVg38i-kB54rg8) |
+| (B)  | Course | 0:01:00 |  1   | myCME                     | [Managing Major Mental Illness with Dietary Change: The New Science of Hope](https://www.mycme.com/courses/managing-major-mental-illness-with-dietary-change-9616) |
+| (B)  | Video  | 0:00:50 |  1   | Dr Annette Bosworth       | [I'm on Team Reversible (Alzheimer’s](https://youtube.com/shorts/XOSlUiHHRrw?si=MO9rwKEvvvxnYTlL) |
+| (B)  | Video  | 0:01:04 |  1   | Nick Norwitz PhD          | [Why Sleep is the Ultimate Brain Hack](https://youtube.com/shorts/r-FYy_eEV4w?si=g0ekTCETZNyIL8Ma) |
+| (B)  | Video  | 0:01:06 |  1   | Dave Asprey               | [Optimal Stress](https://youtube.com/shorts/PiWG5uJ6xuE?si=HYvK-yqJpkvQsrKa) |
+| (B)  | Video  | 0:01:36 |  1   | Metabolic Mind            | ["I stumbled upon this life quite by accident."](https://youtube.com/shorts/7r3rgdG0-54?si=vfEqZctBxaVEDhtu) |
+| (B)  | Video  | 0:06:15 |  1   | Dr Annette Bosworth       | [Don't tell your doctor you are depressed. Here's why](https://youtu.be/mqyk4om776Q?si=AS3K-Tgu3sOKXcUU) |
+| (B)  | Video  | 0:07:05 |  1   | Metabolic Mind            | [The Connection Between Metabolic and Mental Health](https://youtu.be/3O7DHiMRfmU?si=1UL_Hajvhk0dkK1e) |
+| (B)  | Video  | 0:08:37 |  1   | Thomas DeLauer            | [3g Makes You Sleep 8 Hours Straight WITHOUT Getting Up to PeeTITLE](https://youtu.be/8NbwzbO60Xo?si=fkwtKdkcXx3Ulx97) |
+| (B)  | Video  | 0:09:03 |  1   | Nick Norwitz PhD          | [Inflammation Causes Anxiety: Root Cause and Cure](https://youtu.be/9azjuXdSYSg?si=sUeM83qO1q6uUH1k) |
+| (B)  | Video  | 0:11:24 |  1   | Nick Norwitz PhD          | [Why is sleep important](https://youtu.be/KNzTbr0B8aQ?si=zsqoOMYq1SE4Ofzg) |
+| (B)  | Video  | 0:11:27 |  1   | Nick Norwitz PhD          | [A Deep Dive into Sleep, Light and Mitochondria (with a Surprise)](https://youtu.be/A8lH6bASGRg?si=GPywCgB20eGfjb97) |
+| (B)  | video  | 0:11:28 |  1   | Nick Norwitz PhD          | [How a Common Kitchen Spice Could Boost Brain Function and Mental Health](https://youtu.be/rF0c31ssn7g?si=g9-gUBI1yu-YXcJB) |
+| (B)  | Video  | 0:13:25 |  1   | Nick Norwitz PhD          | [Keto Diet Dramatically Improves Depression Symptoms! New Study...](https://youtu.be/RWvCaf6ueDo?si=JF6ojBjV7JeiK-ro) |
+| (B)  | Video  | 0:15:55 |  1   | Nick Norwitz PhD          | [5 Quick and Easy Biohacks for 2025](https://youtu.be/MjABB8wvitM?si=0-6TJkmP7yb-dVqt) |
+| (B)  | Video  | 0:16:46 |  1   | Holly                     | [After a Year of 3 AM Wakeups, I Finally. Fixed My Sleep](https://youtu.be/7ulKd1_sp5Y?si=2vvRLGezKt4FO5oe)] |
+| (B)  | Video  | 0:24:58 |  1   | Dr Eric Berg              | [How to Fall Back Asleep FAST (Even at 2AM)](https://youtu.be/gq5wEe7hmfo?si=16eVnUzP7fEPJiKR) |
+| (B)  | Video  | 0:25:02 |  1   | Ben Bikman PhD            | [26: Sleep and Insulin Resistance](https://youtu.be/TbsbFk17mQ0?si=AdJ5o-mpB0CwHBDu) |
+| (B)  | Video  | 0:31:30 |  1   | Metabolic Mind            | [Keto for Depression: ~70% Improvement for College Students in New Study](https://youtu.be/kN0kHPVM3lw?si=tJhRRf6tfSChfWyT) |
+| (B)  | Video  | 0:35:59 |  1   | metabolic mind            | [Visceral Fat and the Chronic Health Epidemic](https://youtu.be/cHGmkg30470?si=Rhnlk2Ww7P4CxCZg) |
+| (B)  | Video  | 1:00:53 |  3   | Dr Annette Bosworth       | [Sleep Lecture + BDNF + Training](https://youtu.be/E020nmykCHw?si=-nPrIvwVQrX9aSR8) |
+| (B)  | Video  | 1:07:30 |  1   | Primal Podcast            | [Neuroscientist: If You EAT THIS, You Are Protected From Dementia](https://youtu.be/vnxcZJmAm34?si=C4ZlYQ-yvzQuJ6d0) |
+| (B)  | Video  | 1:13:29 |  2   | Dr Ford Brewer            | [How I Fixed My Terrible Sleep Scores](https://www.youtube.com/live/DEBD1lfL33g?si=T7CbZ4FK_Smle_fE) |
+| (B)  | Video  | 1:14:49 |  1   | Primal Podcast            | [#1 Brain Doctor: Prevent Dementia & Alzheimer's](https://youtu.be/6UgM-zrrpZA?si=v-jCOGUt4otIze96) |
+| (B)  | Video  | 1:17:26 |  1   | Primal Podcast            | [The Brain Doctor: #1 Dementia Treatment](https://youtu.be/5oXvYAmZVyU?si=KJroMXAMmkySwSwW) |
+| (B)  | video  | 1:29:51 |  1   | Primal Podcast            | [#1 Harvard Doctor: The Most Harmful Foods Causing Brain Disease (EAT THIS)](https://youtu.be/HUvBy0VMLDY?si=nQjiRAHBJDPtxe7C) |
+| (C)  | Movie  | 1:00:00 |  3   | CanceREvolution           | [Cancer Evolution film](https://www.youtube.com/@CANCEREVOLUTIONdoc) |
+| (C)  | Video  | 0:00:56 |  1   | Dr Thomas Seyfried        | [Cancer is very preventable](https://youtube.com/shorts/PyPqJsKoe7M?si=x4uRz5LslnU7qd3x) |
+| (C)  | Video  | 0:01:00 |  1   | Dr Anthony Chaffee        | [Steak won't give you cancer](https://youtube.com/shorts/sTMW7zPhFEc?si=azgW4vHXJ7h3HQrg) |
+| (C)  | Video  | 0:01:02 |  1   | Dave Asprey               | [What would you do](https://youtube.com/shorts/ZDcSK0PFEEM?si=1RuN3hynZxgnBCHt) |
+| (C)  | Video  | 0:09:42 |  1   | Nick Norwitz PhD          | [Keto vs Colon Cancer: The Microbiome Missing Link](https://youtu.be/GGbQDstmty4?si=qG5KH86iZbfVu5XK) |
+| (C)  | Video  | 0:18:11 |  1   | Dr Ben Miles              | [Scientists Just Discovered How to Starve Cancer](https://youtu.be/ze2rmsLiTfA?si=eAXmHIZvOAT2I6SB) |
+| (C)  | Video  | 0:37:42 |  1   | Public Health Consortium  | [Dr Isabella Cooper // Keto Endocrine Metabolic Oncology (KEMO) Therapy for Cancer](https://youtu.be/TSVUnS8zrZA?si=6cVWwkdS2S7hT17h) |
+| (C)  | Video  | 0:42:07 |  1   | AI & Health               | [Can a keto diet eliminate cancer growth? Dr Seyfried says yes](https://www.youtube.com/watch?v=qa3j40c8iAo&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=2) |
+| (C)  | Video  | 0:43:41 |  1   | Public Health Consortium  | [Dr Matthew Phillips // Mitochondria, Terrain, Cancer](https://youtu.be/sf5MZR7ENq0?si=xlrV6JydCvNysFP0) |
+| (C)  | Video  | 0:50:22 |  1   | Public Health Consortium  | [Prof Thomas Seyfried // Cancer as a Mitochondrial Metabolic Disease](https://youtu.be/sgbvr1R23rw) |
+| (C)  | Video  | 0:50:30 |  1   | Dr Annette Bosworth       | [My honest advice to someone with cancer](https://www.youtube.com/watch?v=BrZ-0Fqu5kk) |
+| (C)  | Video  | 0:51:42 |  1   | Public Health Consortium  | [Dr Eric Westman // The “Fad Low Carb Diet” Never Fades](https://youtu.be/O6_61XryVSI?si=lGArTLpKbv3PMswY) |
+| (C)  | Video  | 0:51:58 |  1   | Dr Annette Bosworth       | [My husband might have cancer. He should've listened](https://www.youtube.com/watch?v=fZnydK9KskU) |
+| (C)  | Video  | 0:57:40 |  1   | Dr Shawn Baker            | [Cancer Doctor Flips the Script on Treatment - Dr. Katie Deming](https://youtu.be/hhheuYc6Gxo?si=KGJ2zwJIzQ1nUfDL) |
+| (C)  | Video  | 0:57:40 |  1   | Shawn Baker               | [Cancer Doctor Flips the Script on Treatment - Dr. Shawn Baker & Dr. Katie Deming](https://youtu.be/hhheuYc6Gxo?si=FBuwf38Mdxfwm-lT) |
+| (C)  | Video  | 0:59:01 |  1   | Dr Perlmutter             | [The Fasting Mimicking Diet - A Powerful Tool for Treating Cancera - Valter Longo](https://youtu.be/o7uSZ8ZVIKE?si=9ke6qZ_5iK4wwmA6) |
+| (C)  | Video  | 1:02:48 |  1   | Dr Thomas Seyfried        | [The Cancer Expert: "These Common Foods Are Feeding Cancer Cells!"](https://www.youtube.com/watch?v=NB45-iLYDTg) |
+| (C)  | Video  | 1:04:22 |  3   | Dr Thomas Seyfried        | [Here’s How To Poison Tumors (FOR GOOD)](https://youtu.be/0sMXs_hp4Ww?si=FkM3MthM1ZKajRKf) |
+| (C)  | Video  | 1:06:50 |  1   | Dr Deming                 | [Cancer Doc Promotes Keto Prevention](https://www.youtube.com/watch?v=V0_vVe1NxU4&list=TLPQMDYwODIwMjRwTZ_clEYDNQ&index=1&pp=gAQBiAQB) |
+| (C)  | Video  | 1:12:57 |  1   | Primal Podcast            | [Eat HIGH FAT: The Fastest Way To Kill Cancer Cells (Thomas Seyfried)](https://youtu.be/D0L0uG2l6Zc?si=8sm_tih2NjHVQsIM) |
+| (C)  | Video  | 1:12:57 |  3   | Primal Podcast            | [Eat HIGH FAT: The Fastest Way To Kill Cancer Cells (Thomas Seyfried)](https://youtu.be/D0L0uG2l6Zc?si=7FVg0EgSXMIBmJtS) |
+| (C)  | Video  | 1:14:41 |  1   | Primal Podcast            | [The Cancer Doctor: Starve Cancer Cells With A HIGH FAT Diet (EAT THIS)](https://youtu.be/eYs4wt5dg9Y?si=icB6_rNBixiF8Fd3) |
+| (C)  | Video  | 1:16:47 |  1   | Public Health Consortium  | [#CANCER PANEL // Prof Thomas Seyfried, Dr Isabella Cooper, Dr Matthew Phillips, @anthonychaffeemd](https://youtu.be/NE90rxo4VjY?si=husTgYqnHoIpgxe3) |
+| (C)  | Video  | 1:21:29 |  1   | 5 minute body             | [Dr. Thomas Seyfried, the #1 Cancer Expert: This is what REALLY feeds C...](https://youtu.be/tZE7Mj-xfSg?si=H0N2Fn65-OvWPdnS) |
+| (C)  | Video  | 1:26:56 |  1   | Tucker                    | [Dr. Patrick Soon-Shiong: You're Being Lied to About Cancer, Cause & Cure](https://youtu.be/mgZaT-OriO8?si=KIYSXanZbaW9fu6n) |
+| (C)  | Video  | 2:06:07 |  1   | Diary of a CEO            | [Chronic Disease Doctor: We Can Now Reverse Some Stage 4 Cancer?](https://youtu.be/LgsJ3V9pIG0?si=Q2pgsENzpP8pRKp7) |
+| (D)  | Video  | 0:01:00 |  1   | Dr Eric Berg              | [What Nomal Blood sugar looks like](https://youtube.com/shorts/uyzfpCpRL0g?si=kkzyseGebXUM1i6J) |
+| (D)  | Video  | 0:02:02 |  1   | Dr Annette Bosworth       | [5 Surprising Foods that Spike Insulin](https://www.youtube.com/watch?v=OkrTAnO2uJg) |
+| (D)  | Video  | 0:07:23 |  2   | Dr Annette Bosworth       | [How to Reverse Insulin Resistance](https://youtu.be/0Hp99Zrjgrg?si=5fwQcNA0eGBwtG4p) |
+| (D)  | Video  | 0:11:57 |  1   | Dr Jason Fung             | [How to Lower Blood Sugar Without Cutting Carbs - The Diabetes Code Clinic part 6/6](https://youtu.be/V2KKGM-_GA0?si=7dpmYmvPO-_Gxh-I) |
+| (D)  | Video  | 0:29:22 |  2   | Ben Bikman PhD            | [“Fast” vs. “Slow” Insulin Resistance: The Two Paths Explained](https://www.youtube.com/watch?v=bzN6cDyLR64) |
+| (D)  | Video  | 0:32:40 |  1   | Dr Ford Brewer            | [These 5 Everyday Foods SPIKE Your Blood Sugar DANGEROUSLY](https://youtu.be/mBiMJ7QhGm8?si=OAbBWFEUEXYQw6eW) |
+| (D)  | Video  | 0:33:57 |  1   | Ben Bikman PhD            | [Uric Acid](https://www.youtube.com/watch?v=Eh6pg3jBPEk) |
+| (D)  | Video  | 0:36:38 |  1   | Ben Bikman PhD            | [63: The Randle Cycle - How Your Body Chooses Between Glucose and Fat](https://youtu.be/OlsjnLMANDQ?si=_g_mNJpnSk5Lvrb_) |
+| (D)  | Video  | 0:38:55 |  1   | Metabolic Mind            | [How This Doctor Put Over 150 Patients into Diabetes Remission](https://youtu.be/PJQ5e5jwSxY?si=wl5ppTOy4Wd9-3qk) |
+| (D)  | Video  | 0:43:21 |  1   | Nick Norwitz PhD          | [Stanford's Top Researcher (Michael Snyder) Reveals What Really Causes Diabetes](https://youtu.be/mCrc4gfbK2o?si=EenFhwejsi9_v79r) |
+| (D)  | Video  | 0:52:44 |  1   | Nick Norwitz PhD          | [Diabetes Scientist Reveals What They Don't Teach in Medical School...](https://youtu.be/-vdol1TSxoc?si=VnwQMF-h4yqKGuvx) |
+| (D)  | Video  | 0:52:57 |  1   | Dr Eric Westman           | [Type 2 Diabetes - part 2](https://vimeo.com/1057213205/5daa79b816?ts=0&share=copy&utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%8C%7BREPLAY%7D%20-%20How%20to%20achieve%20normal%20blood%20sugars%20without%20diabetes%20medication%20-%2016632954) |
+| (D)  | Video  | 0:56:47 |  2   | Dr Annette Bosworth       | [Two Magic Words to Know if You've Reversed Insulin Reistance](https://www.youtube.com/watch?v=OOa5iBdOW7w) |
+| (D)  | Video  | 0:59:54 |  2   | Dr Annette Bosworth       | [Why You Are NOT Reversing Your Insulin Resistance](https://www.youtube.com/watch?v=UvZpfxdm5hk) |
+| (D)  | Video  | 1:02:46 |  1   | Dr Ken Berry              | [Reversing T2D & The American Diabetes Society](https://www.youtube.com/live/W_xWso4WYjs?si=Ip5FeyAmGTc6lMu_) |
+| (D)  | Video  | 1:03:59 |  1   | Dr Eric Westman           | [Why the Science Around Carbs, Seed Oils & Diabetes Is Broken With Prof. Bart Kay](https://youtu.be/mvmHpC-FCX4?si=uTmpDcQ97QW8h7H0) |
+| (D)  | Video  | 1:15:49 |  1   | Ben Bikman PhD            | [4 Steps to Reverse Insulin Resistance](https://youtu.be/IrbhAk3lWcI?si=PgipBUVzOCGmx5Aw) |
+| (D)  | Video  | 1:20:31 |  1   | Dr Means                  | [93% of Adults Have Metabolic Issues (10 COMMON Signs)](https://youtu.be/K8DSx1pM_3Q) |
+| (D)  | Video  | 1:26:34 |  1   | Primal Podcast            | [The Longest HIGH FAT Study Ever Conducted is Finally Finished (Surprising Results)](https://youtu.be/0m-HjyqDKNQ) |
+| (D)  | Video  | 1:53:17 |  1   | Dr Shanahan               | [The REAL Cause of Insulin Resistance (Stop Eating This!)](https://youtu.be/tN9o1oBDX-M?si=vZvpr-VORTZKn3yu) |
+| (E)  | Video  | 1:06:35 |  1   | Dr Annette Bosworth       | [The BIGGEST LIE about Hormone Replacement Therapy (HRT)](https://www.youtube.com/live/72eSVVO9bpY?si=1sX1w0Pi6ezLmJSQ) |
+| (F)  | Movie  | 1:00:16 |  1   | Fraizer Bailey            | [The Truth About (Adult) Stem Cells](https://youtu.be/gXIHxsaBi34?si=7UyAvo8YIvW9l_T9) |
+| (F)  | Movie  | 1:42:22 |  1   | Youtube                   | [Fat Fiction](https://youtu.be/j3fYf38AU6w?si=i6IgxlNO8P5YFze2) |
+| (F)  | Video  | 0:01:06 |  3   | Dr Lufkin                 | [Why Your Doctor LIES To You](https://www.youtube.com/live/ZkkbwA7We2U?si=v9tZFAQJoxf_a65R) |
+| (F)  | Video  | 0:01:29 |  1   | Dr Saladino               | [Serena Williams, we need to talk](https://youtube.com/shorts/t1N4PAnFkgU?si=6hy7a0TjFDQ3C4S_) |
+| (F)  | Video  | 0:03:49 |  1   | Dr Annette Bosworth       | [What Doctors Weren't Allowed to Say about HRT](https://youtu.be/VylHOCl8ZuM?si=UX1rQGN2J73bvHIJ) |
+| (F)  | Video  | 0:04:22 |  1   | ?                         | [The Great Cholesterol Scam](https://youtu.be/btUNkUlUIeQ?si=naDI7S0LZgdH6lxJ) |
+| (F)  | Video  | 0:06:18 |  1   | no carb life              | [The Shocking Way Big Pharma ALWAYS Wins](https://youtu.be/rIgOo_MA47Y?si=ZKH7xSGEMGqG1ypd) |
+| (F)  | Video  | 0:09:29 |  1   | Dr Baker                  | [No Science Behind Carnivore - Doctor Reacts](https://youtu.be/pJKJrvtwB4w?si=g15mjRk83wz4niX_) |
+| (F)  | Video  | 0:14:36 |  1   | Dr Nick Norwitz           | [The Hidden Flaw in Low-Carb “Science”](https://youtu.be/RRsmJ4rcKWw?si=hLKTY4Hh1M11QOs4) |
+| (F)  | Video  | 0:15:03 |  1   | Nick Norwitz PhD          | [Ignorance Is Bliss: The Dark Truth About Chocolate & Diabetes](https://www.youtube.com/watch?v=i9IgjxtTDEM) |
+| (F)  | Video  | 0:16:19 |  1   | Lillie Kane               | [3 Red Flags of Health Influencers: Who l Actually Watch vs. Avoid](https://youtu.be/DrCMj_4IXpc?si=8RweS9Weam4NC2z2) |
+| (F)  | Video  | 0:16:19 |  1   | Lillie Kane               | [3 Red Flags of Health Influencers: Who l Actually Watch vs. Avoid](https://youtu.be/DrCMj_4IXpc?si=EygOoQpwn7K3nPJU) |
+| (F)  | Video  | 0:20:25 |  1   | Steak&Butter Gal          | [McDonald's EXPOSED: Why I'm NEVER Eating Here Again!](https://www.youtube.com/watch?v=MlFOL0th0ec) |
+| (F)  | Video  | 0:20:53 |  1   | Lillie Kane               | [Doctors Are Saying ‘No’ More Than Ever Before](https://youtu.be/Zvj0cKz-KAA?si=p5Ve0Odo_FCJvR0R) |
+| (F)  | Video  | 0:22:06 |  1   | Ben Bikman PhD            | [The China Study Revisited - Science vs. Storytelling](https://youtu.be/tSkD7y-Zspo?si=h_iMufPmS36-__wM) |
+| (F)  | Video  | 0:24:59 |  1   | Dr Ford Brewer            | [Watch This Video Before Stopping Baby Aspirin](https://youtu.be/9VQtnHAakwQ?si=Hmk2EnCV6FoYpr_j) |
+| (F)  | Video  | 0:29:46 |  1   | Dr Sten Ekberg            | [#1 Most DANGEROUS Cholesterol Lie You Must Know!](https://youtu.be/dQLkDijNE2A?si=UriUk4mG9nkkorYM) |
+| (F)  | Video  | 0:30:33 |  1   | Carn Squad                | [Massive Data Leaked...3 Stunning Carnivore Studies Retrieved](https://youtu.be/vjhX400AQG4?si=aA82XrI6H5vfCR00) |
+| (F)  | Video  | 0:30:40 |  1   | Feldman                   | [The Guidelines are Broken, and Always Have Been -- Nina Teicholz](https://youtu.be/uGP__VZiR30?si=FHWjU4I1wVCBIbaT) |
+| (F)  | Video  | 0:32:23 |  1   | Carnivore squad           | [Absolutely Chilling CARNIVORE Findings - Dusty Basement Discovery](https://youtu.be/d8izVfy2tN8?si=xs7CGRrJkT4f09MK) |
+| (F)  | Video  | 0:47:46 |  1   | Dr Ford Brewer            | [Big Food's Dirty Secret Exposed! ft. Dr. Lustig](https://www.youtube.com/watch?v=0l3o-MZl4ts&t=0) |
+| (F)  | Video  | 0:47:58 |  1   | Dr Ford Brewer            | [Nutrition Expert Exposes the LIES of Big Food & Big Pharma (The Real Ca...](https://youtu.be/plpOJiBkwyM?si=JcUfJoh_AlumNefE) |
+| (F)  | Video  | 0:54:22 |  1   | No Carb Life              | [The Truth That Destroyed My Faith in the System](https://youtu.be/z0hg_JmY9LU?si=p1EaMisAALvSgSBU) |
+| (F)  | Video  | 0:56:51 |  1   | Dr Ken Berry              | [Why Dieticians Give Bad Advice](https://www.youtube.com/live/5DMN5kAXQT4?si=fdNJoSfDLx1GwlnS) |
+| (F)  | Video  | 1:09:36 |  1   | Dr Eric Westman           | ["Big Pharma Is Fooling You and You Don't Even Know It!" UNCUT - Doctor Reacts](https://www.youtube.com/watch?v=SyLVrHWZTEc) |
+| (F)  | Video  | 1:10:09 |  3   | Boz & Berry               | [About being a Doctor on Youtube and Keto!](https://www.youtube.com/watch?v=_sHgwxDHGYE) |
+| (F)  | Video  | 1:10:28 |  1   | Dr Kilz                   | [Why Your Doctor Might Be Wrong About Nutrition @KenDBerryMD](https://youtu.be/6GPCG93Aro0?si=MV5kCDCeInc-ok90) |
+| (F)  | Video  | 1:10:45 |  1   | Dr Ken Berry              | [Carnivore Diet Dangers? 2 Doctors Answer Questions - Dr Chaffee](https://www.youtube.com/watch?v=bVj_kYUM0Sk) |
+| (F)  | Video  | 1:12:26 |  1   | Dr Eric Westman           | [Big Pharma Lies: What They Don't Want You to Know About Statins with Dave Feldman](https://www.youtube.com/watch?v=tKWaS9-8zLQ) |
+| (F)  | Video  | 1:12:42 |  1   | Primal Podcast            | [Fix Oxalate Dumping: 30 'Healthy' Foods Making You Sick (Sally Norton)](https://youtu.be/XKq9t1nOlng?si=Lb4LcBhjvnrpmZQC) |
+| (F)  | Video  | 1:15:59 |  3   | Dr Annette Bosworth       | [**SHOW DOCTORS** What Physicians Need to Know About the Ketogenic Diet](https://youtu.be/WtcK8lZV1AM?si=cadfge58QArkvEkK) |
+| (F)  | Video  | 1:24:10 |  1   | Dr Ford Brewer            | [I Used to Fully Trust Research - Until I Read This Paper](https://www.youtube.com/live/DUg0sneldhs?si=ymIHT8JTE6unIpAC) |
+| (F)  | Video  | 1:58:03 |  1   | Heritage Foundation       | [What’s on Your Plate? Rethinking Nutrition Guidelines and Chronic Disease](https://www.youtube.com/live/wJdtMwZ8NqA?si=zkdiCWCdYTQ8pXhy) |
+| (G)  | Video  | 0:03:21 |  1   | Dr Annette Bosworth       | [Three Myths About Cholesterol People Still Believe](https://youtu.be/3GP2CbUNHPs?si=vtVOrT0vTQxa8R9f) |
+| (G)  | Video  | 0:05:00 |  1   | Carnivore Tribe           | [Professor Bart Kay THE RANDLE CYCLE](https://www.youtube.com/watch?v=vcnAepLf5tU) |
+| (G)  | Video  | 0:13:16 |  1   | Nick Norwitz PhD          | [The Power of CAC = 0: When Does LDL Matter?](https://youtu.be/_t-6qirB5-I?si=U7ZIk5rhs-1ftftR) |
+| (G)  | Video  | 0:18:06 |  1   | Professor Bart Kay        | [The Randle Cycle - Why You Should NOT Eat a “Balanced” Diet!!!](https://youtu.be/qaW1n0HAi2w?si=1NC8rUB492zQpj_I) |
+| (G)  | Video  | 0:19:49 |  1   | Dr Sten Ekberg            | [No Carb Foods Can Still Spike Your Blood Sugar](https://youtu.be/jNpwxgfihiA?si=KTVeXrlPu7uvw5eX) |
+| (G)  | Video  | 0:26:55 |  1   | Dr Ford Brewer            | [The Shocking TRUTH About Eggs & Heart Disease (NEW Evidence)](https://youtu.be/Ti6Wl6aKl-I?si=V3VYQA2qoEksdYhn) |
+| (G)  | Video  | 0:35:10 |  1   | Dr Sten Ekberg            | [Top 10 Foods That DESTROY Your Blood - Sugar!](https://youtu.be/i1QkD8neXgo?si=N_Hl6CiTNHUlBavi) |
+| (G)  | Video  | 0:35:22 |  3   | Dr Robert Cywes           | [The Randle Cycle - Explained and Demystified](https://www.youtube.com/watch?v=0XIXUBi9v7s) |
+| (G)  | Video  | 1:01:14 |  3   | Judy Cho                  | [Dangers of Mixing Carbs and Fat - Randle Cycle Discussion with Bart Kay](https://youtu.be/qaW1n0HAi2w?si=amnE8Cwg7UxIEBH9) |
+| (G)  | Video  | 1:19:46 |  1   | Nick Norwitz PhD          | [Master The Microbiome: A Deep Dive into Nutrition and Gut Health](https://youtu.be/IyDW_LAUa04?si=apVH0ySFQwz_vHh-) |
+| (G)  | Video  | 1:22:41 |  1   | Dr Ken Berry              | [BREAKING THE BLOOD GLUCOSE MYTH WITH DR. ROBERT CYWES](https://www.youtube.com/live/5VyFdIU6IGs?si=9u9BbMMH9R3U_JpH) |
+| (H)  | Video  | 0:02:03 |  1   | Dr Ford Brewer            | [Do seed oils inflame arteries?](https://youtube.com/shorts/R16CdKqFfIw?si=omEwlAksgxl_tn0p) |
+| (H)  | Video  | 0:04:05 |  2   | Dr Annette Bosworth       | [The #1 supplement to reverse fatty liver](https://youtu.be/d39z1XrGn18?si=wCCX7yv5HywF5Ofb) |
+| (H)  | Video  | 0:06:50 |  1   | Dr Paul Mason             | [Saturated Fats Don't Increase Heart Disease - Here's the Proof! - ...](https://youtu.be/LrtN7DddE6I?si=ycWOgF_E0XKsCKty) |
+| (H)  | Video  | 0:09:14 |  1   | Dr Ford Brewer            | [Citrulline: Does it work? Uses for NO, ED, Athletics](https://youtu.be/w-qpJtrIcd0?si=KG2pxKHX4HsWqccW) |
+| (H)  | Video  | 0:10:37 |  1   | Dr Nick Norwitz           | [She Saved My Heart... Without Even Knowing It](https://youtu.be/VPCxp0AqDwM?si=H8AQPALxWTswhmBs) |
+| (H)  | Video  | 0:13:18 |  1   | Jesse Chappus             | [You CAN'T Have a Heart Attack Without THIS... (Not High LDL Cholesterol) - Dr. Sea...](https://youtu.be/mVV-v_roZMI?si=t_4R13X0eppumRCl) |
+| (H)  | Video  | 0:13:59 |  1   | Adam Story                | [11 MISTAKES IN MEASURING YOUR OWN BLOOD PRESSURE](https://youtu.be/n01wAPHDeGA?si=sK2gFqa7UP9OzIBa) |
+| (H)  | Video  | 0:21:10 |  1   | Dr Ford Brewer            | [#1 Best Way to Find Clogged Arteries](https://www.youtube.com/watch?v=fV7DqKCVrro) |
+| (H)  | Video  | 0:21:23 |  1   | Dr Ford Brewer            | [#1 Best Meal to Unclog Your Arteries](https://youtu.be/w_0gn_9Vt9E?si=Jx_MnhHlx7KKfqqK) |
+| (H)  | Video  | 0:22:10 |  1   | Dr Ford Brewer            | [These 10 Mistakes Make Your Blood Pressure Look Too High](https://youtu.be/oygDkbEDKRw?si=KJDbLVxSoD_cCOnt) |
+| (H)  | Video  | 0:22:45 |  1   | Jesse Chappus             | [Cardiologist EXPOSES Why Doctors Are Wrong About LDL Cholesterol - Dr. Pradip J...](https://youtu.be/qHS2yGKdGs8?si=EHxMRXTU1VZV8pUr) |
+| (H)  | Video  | 0:23:38 |  1   | Dr Sten Ekberg            | [#1 Absolute First Sign of KIDNEY DISEASE Is...](https://youtu.be/8AP6eo9XaNY?si=c5bYfZTQVUA5D18Q) |
+| (H)  | Video  | 0:25:13 |  1   | Dr Ford Brewer            | [The SHOCKING Truth about Aspirin - What Your Doctor Isn't Telling You](https://youtu.be/k6elt8uoWy4?si=u5kNpejIWcBQ_ILR) |
+| (H)  | Video  | 0:30:03 |  1   | Metabolic mind            | [Do We Have Kidney Health All Wrong?](https://youtu.be/zsSY_2f4xGI?si=Fj2WwtA3OrVwH0z) |
+| (H)  | Video  | 0:30:46 |  1   | Dr Ford Brewer            | [#1 Worst Meal that Clogs Your Arteries](https://www.youtube.com/watch?v=xRwVxuPCzsc) |
+| (H)  | Video  | 0:32:19 |  2   | Dr Ford Brewer            | [How I Cleaned Out My Arteries In 1 Year](https://www.youtube.com/watch?v=yYLym9PiJtA) |
+| (H)  | Video  | 0:32:20 |  1   | Dr Ford Brewer            | [How I Cleaned Out My Arteries In 1 Year](https://youtu.be/yYLym9PiJtA?si=WhEWC7zdBKv4OMc5) |
+| (H)  | Video  | 0:33:24 |  1   | Dr Ford Brewer            | [The TRUTH About Statins - What Your Doctor Isn't Telling You](https://youtu.be/gvC9PG-2yhM) |
+| (H)  | Video  | 0:33:27 |  1   | Dr Ford Brewer            | [Top 7 Foods That Clean Out Arteries](https://www.youtube.com/watch?v=WYK-NOPbtfA) |
+| (H)  | Video  | 0:33:28 |  1   | Dr Elberg                 | [The Shocking Truth About Eggs & Heart Disease](https://youtu.be/soB7oOY-kJI?si=1-y3itqbFgxzEd3p) |
+| (H)  | Video  | 0:36:29 |  1   | Dr Ford Brewer            | [How I Use Statins to Unclog Arteries](https://youtu.be/sJmTCNg9wDI?si=yQa8r7shuls4Nxok) |
+| (H)  | Video  | 0:37:14 |  3   | Dr Ovadia                 | [Heart Surgeon: The WORST Food Destroying Your Heart – interview](https://www.youtube.com/watch?v=i4XUcNcO0dw&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=5&pp=gAQBiAQB) |
+| (H)  | Video  | 0:37:55 |  1   | Dr Ford Brewer            | [I Diagnosed 1000 Cases of Diabetes Using THIS Test (Do you Have it?)](https://youtu.be/DT9whLgzviw?si=PNIHnUAKPt36mYD3) |
+| (H)  | Video  | 0:42:02 |  1   | Dr Ford Brewer            | [5 Silent Signs of Clogged Arteries You Should Never Ignore (Even if You Feel Fine)](https://youtu.be/CR_jDgBg-20?si=vzs7_-R2oiMs3sfZ) |
+| (H)  | Video  | 0:44:03 |  1   | Dr Annette Bosworth       | [If you see this ... GO TO THE DOCTOR NOW](https://www.youtube.com/live/1jPvRlKmanA?si=N6KtB_G2TWc0Of1m) |
+| (H)  | Video  | 0:45:34 |  1   | Dr Ford Brewer            | [How to Lower Blood Pressure Without Pills - 10 Easy Ways](https://youtu.be/6A-gSYpZy60?si=TSXiizEe2aJG52uO) |
+| (H)  | Video  | 0:50:44 |  1   | Dr DeLauer                | [Visceral Fat Doctor Discovers the Only Thing Worse than Insulin Resistance (and viscera...](https://youtu.be/sa90KtdO2po?si=_WY3aAjAbrcttHe0) |
+| (H)  | Video  | 0:59:50 |  1   | Laura Hughes              | [heart disease (carnivore vs. vegan doctors)](https://youtu.be/c9uIl4p_MZ8?si=Q_UYPPKyOgNccrCi) |
+| (H)  | Video  | 0:MM:SS |  1   | Dr Ford Brewer            | [You've Been Lied to About Cholesterol & Heart Disease](https://youtu.be/mWKmhn5jKiQ?si=UyElMelNuKuiU_HW) |
+| (H)  | Video  | 1:02:49 |  1   | Dr Ford Brewer            | [The Disturbing Truth About Stress Tests and Heart Attacks](https://www.youtube.com/live/YbLr9oCSm2A?si=BkkXpehgv1LwrAJS) |
+| (H)  | Video  | 1:04:29 |  1   | Dr Ford Brewer            | [What is Citrulline? Does It Work?](https://www.youtube.com/live/4WDO7xcKh68?si=flumRJNonrB_ma-d) |
+| (H)  | Video  | 1:05:57 |  1   | Dr Ford Brewer            | [How to Predict a Heart Attack AT HOME](https://www.youtube.com/watch?v=WJ5upZcXTSk) |
+| (H)  | Video  | 1:07:42 |  1   | Primal Podcast            | [Heart Surgeon: Fix Heart Disease & Cholesterol Naturally (EAT THIS) Dr Ova...](https://youtu.be/DpgqOBH0D2Q?si=ay__ZuXnwjga1lsY) |
+| (H)  | Video  | 1:12:05 |  1   | Primal Podcast            | [I Ate 720 Eggs In 1 Month, Here's What Happened To My CHOLESTEROL](https://youtu.be/uuGXQfqq7D8?si=2CVuRtie0htZc0d_) |
+| (H)  | Video  | 1:13:03 |  1   | Dr Annette Bosworth       | [The biggest risk for Heart Disease is NOT LDL or HbA1c  with Dr Kevin Foray](https://www.youtube.com/watch?v=jq50sqWZW7E&t=0s) |
+| (H)  | Video  | 1:13:03 |  1   | Dr Annette Bosworth       | [The biggest risk for Heart Disease is NOT LDL or HbA1c](https://www.youtube.com/live/jq50sqWZW7E?si=EGnQZf2noNvWatfs) |
+| (H)  | Video  | 1:21:52 |  1   | Dr Ford Brewer            | [How To Do Keto To Burn Fat, Reverse Fatty Liver & Unclog Arteries](https://www.youtube.com/live/s7yK6h37DdE?si=9IZp77N6wAcBOs_K) |
+| (H)  | Video  | 1:22:05 |  1   | Dr Ford Brewer            | [How Quitting Sugar Reversed My Arterial Plaque](https://www.youtube.com/watch?v=ODcqzqirZAk&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=7) |
+| (H)  | Video  | 1:25:03 |  1   | Dr Ken Berry              | [Reverse Visceral Fat & Chronic Inflammation](https://www.youtube.com/live/EvKiRewyYJg?si=UAmY8V1R1FmD-Lvp) |
+| (H)  | Video  | 6:44:49 |  1   | Dr Ford Brewer            | [The Ultimate Guide for Plaque Reversal](https://youtu.be/evAkd-6ytUQ?si=Xv51oKXim9dd6u2p) |
+| (I)  | Video  | 0:01:29 |  1   | Dave Asprey               | [Top HBOT Q&A](https://youtube.com/shorts/L68Q6iWUvYU?si=He3J2hX7Wr0NtyE-) |
+| (I)  | Video  | 0:07:49 |  1   | Dr Anderson               | [Red Light vs Infrared](https://youtu.be/P496sSBO-Vw?si=Bz0RZe7zVJR5lA-n) |
+| (I)  | Video  | 0:08:30 |  1   | Diabetes Strong           | [My Favorite CGM Sites](https://www.youtube.com/watch?v=oifd5lyMWaQ) |
+| (I)  | Video  | 0:09:22 |  1   | HBOT                      | [When to Increase HBOT Pressure (And When to Slow Down](https://youtu.be/wQIBikdYSPM?si=h0_NNum5aCrnDxQj) |
+| (I)  | Video  | 0:10:03 |  1   | HBOT                      | [HBOT Could Change Your Sleep: Here's The Good (And The Bad)](https://youtu.be/DnOdqrONlQg?si=iYAHLh6YrUCzkptH) |
+| (I)  | Video  | 0:10:17 |  1   | HBOT                      | [This Popular Biohacking Protocol Is EVEN BETTER With HBOT](https://youtu.be/SFmlQj9k1QI?si=3cwUJPoL2FmszozS) |
+| (I)  | Video  | 0:10:38 |  1   | HBOT                      | [Do Soft Hyperbaric Chambers Work?](https://youtu.be/aP6FIxMub7Y?si=fCdpGxpTnlx3EdRD) |
+| (I)  | Video  | 0:10:57 |  1   | HBOT                      | [Increase Cognitive Performance As You Age With HBOT](https://youtu.be/GyepvD2geu8?si=wDV6Agzc-VN_jIkc) |
+| (I)  | Video  | 0:11:38 |  1   | HBOT                      | [HBOT Improves Immune Function and Reduces Inflammation](https://youtu.be/8nPRMQQgCtw?si=8lf4Xdu17UeC-5Bv) |
+| (I)  | Video  | 0:12:32 |  1   | HBOT                      | [Best Therapies To Pair With HBOT To Boost Your Immune System](https://youtu.be/dKmKez6Sqns?si=zL6oMwNXhxWU639P) |
+| (I)  | Video  | 0:13:13 |  1   | HBOT                      | [Can You Do TOO MUCH HBOT?](https://youtu.be/rpneVuE7zA8?si=4fO48yi8453hCcV-) |
+| (I)  | Video  | 0:15:56 |  1   | Dr Anderson               | [Reduce Inflammation With Red Light Therapy](https://youtu.be/1RuiCvhwN48?si=GGdvtTiferAF3fQV) |
+| (I)  | Video  | 0:16:19 |  1   | Dr Anderson               | [Red Light Therapy Shocking Benefits](https://youtu.be/T8Z1hmRosyE?si=OA584Gb5EoI-OEtZ) |
+| (I)  | Video  | 0:17:47 |  1   | HBOT                      | [HBOT Research: Low vs High Pressure - Surprising Results](https://youtu.be/iOx5mDbxVdk?si=yVLgT2jqSPqYr1dx) |
+| (I)  | Video  | 0:18:12 |  1   | HBOT                      | [HBOT Effects On Aging - Low vs High Pressure](https://youtu.be/qmV9bFVWGp8?si=wEgtbYH0mU9Ey6Dw) |
+| (I)  | Video  | 0:18:57 |  1   | HBOT                      | [HBOT 101: An Introduction To Hyperbaric Oxygen Therapy](https://youtu.be/E-RNRF7V_Z8?si=8vpC7_nc66kScXUW) |
+| (I)  | Video  | 1:07:43 |  1   | Dr Glen Jeffry            | [Power Up Your Mitochondria With Red Light Therapy](https://youtu.be/2MzKjYjEE1g?si=hWeAYPEpRHt6mYNE) |
+| (J)  | Video  | 0:10:50 |  1   | Dr Eric Berg              | [The #1 Most Dangerous Carb in the World](https://youtu.be/AUbEkURbakw?si=CGIugpMzAK1I6tU_) |
+| (J)  | Video  | 0:15:22 |  1   | Dr Eric Berg              | [What Happens to Your Body When You Quit Sugar for 14 Days](https://youtu.be/cPyFIvCvh8U?si=Bm6dDapYi94xizN5) |
+| (J)  | Video  | 0:20:20 |  1   | Dr Eric Westman           | [One Diet for Everyone? The Dangerous Truth About Eat-Lancet](https://youtu.be/W3NnQ1MRJ0w?si=Qp65fBTMK1A3VTnx) |
+| (J)  | Video  | 0:34:52 |  1   | Dr Eric Berg              | [The Worst Ingredient in the World: Interview with Dr. Chris Knobbe](https://youtu.be/MuYvGyNXvPk?si=u7UT3ce8S4CISBP7) |
+| (K)  | Movie  | 1:26:55 |  1   | Youtube                   | [Fasting: The Healer Within](https://youtu.be/XL-_4_oLkBE?si=Q3bJkNyHUNmSepIH) |
+| (K)  | Series |      20 |  3   | Dr Annette Bosworth       | [Kickstart Metabolism In 3 Days With Sardines](https://youtu.be/Bhipbos4eUU?si=JvOccHK9jLLFAn_z) |
+| (K)  | Video  | 0:01:13 |  1   | Dr Nick Norwitz           | [What if a Reese’s Counted as Low Carb](https://youtube.com/shorts/IRMB0DrX1JQ?si=gLni-n77y1WYftZ3) |
+| (K)  | Video  | 0:03:26 |  1   | Dr Annette Bosworth       | [Tutorial Cronometer App - Count your carbs](https://www.loom.com/share/9b4467fb5ff843e78acc5eb42e085fbc) |
+| (K)  | Video  | 0:06:09 |  1   | Dr Annette Bosworth       | [The keto mistake I wish I could undo](https://www.youtube.com/watch?v=GoYWOwnKJ3A) |
+| (K)  | Video  | 0:06:33 |  1   | Dr Annette Bosworth       | [you were eating protein wrong](https://youtu.be/i3PP-ijOtXA?si=EmL9WqdGsgG76Xqp) |
+| (K)  | Video  | 0:07:47 |  1   | Nick Norwitz PhD          | [Finally! How Ketosis Really Works.](https://www.youtube.com/watch?v=uyq5qAPKTKg) |
+| (K)  | Video  | 0:08:31 |  1   | Dr Annette Bosworth       | [Watch This Before You Shop](https://www.youtube.com/watch?v=UYxKm71MeII) |
+| (K)  | Video  | 0:08:53 |  1   | Dr Eric Westman           | [TOP 10 TIPS TO START KETO!](https://www.youtube.com/watch?v=M47nd9F7vPk) |
+| (K)  | Video  | 0:12:27 |  1   | Dr Ken Berry              | [The Truth About Food Noise](https://youtu.be/pgvnC65XWwU?si=1s0bl4BOfs-cyD-9) |
+| (K)  | Video  | 0:12:53 |  1   | Dr Annette Bosworth       | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
+| (K)  | Video  | 0:12:56 |  1   | Nick Norwitz PhD          | [How Ketones Take out the Trash: New Research on Diet and Brain Aging](https://www.youtube.com/watch?v=oRaNzfHF_do) |
+| (K)  | Video  | 0:12:57 |  1   | Dr Annette Bosworth       | [Autophagy Fasting: The Mystery Explained](https://www.youtube.com/watch?v=rDzIbkyr5QQ) |
+| (K)  | Video  | 0:14:43 |  1   | Dr Annette Bosworth       | [Human Growth Hormone: How to do HGH Right!](https://www.youtube.com/watch?v=UJOcc47pbwU) |
+| (K)  | Video  | 0:23:16 |  1   | Dr Eric Westman           | [Do You Actually Need CARBS To Live? - Doctor Reacts](https://youtu.be/pfI10N4M7QA?si=6EJ_yhpxG45J1Tp_) |
+| (K)  | Video  | 0:25:31 |  1   | Ben Azadi                 | [What to do if you are not in Ketosis - 6 solitions](https://youtu.be/X7RQ7GNiOkM?si=w71HmZyaXZsERsaw) |
+| (K)  | Video  | 0:27:38 |  1   | Dr Ford Brewer            | [#1 BEST Meal That Cleans Arteries](https://youtu.be/VIcNkwRbLjk?si=3dWYaNFdO-yzVwZ3) |
+| (K)  | Video  | 0:28:02 |  1   | Ben Bikman PhD            | [How Autophagy Protects Your Cells and Boosts Longevity](https://youtu.be/Er1MVXUOJh8?si=dMBe1GD-xXKdusGc) |
+| (K)  | Video  | 0:29:40 |  1   | Dr Sten Ekberg            | [I Ate NO FOOD For 100 Hours: Here's What Happened To My Blood](https://youtu.be/ucknbzRBiSQ?si=GZlNpUX9CwAwE5VL) |
+| (K)  | Video  | 0:42:54 |  1   | Dr Eric Berg              | [Interview with Dr Jason Fung on Intermittent Fasting & Weight Loss](https://youtu.be/T0eCiy3Z1ls?si=1SMWSOuWU9vDc3de) |
+| (K)  | Video  | 0:45:48 |  1   | Dr Sten Ekberg            | [What Happens If You Don't Eat For 100 Hours?](https://youtu.be/DOevpP0fX28?si=IqBX4PZwNbgivwIa) |
+| (K)  | Video  | 0:46:45 |  1   | Dr Annette Bosworth       | [The Science on Lifestyle for REVERSING “Incurable” Diseases](https://www.youtube.com/watch?v=zDWJeIT_xbY) |
+| (K)  | Video  | 0:51:35 |  1   | Ben Bikman PhD            | [FASTING EASY? add butter & MCT oil: no effect on insulin, mTOR, autophagy](https://youtu.be/NOVHg0veeFY?si=68S8RAv_V759CFnh) |
+| (K)  | Video  | 0:55:26 |  1   | Dr Eric Westman           | [Ketosis During Pregnancy? Here's the Truth](https://youtu.be/yvyiLQG44gM?si=5znZ1vDRxmOEm5Ex) |
+| (K)  | Video  | 0:55:30 |  1   | Dr Thomas DeLauer         | [Insulin Scientist Discovers Diet that 2X Autophagy WITHOUT Fasting (resets...](https://youtu.be/9aFaKqooonI?si=IJfz1-9d8aFTyDOo) |
+| (K)  | Video  | 0:59:22 |  1   | Modern Healthspan         | [The Mitochondria Scientist: This Light Is Silently Aging You Faster](https://youtu.be/ak5gHOOYdLg?si=J4aKVpN7IN-EWmCJ) |
+| (K)  | Video  | 1:00:20 |  1   | Dr Annette Bosworth       | [What Labs do I order?](https://www.youtube.com/live/rbjEh2e_dko?si=HFL9zhI82mN1em2-) |
+| (K)  | Video  | 1:01:18 |  1   | Dr Annette Bosworth       | [How Long to Fast for 3 Stages of Autophagy - Keto and Intermittent Fasting](https://www.youtube.com/live/SerNSubQJos?si=CKs5PNvd19AnellR) |
+| (K)  | Video  | 1:01:40 |  1   | Primal Podcast            | [The FASTEST Way To Fix Fatty Liver Naturally (10 COMMON Symptoms)](https://youtu.be/zxdm-Dd6J8o?si=lx9DNPXVBeopqSpL) |
+| (K)  | Video  | 1:02:40 |  3   | Dr Annette Bosworth       | [Fix Insulin Resistance Once & For All (10 COMMON Symptoms)](https://youtu.be/PS2cP2SGKtg?si=jJw2YCw1vSGwefBa) |
+| (K)  | Video  | 1:04:35 |  1   | Primal Podcast            | [#1 Fasting Expert: Get EPIC Fasting Results (Do Butter Coffee)](https://www.youtube.com/watch?v=6KSyXuxTnRM) |
+| (K)  | Video  | 1:04:36 |  1   | Primal Podcast            | [#1 Fasting Guide: Get EPIC Fasting Results (32 Tips & Questions Answe...](https://youtu.be/6KSyXuxTnRM?si=23babiRlR3Yz0KHI) |
+| (K)  | Video  | 1:04:36 |  1   | Primal Podcast            | [#1 Fasting Guide: Get EPIC Fasting Results (32 Tips & Questions Answered)](https://youtu.be/6KSyXuxTnRM?si=0VXOla9otScvgCMb) |
+| (K)  | Video  | 1:04:36 |  1   | Primal Podcast            | [Ultimate Fasting Guide: Lose Weight Faster & Age In Reverse (DO THIS) Dave Asprey](https://youtu.be/6KSyXuxTnRM?si=GtZdf9M5_EPDz3TI) |
+| (K)  | Video  | 1:11:04 |  1   | Dr Annette Bosworth       | [Why it's almost impossible to reverse Insulin Resistance](https://www.youtube.com/live/UTjm4OdgXRA?si=XqBhpJFgMOfc_SCJ) |
+| (K)  | Video  | 1:28:34 |  1   | Dr Chappus                | [Our Bodies ARE NOT Designed to Run on Carbohydrates - Dr. Gary Fettke](https://youtu.be/5W5w0WSBwDI?si=DaQ2LkC3Xnlc2Q9q) |
+| (K)  | Video  | 2:38:00 |  1   | Ben Azadi                 | [How to Follow the Ketogenic Diet](https://www.youtube.com/watch?v=g-e5GZMR1qc) |
+| (K)  | Video  | 2:41:09 |  1   | Dr Lustig                 | [The Shocking Benefits of Quitting Sugar for 30 Days! (How To Live Longer)](https://youtu.be/IKDsZWbm_xM?si=wKFXykvgFExykEop) |
+| (L)  | Video  | 0:01:00 |  1   | Nick Norwitz PhD          | [Metabolism vs Medical Science](https://youtube.com/shorts/4h3RgoILd4A?si=ajZJbtlPEO5h84B3) |
+| (L)  | Video  | 0:01:37 |  1   | Dr Hampton                | [Can you really AFFORD Carnivore?](https://youtube.com/shorts/aEAxV5nRyWg?si=7-ScLUnMlK1emYkQ) |
+| (L)  | Video  | 0:04:18 |  1   | Dr Annette Bosworth       | [Carnivore Pitfalls](https://youtu.be/ylLCeEbjzco?si=_h2u18QL2LiJT1Cp) |
+| (L)  | Video  | 0:09:00 |  1   | Paul Saladin              | [4 Ways to Reduce Microplastics in Your Body](https://youtu.be/MyZekF0Xgck?si=Eu0Uc0WLGoB5a-sJ) |
+| (L)  | Video  | 0:12:05 |  1   | Dr Ken Berry              | [Controversial Carnivore Questions](https://youtu.be/3tE15C0B1fM?si=7fmdGin4tghNsI5d) |
+| (L)  | Video  | 0:12:18 |  1   | Dr Eric Westman           | [Is Supermarket Meat Safe? - Doctor Reacts](https://youtu.be/dc64bToF2yY?si=vXJ1Glp5nxHyX-oZ) |
+| (L)  | Video  | 0:16:37 |  1   | Nick Norwitz PhD          | [Dogs as Medicine: How Your Pet Boosts Heart Health and Longevity](https://youtu.be/AOnwo1Z4DL8?si=NNVQnA8eE7MMlQ6w) |
+| (L)  | Video  | 0:20:28 |  1   | Nick Norwitz PhD          | [Let's End This Beef! 8 Nuanced Truths About the Carnivore Diet](https://youtu.be/nQHouOB_V20?si=pLerA0eioGdyxhpQ) |
+| (L)  | Video  | 0:20:57 |  1   | Dr Ken Berry              | [Why Your Doctor Hates Carnivore [and what to do about it] 2025](https://youtu.be/DG0_8jn_Hs4?si=wYUK1ZVDmMo2ZOUd) |
+| (L)  | Video  | 0:23:00 |  1   | myzerocarblife            | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
+| (L)  | Video  | 0:23:00 |  1   | MyZeroCarbLife            | [Addiction, Lies, and How I'm Maintaining My 130-Pound Weight Loss](https://youtu.be/3zbsN3gYkYY?si=SVBgKE8s4ebRRkTB) |
+| (L)  | Video  | 0:23:52 |  1   | Physicians Committee      | [Best Ways to Remove Microplastics From Your System](https://youtu.be/yx8svg89fqk?si=m71asBi93Y-W3qhm) |
+| (L)  | Video  | 0:50:01 |  1   | Nick Norwitz PhD          | [This Will Change Your Mind on Ultra-Processed Foods (Harvard MD PhDs Discuss)](https://youtu.be/JAPgzCiSk9Y?si=NKjf1aWZ8xWB6Cax) |
+| (L)  | Video  | 0:51:47 |  1   | Dr Eric Westman           | [Why Carnivore Beat Medicine: Steak & Butter Gal's Exclusive Interview](https://youtu.be/UvonfqIbHwY?si=c2DiZpvvk-YiH9m4) |
+| (L)  | Video  | 0:52:14 |  1   | Dr Ken Berry              | [I Got Passionate Being Filmed for Healing Humanity: Trailer World Premiere](https://www.youtube.com/live/eqMJRw-6ZVk?si=zXc8ZeZkZSg8SKKB) |
+| (L)  | Video  | 1:01:23 |  1   | Tour PhD                  | [Tour on The Origin of Life](https://youtu.be/qeuW2UPa1Lw?si=bB_tEGP9fFmKCJ8o) |
+| (L)  | Video  | 1:04:05 |  1   | Primal Podcast            | [I Only Ate Meat For 200 DAYS: Here's What Happened To My HEART](https://youtu.be/PEtXLp2YEtk?si=xoGMb7Ng9QkwdTwk) |
+| (L)  | Video  | 1:10:41 |  1   | Dr Ken Berry              | [Carnivore Diet for Children and Toddlers [Why the Controversy?]](https://www.youtube.com/live/I8oYe6OLNnw?si=qhH_MRQ2lpBp84uk) |
+| (L)  | Video  | 1:12:22 |  1   | Dr Josh Axe               | [What the Bible Says About Red Meat, Pork, Dairy, and Bread - Jordan Rubin x Dr. Axe](https://youtu.be/2Ayj5eqWQXE?si=JfoGNuPj8GBJUzB2) |
+| (L)  | Video  | 1:41:07 |  1   | Jesse Chappus             | [The FASTEST Way to Regain Your Energy (Without Caffeine) - Dr. Sarah Myhill](https://youtu.be/ITDoKoXkKD4?si=uaWul93eAHhpsH7L) |
+| (M)  | Video  | 0:00:42 |  1   | Dr Anthony Chaffee        | [Could Your Favourite Sweetener Be Affecting Your Fertility?](https://youtube.com/shorts/qygyPER0L2U?si=ZptdDIPWLN9GKGxF) |
+| (M)  | Video  | 0:00:45 |  1   | Dave Asprey               | [History of creatine](https://youtube.com/shorts/h0jhdJ8PTs4?si=vbX1zYf1pWVxtgn-) |
+| (M)  | Video  | 0:01:15 |  1   | Dr Annette Bosworth       | [You Need to Know This About Creatine](https://youtube.com/shorts/qBG0Dox-lNE?si=DbqkB8be9q3VaMZp) |
+| (M)  | Video  | 0:01:17 |  1   | Dave Asprey               | [How creatine supercharges brain & muscles](https://youtube.com/shorts/DUNEVKoNPLY?si=lcCtE3YhUeR_XS9O) |
+| (M)  | Video  | 0:05:01 |  1   | Dr Eric Berg              | [Fascinating Health Benefits of Methylene Blue](https://www.youtube.com/watch?v=dDUZ0ODBfJs&pp=ygUOTWV0aHlsZW5lIGJsdWXSBwkJhAkBhyohjO8%3D) |
+| (M)  | Video  | 0:05:19 |  1   | Dr Annette Bosworth       | [The Major Reason I Changed My Mind About Curcumin](https://youtu.be/2pIuwJ3YXmE?si=E32DA-DRyTmiP0bL) |
+| (M)  | Video  | 0:05:29 |  2   | Dr Annette Bosworth       | [Why I don't prescribe statins for high LDL cholesterol](https://youtu.be/9swwpRC3Dx8?si=zTaBIMj6ZKc9VqaU) |
+| (M)  | Video  | 0:06:29 |  1   | Dr Annette Bosworth       | [The king of supplements just got even better.](https://youtu.be/3hdlxNzLlQY?si=p0_WzG6wxLELp1iX) |
+| (M)  | Video  | 0:07:05 |  1   | Gary Brecka               | [Methylene Blue: Improved Focus, ATP Production & Anti-Aging with Gary Brecka](https://www.youtube.com/watch?v=KvASX2yp0zU&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
+| (M)  | Video  | 0:07:12 |  1   | Dr Eric Berg              | [10,000 IU of Vitamin D: HUGE MISTAKE?!](https://youtu.be/Sn7T46fCjLE?si=AKZQcU_wIwhwcF4O) |
+| (M)  | Video  | 0:07:50 |  1   | Dr Anderson               | [Everything You NEED to KNOW About Methylene Blue](https://www.youtube.com/watch?v=bfPByasoJTw&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
+| (M)  | Video  | 0:12:31 |  1   | The Nerve Doctors         | [Crack the Code: Eggs- The Leading Protein for NerveRecovery!...](https://youtu.be/QuM9dQ4OUfY?si=StPJswfrB9Dcs7yS) |
+| (M)  | Video  | 0:13:49 |  1   | Dr Eric Berg              | [What Happens When You Eat 3 to 4 Eggs Daily?](https://youtu.be/gVKQiv17M3k?si=vxVgHhs-12opV2KO) |
+| (M)  | Video  | 0:15:15 |  1   | Thomas DeLauer            | [This Powder Drops Inflammation, Shrinks Fat and Builds Serious Muscle (5g per day)](https://youtu.be/mNQ6e9FwL2k?si=C_CeAEubelTOILAM)|
+| (M)  | Video  | 0:16:13 |  1   | Nick Norwitz PhD          | [This Saturated Fat Can Burn Fat: A Milkshake Experiment](https://youtu.be/TUNmaIF1Ygc?si=oL3ee35KZLD-A69h) |
+| (M)  | Video  | 0:16:49 |  1   | Dr Nick Norwitz MD PhD    | [I Tried Statins - Here's What Happened](https://youtu.be/qHXMI3DudEc?si=-tzneq3UyK2qTIWA) |
+| (M)  | Video  | 0:17:02 |  1   | Dr Ken Berry              | [The Problems with Ozempic [What the Research Shows...]](https://youtu.be/ZCFjIcF6SsI?si=Td085V5iScILO3eB) |
+| (M)  | Video  | 0:19:01 |  1   | Dr Saladino               | [Why I MEGADOSE Creatine it's not for my muscles](https://youtu.be/sHEoC839R4Q?si=2wExovchMnRCYf9U) |
+| (M)  | Video  | 0:19:32 |  1   | Dr Eric Westman           | [Finally Ending The Debate! Do You Really Need Fiber? - Doctor Reacts](https://www.youtube.com/watch?v=L8nX-UyBHLo) |
+| (M)  | Video  | 0:21:22 |  1   | Dr Eric Westman           | [The Truth About Tylenol & Autism - What Does The Science Say?](https://youtu.be/zeGhqMNI8jU?si=wLAQjeuYpBXztFXe) |
+| (M)  | Video  | 0:25:17 |  1   | Ben Bikman PhD            | [Can Nattokinase Improve Heart & Metabolic Health?](https://youtu.be/fujDgIdUQWc?si=hVZ4RGaZWGAanIbm) |
+| (M)  | Video  | 0:25:27 |  1   | Ben Bikman PhD            | [109: Are Nitrates and Nitrites Dangerous?](https://youtu.be/6gA0hmUD7ZI?si=TvJrNh_vaknpq6Cz) |
+| (M)  | Video  | 0:25:28 |  1   | Nick Norwitz PhD          | [Why Vitamin C is the Most Underrated Nutrient for Heart Health](https://youtu.be/3rbJnKnhg3s?si=sgQMz5kmxMX9fzDf) |
+| (M)  | Video  | 0:27:34 |  1   | Ben Bikman PhD            | [Creatine Demystified: Brain, Muscle & Metabolic Benefits](https://youtu.be/Z7TRG6em3DA?si=ddSqy1yA9aLxi2eA) |
+| (M)  | Video  | 0:27:51 |  1   | Dr Thomas DeLauer         | [My Blood Test Says I Have High Creatinine, Do I Have Kidney Diseas...](https://youtu.be/MB5No-V1dLU?si=S1zAwMpNXZU0nWuH) |
+| (M)  | Video  | 0:29:29 |  1   | Dr Ford Brewer            | [Seniors: This 1 SIMPLE Ingredient Rebuilds Muscle FAST](https://youtu.be/6DbT8KuQblA?si=ZFOwOv8Y4nEwJYEW) |
+| (M)  | Video  | 0:30:33 |  1   | Dave Asprey               | [Why I Add Creatine to My Coffee Every Morning (And You Should Too)](https://youtu.be/K78Y5TAEz_U?si=uc72XlBnXQa4RrfM) |
+| (M)  | Video  | 0:31:34 |  1   | Biblical Nutrition        | [Iodine And Cancer: A Surprising Link](https://youtu.be/EHT4nQ2wgkA?si=xEK5EGnXEwOEC371) |
+| (M)  | Video  | 0:31:36 |  1   | Dr Ken Berry              | [Iodine Deficiency Epidemic: You Need More of This Essential Trace Mineral - Dr. Ken Berry](https://youtu.be/6htmfoj4c_M?si=FdQcrjVeertGJMjx) |
+| (M)  | Video  | 0:32:08 |  1   | Biblical Nutrition        | [Which Salt is Best & Worst?](https://youtu.be/4IamF0G-i-w?si=m-9KyS8Dqbps3Rge)
+| (M)  | Video  | 0:37:07 |  1   | Jesse Chappus             | [Iodine 101: What You NEED to Know Before You Take it - Dr. David Brownstein](https://youtu.be/JglFYmcdAWY?si=Hn_ql9goyvMaXUYT) |
+| (M)  | Video  | 0:47:29 |  2   | Dr Ford Brewer            | [I Believed Statins Were Necessary—Until I Read This Research (ft. Dr. Bernie)](https://www.youtube.com/watch?v=SykjTkCtuRk) |
+| (M)  | Video  | 0:49:45 |  1   | Dr Ford Brewer            | [Seniors: 5 Popular Supplements that Are Actually Destroying Your Heart](https://youtu.be/XuU6rBlfYnU?si=qPFsnXLt7AU2Xska) |
+| (M)  | Video  | 0:49:45 |  1   | Dr Ford Brewer            | [Seniors: 5 Popular Supplements that Are Actually Destroying Your Heart](https://youtu.be/XuU6rBlfYnU?si=TI9Ldq6B16jYZRaZ) |
+| (M)  | Video  | 0:53:06 |  1   | Dr Josh Axe               | [The FDA Suppressed This for YEARS - Mirac ulous Peptide Therapy ](https://youu.be/aJ6p4ER4RYY?si=4HuM31gsW6SXQycL) |
+| (M)  | Video  | 0:53:13 |  1   | Dr Eric Berg              | [Your Body Is BEGGING for Vitamin D!!](https://youtu.be/QAQ7r6jLEww?si=EGDzFXBhNfqT0K8N) |
+| (M)  | Video  | 0:57:45 |  1   | Dr Annette Bosworth       | [He took the 'best' statins for 14 years and calcified his arteries](https://www.youtube.com/live/AwBCS-8_M8M?si=6WvuUL1NtPhp8gc-) |
+| (M)  | Video  | 0:MM:SS |  1   | Renaissance Periodization | [New Study DESTROYS Creatine (is it really worthless?](https://youtu.be/Z-xh1TwHIXM?si=WEuSagB-ECiF5iAm) |
+| (M)  | Video  | 1:01:07 |  1   | Dr Annette Bosworth       | [Why I'm using Methylene Blue for my metabolism](https://www.youtube.com/watch?v=WAuGLi4jsBQ&pp=ygUOTWV0aHlsZW5lIGJsdWU%3D) |
+| (M)  | Video  | 1:01:19 |  1   | Dr Annette Bosworth       | [Creatin is Now NON-NEGOTIABLE](https://www.youtube.com/live/VSL7ARI24Oc?si=44hoZETEsJ5PUXiY) |
+| (M)  | Video  | 1:03:45 |  1   | Dr John Campbell          | [Iodine, a global deficiency](https://youtu.be/vRg67gUoXyM?si=lpCqmdTPIico7Jir) |
+| (M)  | Video  | 1:05:31 |  1   | Dr Ken Berry              | [You're iodine Deficient with Dr. David Brownstein Iodine Benefits](https://www.youtube.com/live/Oix26uuBfZg?si=gilFbmT-NvzRHp3h) |
+| (M)  | Video  | 1:13:10 |  1   | FoundMyFitness            | [The Optimal Creatine Protocol for Strength, Brain, and Longevity - Darren Candow, PhD](https://youtu.be/ICsO-EHI_vM?si=kotFSEeCL8H7s8lm) |
+| (N)  | Video  | 0:39:54 |  1   | Dr Gil Carvalho           | [Dr Robert Lustig gets Fact-checked by MD PhD Doctor](https://youtu.be/vdoDx9dIuNE?si=-DSkzYsc4lJtO27X) |
+| (O)  | Video  | 0:09:52 |  1   | Dr Jorgensen              | [What Causes Cavities? Why most dentsts get it wrong](https://www.youtube.com/watch?v=FIlcUnUyU5I) |
+| (O)  | Video  | 0:18:16 |  1   | Dr Sten Ekberg            | [#1 Absolute Best Way to Stop Tartar](https://youtu.be/2nM5DAy9HQ4?si=0_WBy3CRDPLsMkq-) |
+| (O)  | Video  | 0:22:13 |  1   | Dr Ellie                  | [How to Reverse a Cavity & Prevent Future Cavities](https://www.youtube.com/watch?v=hWrWKi7msrk) |
+| (O)  | Video  | 0:26:40 |  1   | Dr Ellie                  | [How to REGROW Receding Gums at Home](https://youtu.be/AunUeaKVKhc?si=Zfl4iQPTextke5FT) |
+| (O)  | Video  | 1:39:25 |  2   | Primal Podcast            | [Fix The Microbiome: #1 Oral Care Routine To Fix Your Mouth & Disease (Dr Burhenne)](https://youtu.be/jNrm-9sp-RQ?si=cl59_lTi6zYHxNs5) |
+| (P)  | Video  | 0:07:23 |  1   | James Tour                | [Biochemist, Messianic Jew](https://youtu.be/QNGLZvtRoiU?si=xR9lWh1tD8txOgw_) |
+| (Q)  | Video  | 0:19:12 |  1   | Dr Eric Westman           | [Doctor Answers The Internets Burning Questions! (Unfiltered!)](https://youtu.be/lbtn9FbwPfs?si=ZsB4n91j6YTFuVgQ) |
+| (R)  | Video  |   18:23 |  1   | Milkslinger               | [I Discovered A NEW WAY To Make Yogurt!](https://www.youtube.com/watch?v=QCQ3KC81QHI&t=932s) |
+| (R)  | Video  |   28:56 |  1   | Lillie Kane               | [Farmer Warns: If You Knew What I Know, You’d Never Eat This Again](https://www.youtube.com/watch?v=D8OcNesbWuc) |
+| (R)  | Video  | 0:05:09 |  1   | Dr Ford Brewer            | [What Nobody will tell you about Microwaving Eggs](https://www.youtube.com/watch?v=y8QmgxPAqLk) |
+| (R)  | Video  | 0:07:53 |  1   | Patricia                  | [Only CHIA and WATER - REPLACE BREAD in 5 MINUTES - LOW CARB, High Fiber and Protein, Quick and Easy](https://www.youtube.com/watch?v=ZaCx62Kf2Hk) |
+| (R)  | Video  | 0:08:59 |  1   | Kochen                    | [Strengthen your heart with this keto avocado bread! The perfect breakfast](https://www.youtube.com/watch?v=atm1KgZWWic) |
+| (S)  | Video  | 0:05:11 |  1   | No carb life              | [85-Year-Olds Stun Doctor with Carnivore Results: See His Reaction!](https://www.youtube.com/watch?v=iyenYTtCx6E) |
+| (S)  | Video  | 0:07:41 |  1   | Dr Baker                  | [I Cheated on Carnivore and it Wrecked Me](https://youtu.be/l-54E_tvL1U?si=Y4wmfGBnNYk7MEpP) |
+| (S)  | Video  | 0:18:14 |  1   | old carnivore             | [Dying 78 Year Old Man Tries Carnivore Diet](https://youtu.be/gpY7rXaP9qc?si=98MOFxyW81zvMigP) |
+| (S)  | Video  | 0:30:22 |  1   | No Carb Life              | [The Truth After 1,206 Days on Meat](https://youtu.be/1Er_OfAX62E?si=eTjRjk34FzsSsRl8) |
+| (S)  | Video  | 0:35:41 |  1   | Dave Mac                  | [We Upgraded to a Carnivore Doctor](https://youtu.be/kTeg9K8ElIM?si=_K359iWl9Bi1hpBJ) |
+| (S)  | Video  | 0:38:57 |  1   | HealingHumanity           | [16 Year Old Carnivore, Surprises his Doctor!](https://youtu.be/OHhj6s6tt2w?si=BGQUEy3tisxutL_g) |
+| (S)  | Video  | 0:51:05 |  1   | No carb life              | [I Chose to Spin the Wheel of Death. Here's What Happened... (My Cancer Journey)](https://youtu.be/RSdcyOsxEvg?si=uzI-UDTfaw2bHgcw) |
+| (S)  | Video  | 1:02:07 |  1   | No carb life              | [How My Carnivore Success Made My Doctor a Believer](https://youtu.be/OAIXWxq41SI?si=-sXS7XNkFmJ5WXQf) |
+| (S)  | Video  | 1:04:47 |  1   | Dr Eric Westman           | [Why Doctors Aren't Taught Nutrition: Dr. Nick Norwitz Exposes The Truth](https://youtu.be/iOwP2fx3QeU?si=s0upTtxFYgH6DWh2) |
+| (S)  | Video  | 1:09:17 |  1   | Dr Eric Westman           | [From Obese & Diabetic  Bodybuilder: Richard Smith's Keto Comeback](https://youtu.be/WUdGxEe6t2I?si=hdQa7CSOObFcp2i6) |
+| (S)  | Video  | 1:58:37 |  1   | Feldman Protocol          | [From Death's Door to "Fringe" Keto MD PhD (Ft Nick Norwitz)](https://youtu.be/ehnNGDP4elg?si=mrSn0vJu1o39N_Bm) | 
+| (T)  | Video  | 0:01:09 |  1   | Dr Ford Brewer            | [How to Measure you Blood Pressure the Right Way (short)](https://www.youtube.com/watch?v=dP8oZ916pcE) |
+| (T)  | Video  | 0:12:23 |  1   | Dr Ford Brewer            | [#1 Best AT HOME Test to Find Clogged Arteries](https://youtu.be/GNayrvFhiVE?si=o7v-UsVkA09zKkS1) (blood pressure) |
+| (T)  | Video  | 0:20:04 |  1   | Primal Podcast            | [Don't Let Your Doctor Do THIS To You! - Dr Boswor](thps://youtu.be/hfn5SfAy3Bg?si=SvTD_2mj5loFS2Ue) |
+| (T)  | Video  | 0:22:35 |  1   | Dr Ford Brewer            | [You're Measuring your Blood Pressure WRONG: Top 10 MISTAKES](https://www.youtube.com/watch?v=oygDkbEDKRw) |
+| (T)  | Video  | 0:28:39 |  1   | Dr Ford Brewer            | [#1 Best AT HOME Test to Predict Longevity](https://youtu.be/ao1vYrYl0iw?si=_ycoZEJlDly3qiLy) |
+| (U)  | Video  | 0:07:32 |  1   | Dr Eric Berg              | [Drink 1 CUP PER DAY to Shrink an Enlarged Prostate](https://youtu.be/AIbhXK2UJ6w?si=70ODa2fKprsmSNOZ) |
+| (U)  | Video  | 0:11:16 |  1   | Dr Ken Berry              | [Shrink ENLARGED PROSTATE in 7 Easy Steps (2024 Update)](https://youtu.be/B50d9imVvuE?si=DJU5r36n0sOq9HDM) |
+| (U)  | Video  | 0:11:16 |  1   | Dr Ken Berry              | [Shrink ENLARGED PROSTATE in 7 Easy Steps (2024 Update)](https://youtu.be/B50d9imVvuE?si=m8DZtX9GOXaj8ADG) |
+| (U)  | Video  | 0:17:40 |  1   | Intellectual Medicine     | [The Truth About Prostate Supplements: My A-C Grades on What Really Works](https://youtu.be/BUWW6xiu7mQ?si=4l0kxXHV_DXcwZii) |
+| (U)  | Video  | 0:17:53 |  1   | Intellectual Medicine     | [Think Twice Before a Prostate Biopsy: The Evidence You Need to Hear](https://youtu.be/6Crij3C1X9E?si=VjI53HylDWE4t73T) |
+| (U)  | Video  | 0:21:42 |  1   | Intellectual Medicine     | [Don't Biopsy Your Prostate Until You Hear This (Part 2)](https://youtu.be/DpXZgMTzN2A?si=WmAcXWaavcp2s1rQ) |
+| (U)  | Video  | 0:27:10 |  1   | Intellectual Medicine     | [Shrinking Your Prostate Naturally And Avoiding Urination Troubles](https://youtu.be/uLlGIPfInec?si=p7VtDbjr86ucgic9) |
+| (V)  | Video  | 0:03:26 |  1   | Dr Eric Berg              | [The Sun's Benefits Are Way More than Vitamin D](https://youtu.be/uYP-VTctWq4?si=YqNC2QJ4bT10hp3T) |
+| (V)  | Video  | 0:04:46 |  1   | Dr Eric Berg              | [Eye Floaters: What Are They & How to Get Rid of Them](https://youtu.be/t7VxmoMbD-4?si=YqmdQBkkXpqRenVN) |
+| (V)  | Video  | 0:09:17 |  1   | Dr Eric Berg              | [Getting Vitamin D from the Sun WITHOUT the Skin Cancer](https://youtu.be/tPom4UOW1vU?si=9kl7hBDCk7LqR3zZ) |
+| (V)  | Video  | 0:12:30 |  1   | Dr Eric Berg              | [The MOST POWERFUL Antioxidant Is Melatonin, NOT Glutathione](https://youtu.be/sNklS0lzlgA?si=P_F3ES_nj32XHgs6) |
+| (V)  | Video  | 0:19:58 |  1   | Dr Eric Berg              | [How to Reverse POOR Eyesight (Especially Over 50!)](https://youtu.be/nCnZX8zs4LI?si=Ia5UqWfPm23j63ZS) |
+| (V)  | Video  | 0:23:22 |  1   | Dr Eric Berg              | [Doctor Reveals The Most Overlooked Medicine on Earth](https://youtu.be/2ksPzKMJgXs?si=VoWgTW2nWE_8WtYg) |
+| (V)  | Video  | 0:31:19 |  1   | CarnivoreDoctor           | [Best way to SAVE YOUR VISION Learn How](https://www.youtube.com/live/LjhlH9uutE8?si=_UIO7CBckdvyRiAr) |
+| (W)  | Movie  | 0:01:20 |  1   | Gravitas                  | [Fat Movie part 2](https://youtu.be/3u8jzKkMA98?si=z1llsdvl7H-cRTDP) |
+| (W)  | Movie  | 0:01:36 |  1   | Gravitas                  | [Fat Movie part 1](https://youtu.be/iVJM_0XEiBI?si=9f9FvG8BuFb2Aqt4) |
+| (W)  | Video  | 0:05:47 |  1   | Dr Annette Bosworth       | [Why you can't lose weight with intermittent fasting](https://www.youtube.com/watch?v=mDyYN4nW9Rk) |
+| (W)  | Video  | 0:12:23 |  1   | Dr Annette Bosworth       | [72 Hour Fast Benefits, How it Effects Norepinephrine](https://www.youtube.com/watch?v=PRcTrRrcupg) |
+| (W)  | Video  | 0:12:55 |  1   | Dr Ken Berry              | [BEWARE: Fasting is Dangerous?](https://www.youtube.com/watch?v=cnnCwOhJJic&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=4) |
+| (W)  | Video  | 0:13:20 |  1   | Nick Norwitz PhD          | [Weighted Vests Cause Weight Loss - But Not for the Reason You Think](https://youtu.be/d5bwEQtjfzk?si=jO2i3FGIvNKixh-e) |
+| (W)  | Video  | 0:16:34 |  1   | Steak&Butter Gal          | [Just 1 Tablespoon A Day Guarantees Weight LOSS](https://youtu.be/88nLbzLQ7tY?si=fX8KC3-6-H_Gx4T2) |
+| (W)  | Video  | 0:23:31 |  1   | Lillie Kane               | [3 Major Problems with the Carnivore Diet](https://www.youtube.com/watch?v=MWVLCrMfvCQ) |
+| (W)  | Video  | 0:24:37 |  1   | Dr Sten Ekberg            | [1 Absolute Best Meal Plan To Lose Weight Faster](https://www.youtube.com/watch?v=LHO_6kkQodY) |
+| (W)  | Video  | 0:32:26 |  1   | Dr Sten Ekberg            | [Top 10 Fat Burning Foods For FAST Weight LOSS](https://youtu.be/8NRtHJqwuGA?si=vaYbwidqbxW-POcS) |
+| (W)  | Video  | 0:34:31 |  1   | Dr Paul Mason             | [Evidence-based keto: How to lose weight and reverse diabetes](https://youtu.be/LRHir1k9jmE?si=RGdJg1Vfhw2BFC2Y) |
+| (W)  | Video  | 0:35:27 |  1   | Ben Bikman PhD            | [Fatty Liver Disease](https://youtu.be/6jy6LgKg5Hw?si=0goBjqUm0O4Q7_xE) |
+| (W)  | Video  | 0:36:58 |  1   | Dr Annette Bosworth       | [Leptin: The hidden hormone behind insulin resistance nobody talks about](https://www.youtube.com/watch?v=MgOrvLhjAfM) |
+| (W)  | Video  | 0:42:59 |  1   | No Carb Life              | [Doctor Reveals Shocking Evidence For Carnivore](https://youtu.be/jvwZE10xR2o?si=DoJkLykuFXOE58kp) |
+| (W)  | Video  | 0:44:27 |  1   | Ben Bikman PhD            | [Fat: Why it Matters and What to Do About It](https://www.youtube.com/watch?v=gfikT_O4v9A&list=PLZJrMQFQNrZ4dcy8qWY3uPTMhEQpNcNRu&index=6) |
+| (W)  | Video  | 0:54:48 |  1   | Dr Annette Bosworth       | [Why are you so fat?](https://www.youtube.com/live/rm0Br-mTNtw?si=q_XBVtyQ9eHiDkZ0) |
+| (W)  | Video  | 0:56:34 |  1   | Primal Podcast            | [Dr Ben Bikman: The SURPRISING Scientific Way To Burn Belly Fat FAST](https://youtu.be/WAIQCrKjhp0?si=2DjoXka8AEZRyYWU) |
+| (W)  | Video  | 0:56:50 |  1   | Dr Jason Fung             | [BURN BODY FAT?](https://youtu.be/D8nArHgImrk?si=5P1vp2Fuq8-35lsH) |
+| (W)  | Video  | 0:59:52 |  1   | Dr Annette Bosworth       | [Losing 2Olbs with fasting (the ugly truth)](https://www.youtube.com/live/yKMSlpQjWxc?si=V0KR59I8zJ-tq-K_) |
+| (W)  | Video  | 1:00:40 |  1   | Dr Robert Kiltz           | [Ketones vs Glucose: What Fuels Your Brain Best? - Ben Bickman PhD](https://youtu.be/-iXEACid7pU?si=iL0B_JoScAHC6doE) |
+| (W)  | Video  | 1:01:50 |  1   | Dr Annette Bosworth       | [80lbs lost with and withOUT Autophagy](https://www.youtube.com/watch?v=82CPlwz6Pmc) |
+| (W)  | Video  | 1:07:09 |  1   | Primal Podcast            | [#1 INSULIN TRICK Proven To Help You Lose Weight Faster](https://youtu.be/KlHIOyTN8yw?si=8qzMxADPBOqQtsX2) |
+| (W)  | Video  | 1:10:50 |  1   | Ben Bikman PhD            | [The Truth about GLP 1, Ozempic & Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
+| (W)  | Video  | 1:10:50 |  1   | Ben Bikman PhD            | [The Truth about GLP 1, Ozempic and Insulin resistance - Inspiring better health](https://youtu.be/djNx3HZVfbA?si=zBOu-dl_qFk2zLlz) |
+| (W)  | Video  | 1:24:08 |  1   | Primal Podcast            | [Ultimate Protein Guide: Lose Weight Faster: How Much You REALLY Need)](https://youtu.be/hHkxBEQaZdY?si=AfMCtgd06BTfK2kD) |
+| (W)  | Video  | 1:26:54 |  1   | Primal Podcast            | [#1 Fasting Doctor: The FASTEST Way To Lose Weight (Calories Don't Work) Dr Jason Fung](https://youtu.be/bREYYm_8xiQ?si=cjrWOwkMQzAXKdJc) |
+| (W)  | Video  | 1:30:23 |  3   | Dr Anthony Chaffee        | [Revolutionizing Nutrition: What You've Been Doing Wrong](https://youtu.be/K66nar1_zX8?si=5yprKMuAknpzWWY5) |
+| (W)  | Video  | 1:32:17 |  1   | Levels                    | [Uncovering the SHOCKING Realities of OBESITY and Skinny Fat - Dr. Robert Lustig](https://youtu.be/sxJvfqTFttY?si=Ow9vJQ-1o7HEMgbd) |
+| (W)  | Video  | 1:32:21 |  1   | Dr Anthony Chaffee        | [Why We Are Carnivores Slide Presentation](https://www.youtube.com/watch?v=C-WUb3mJEso) |
+| (W)  | Video  | 3:49:01 |  1   | Feldman Protocol          | [Prescribing Bacon and Butter for Weight Loss? - TFP #009 - Eric Westman MD](https://youtu.be/z8hQgNlW7Lk?si=Uc0YI-gIpBHYFHL5) |
+| (X)  | Video  | 0:01:17 |  1   | Dave Asprey               | [The End of Cardio: Burn Fat in 8 Minutes](https://youtube.com/shorts/x1CK0pWc6-4?si=gtBk1bmro6di1_y3) |
+| (X)  | Video  | 0:02:56 |  1   | 50% Awesome               | [REHIT Training Demo](https://youtu.be/DA7-l3l6AUg?si=10z4URONpD3hXiTB) |
+| (X)  | Video  | 0:03:40 |  1   | Coach Horne               | [Exercise & Brain Rap](https://youtu.be/Dl5kuaU5kxQ?si=8Q_Q_0ypMs9XK-in) |
+| (X)  | Video  | 0:05:14 |  1   | Cancer Rehab PT           | [Do Vibration Plates Work for Lymphatic Drainage?](https://www.youtube.com/watch?v=34SjhPuVdg4) |
+| (X)  | Video  | 0:06:15 |  1   | Dr Ford Brewer            | [High Intensity Interval Training for Older Adults!](https://youtu.be/Hj4nPnwIQ40?si=meX0pzKUdFnAfV77) |
+| (X)  | Video  | 0:08:28 |  1   | Wellness Daddy            | [The Life Changing Power Of Rebounding - Why I'll Never Stop Bouncing](https://www.youtube.com/watch?v=n2Nj_oFaM6s) |
+| (X)  | Video  | 0:09:15 |  1   | Dave Asprey               | [How I Work Out Only 20 Minutes A Week](https://youtu.be/dvaT6Fgy9ag?si=GMT0aOozjfH1-NQW) |
+| (X)  | Video  | 0:09:40 |  1   | Nick Norwitz PhD          | [Betaine: The Molecule Behind Exercise's Anti-Aging Effects](https://youtu.be/n5Nmb5h8buM?si=vLh2OmL-OXmAnWBG) |
+| (X)  | Video  | 0:10:44 |  1   | Dr Ratey                  | [Run, Jump, Learn! How Exercise can Transform our Schools: John J. Ratey, MD a...](https://youtu.be/hBSVZdTQmDs?si=hJKP6yTMKBbvy9w7) |
+| (X)  | Video  | 0:18:36 |  1   | Func Nurse Prac           | [The hidden benefits of Vibration Therapy](https://www.youtube.com/watch?v=tFX0bJUsDrM) |
+| (X)  | Video  | 0:18:52 |  2   | Dr Ford Brewer            | [WARNING! Legs Weaken First: 3 Exercises Every Senior Must Do](https://youtu.be/4qllKrMIvmQ?si=9zBiBlQ4Yrn4glxv) |
+| (X)  | Video  | 0:23:25 |  1   | Dr Sten Ekberg            | [What is HIIT Training? Why HIlT Works? Fast Weight Loss With High Intensity Int...](https://youtu.be/EOlgg1Ud-UM?si=yPTJ4UmLGp_kAiMr) |
+| (X)  | Video  | 0:28:33 |  1   | Dr Sten Ekberg            | [WARNING! Your Legs WEAKEN First! Eat These 10 Foods To Strengthen Them!](https://youtu.be/_6-IUD6QPyI?si=jHfddTDpk5W43eb1) |
+| (X)  | Video  | 0:30:32 |  1   | Dr Sten Ekberg            | [WARNING! Your Legs WEAKEN First! Do These 10 EXERCISES To Strengthen Them!](https://youtu.be/yoJwmqS_0-8?si=GQzNQ3mxE88kJpAB) |
+| (X)  | Video  | 0:39:38 |  1   | Dr Ford Brewer            | [#1 Best Way to Stop Leg Cramps At Night (for 50+ (ft. Dr. Vega)](https://www.youtube.com/live/BFmdSGRZf5E?si=Z-EYfVYIeFnpOjQr) |
+| (X)  | Video  | 0:42:25 |  1   | Dr Ford Brewer            | [3 TIMES More Likely to Die If You Fail This Test (No One Talks About It)](https://youtu.be/mbhqBdw4V_4?si=S6yhxFEgbEW3P6j9) |
+| (X)  | Video  | 0:59:26 |  1   | Dr Ford Brewer            | [Over 60? 5 Exercises Youll Regret Ignoring…](https://www.youtube.com/live/OQz7_DNtXHA?si=HfD8P3WVT8CBAPdo) |
+| (X)  | Video  | 1:05:13 |  1   | Dr Ford Brewer            | [OVER 60? Top 3 Exercises You Need to Stay Strong and Steady](https://www.youtube.com/watch?v=nWR_OdC1liY) |
+| (X)  | Video  | 1:07:30 |  1   | Dr Shawn Baker            | [How Do We Really Fuel Athletic Performance? | Professor Noakes](https://youtu.be/3cuXNPwzMqE?si=1ZpegmKxf5XGqjZI) |
+| (X)  | Video  | 1:24:39 |  1   | Dave Asprey               | [The Japanese Walking Hack That REPLACES 10,000 Steps a Day](https://youtu.be/90tlaYua-HU?si=UqdiUGy6eO6XkNfs) |
 
+
+Is Diabetic Neuropathy Reversible?   [ ![img](Experts_supporting_Keto_n_Carnivore.assets/yt_favicon_ringo2.png)[• Is Diabetic Neuropathy Reversible (part 1)... ](https://www.youtube.com/watch?v=ks-WJD3WOjs)
+The Miracle Molecule:  [ ![img](https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png) • Miracle Molecule for Nerve Repair - The Ne... ](https://www.youtube.com/watch?v=Tyf3rSVkP6s)
+Vital Nutrients for Nerve Repair:  [ ![img](https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png) • Vital Nutrients for Nerve Repair & Neurop... ](https://www.youtube.com/watch?v=wPruq49-ksU)
+B6:  Helpful? Or Harmful?:  [ ![img](https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png) • B6: Helpful or Harmful for Peripheral Neur... ](https://www.youtube.com/watch?v=KIM_J93ycvA)
+Amazing Benefits of Benfotiamine: [ ![img](https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png) • The Amazing Benefits Of Benfotiamine - The... ](https://www.youtube.com/watch?v=sJvwUeKd6Xw) 
 
 ◆ [==Contents==](#toc) ◆ [==Categories==](#Categories) ◆ [==Articles==](#Articles) ◆ [==Books==](#Books) ◆ [==Videos==](#Videos) ◆ [==Who's Who==](#Who's who) ◆
 
@@ -590,7 +647,7 @@ This section contains references to scientific articles on the topics.
 
 --------------------------------------------------------------------------------
 
-# Personality Details
+# Biographies
 
 <h2>[alphabetical]</h2>
 
